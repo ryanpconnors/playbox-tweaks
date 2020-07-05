@@ -34,10 +34,6 @@
  wget https://raw.githubusercontent.com/ryanpconnors/playbox-tweaks/master/gamepads/8Bitdo%20N64%20GamePad.cfg -P /opt/retropie/configs/all/retroarch-joypads/
  ```
 
-- Opening loading screen videos directory: `~/RetroPie/splashscreens`
-
-- Screensaver slideshow images directory: `~/.emulationstation/slideshow/image`
-
 - Update the AdvanceMAME configs from https://github.com/ryanpconnors/playbox-tweaks/tree/master/arcade/ for 8BitDo SN30 Pro
   ```
   mkdir ~/PlayBox-Tweaks && git clone https://github.com/ryanpconnors/playbox-tweaks.git ~/PlayBox-Tweaks/
@@ -52,8 +48,12 @@
   find ~/SplashScreens -depth -name "*.png" -exec sh -c 'mv "$1" "${1%.png}.jpg"' _ {} \;
   cp -v -r ~/SplashScreens/* /opt/retropie/configs/
   ```
+- Opening loading screen videos directory: `~/RetroPie/splashscreens`
+
+- Screensaver slideshow images directory: `~/.emulationstation/slideshow/image`
 
 - Setup USB Roms
+  - Doing my own custom setup here after looking at https://discordapp.com/channels/423557415271661569/700046889046900856/728664433534042132. A couple of questions remain for me as far as the editing of the `gamelist.xml` files, and the decision to create `addonusb`, `combined_drives` directories as opposed to just mounting the USB drive at `~/RetroPie`
   - Following most of the directions here: https://retropie.org.uk/docs/Running-ROMs-from-a-USB-drive/
   - Run `df` to confirm the USB drive file system. This is usually going to be `/dev/sda1`
   - Run `ls -l /dev/disk/by-uuid/` to get the drive's UUID. ex. `7CEC-1114`

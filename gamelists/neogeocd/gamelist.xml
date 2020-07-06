@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Neo-Geo CD</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Super Sidekicks 3 - The Next Glory (World).chd</path>
+		<name>Tokuten Ou 2 - Eikou he no Chousen -</name>
+		<desc>Loaded with world class excitement! Features 6 competition modes like World Cup for 64 worldwide teams. Utilizes Digitized Trace Animation and 3D camera angled shots for a realistic on-the-fly action graphic explosion. With 8 different playing modes including options such as Speed and Stamina, you can mix and match 512 different team configurations. Accidents hinder or enhance a team's ability within head-to-head gameplay for the ultimate super-real soccer experience!</desc>
+		<image>./mixart/Super Sidekicks 3 - The Next Glory (World).png</image>
+		<video>./snap/Super Sidekicks 3 - The Next Glory (World).mp4</video>
+		<marquee>./wheel/Super Sidekicks 3 - The Next Glory (World).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950623T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Soccer-Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./king of fighters '96, the (1996)(snk)(jp-us)[!][ngcd-214 mt a01, ngcd-214e].chd</path>
+		<name>The King of Fighters '96</name>
+		<desc>"Violent fighting to come again!"  SNK's flagship series returns for another year. Many of the changes in this year's KOF release come in the form of improved graphics, sound effects, music and totally redone character sprites. The gameplay of the system has been altered with the addition of "Rush" multi-hit combos and new moves for practically every character. The storyline of the series receives heavy focus in this release with the Orochi Saga swinging into high-gear.  The King of Fighters '96 has 27 regular characters plus 2 boss characters (who can be unlocked with the use of a code). Newcomers to the tournament include Mr. Big from the Art of Fighting series, the bosses from Fatal Fury (Wolfgang Krauser and Geese Howard), and completely original characters like Leona Heidern, Mature and Vice. Other features carried over from the previous year include the ability to choose between the default "Team Fighting" mode or the traditional "Single Fighter" style of gameplay, plus the "Versus" and "Survival" gameplay modes.</desc>
+		<image>./mixart/king of fighters '96, the (1996)(snk)(jp-us)[!][ngcd-214 mt a01, ngcd-214e].png</image>
+		<video>./snap/king of fighters '96, the (1996)(snk)(jp-us)[!][ngcd-214 mt a01, ngcd-214e].mp4</video>
+		<marquee>./wheel/king of fighters '96, the (1996)(snk)(jp-us)[!][ngcd-214 mt a01, ngcd-214e].png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19961025T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action-Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./street hoop (1995)(data east)(jp-us)[!][dunk dream].chd</path>
+		<name>Dunk Dream</name>
+		<desc>Street Hoop is a 3-on-3 street basketball game. One or two players can choose among 10 teams: France, Spain, U.S.A., Italy, Germany, Taiwan, United Kingdom, China, Japan and South Korea (in the European and Japanese versions. The U.S.A. version features local cities). The teams are rated in 1 to 9 points on four attributes (dunk, 3 point, speed and defense). Each game lasts two halves of 2 minutes each. The game ends if the player loses the first half, needing to spend a continue to play the second half.</desc>
+		<image>./mixart/street hoop (1995)(data east)(jp-us)[!][dunk dream].png</image>
+		<video>./snap/street hoop (1995)(data east)(jp-us)[!][dunk dream].mp4</video>
+		<marquee>./wheel/street hoop (1995)(data east)(jp-us)[!][dunk dream].png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950120T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tengai Makyou Shinden - Far East of Eden (1995)(Hudson - SNK)(JP)(en-ja).chd</path>
+		<name>Far East Of Eden - Kabuki Klash</name>
+		<desc>"Kabuki Klash" is a 2D fighting game that features characters from the famous Japanese role-playing series  Tengai Makyou, also known as Far East of Eden. The heroes of the three first Tengai Makyou games must participate in a tournament and find out who is the most skillful fighter in the magical land of Jipang (which is very similar to the medieval Japan). The characters include well-known Far East of Eden heroes such as Ziria, Manjimaru, Kabuki, Orochimaru, and others - a total of eight playable characters. During the fights, you can either punch, kick, or use special attacks, that require a precise usage of buttons and also deplete your magic gauge. There are random items (such as healing potions) thrown on the battle field while you are fighting, which you can pick up.</desc>
+		<image>./mixart/Tengai Makyou Shinden - Far East of Eden (1995)(Hudson - SNK)(JP)(en-ja).png</image>
+		<video>./snap/Tengai Makyou Shinden - Far East of Eden (1995)(Hudson - SNK)(JP)(en-ja).mp4</video>
+		<marquee>./wheel/Tengai Makyou Shinden - Far East of Eden (1995)(Hudson - SNK)(JP)(en-ja).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19951124T000000</releasedate>
+		<developer>Red Company Corporation</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action-Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./football frenzy (1994)(snk)(jp-us)[!].chd</path>
+		<name>Football Frenzy</name>
+		<desc>A football simulation combining complex strategies and intense physical play. The purpose is to score points by carrying the oval ball to the opposing team's goal area at the end of the field. To move forward, the player can carry the ball by slaloming between the defenders or throw it to a teammate.</desc>
+		<image>./mixart/football frenzy (1994)(snk)(jp-us)[!].png</image>
+		<video>./snap/football frenzy (1994)(snk)(jp-us)[!].mp4</video>
+		<marquee>./wheel/football frenzy (1994)(snk)(jp-us)[!].png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940909T000000</releasedate>
+		<publisher>SNK</publisher>
+		<genre>Sports / Football-Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Crossed Swords II (1995)(ADK - SNK)(JP)(en-ja).chd</path>
+		<name>Crossed Swords II</name>
+		<desc>Crossed Swords II is a "Hack 'n Slash" action game released in 1995 by ADK exclusively for the Neo Geo CD. It is the sequel to 1991's Crossed Swords.     Crossed Swords II features the same gameplay from its predecessor (Crossed Swords on Neo Geo MVS and AES). The player is given a first-person view with a third-person silhouette/wire-frame view of the character similar to the Punch-Out!! arcade game. New to this sequel is the addition of a new button for jumping and dashing, giving the player more maneuverability and allowing him to dodge incoming attacks. By pressing the attack button after dashing the player will make a horizontal slash which stuns enemies briefly, and by pressing the attack button after jumping the player will make a powerful downward slash.    The player can now choose between three characters: the Knight, who is powerful but slow, the Dancer, who is fast but weak, and the Ninja, who has balanced stats. After choosing the character, the player must choose between two game modes: "Nausizz Counterattack" is the main story mode, while "Karividu Arena" is a survival mode where the player fights various enemies consecutively.     The Story: Decades have passed since the messenger of darkness Nausizz was defeated and peace restored to the kingdom of Belkana. This peace wouldn't last forever, though, as Nausizz's demonic castle has arisen from the depths of hell and his hordes of demons once again threaten the peaceful kingdom with chaos and destruction. Three brave warriors then join together to put and end to Nausizz's reign of terror.</desc>
+		<image>./mixart/Crossed Swords II (1995)(ADK - SNK)(JP)(en-ja).png</image>
+		<video>./snap/Crossed Swords II (1995)(ADK - SNK)(JP)(en-ja).mp4</video>
+		<marquee>./wheel/Crossed Swords II (1995)(ADK - SNK)(JP)(en-ja).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950502T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].chd</path>
+		<name>Ironclad</name>
+		<desc>Ironclad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
+		<image>./mixart/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</image>
+		<video>./snap/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].mp4</video>
+		<marquee>./wheel/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960920T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Voltage Fighter Gowcaizer (World).chd</path>
+		<name>Choujin Gakuen Gowcaizer</name>
+		<desc>In 1999 a massive earthquake levels Tokyo, killing nearly all the population and forcing the government to move its capital onto a man-made island off of the coast of Japan where for years they lived in peace. However, in the year 2017 violence begins to erupt between citizens coincidentally enough when a new principal arrives at the National Belnar Institute, the largest university on the island. Around this time a student also arrives by the name of Isato Kaiza, who is secretly the hero of the game Gowcaizer. He arrives with a stone that can manifest energy that allows him to transform. With this stone, he must discover the source of the evil and bring peace back to Japan.  The main gameplay aspect is a 2D fighting game in which SNK is mostly know for.  The player can choose from 10 different characters each with their own unique moves and abilities.  One feature that this game has over other games in the genre is the ability to add a defeated foes special abilities to their own repertoire, however they can only do one move at a time and if they choose to change a move, the previous one is lost for the rest of the game.  Additionally, when the player defeats their mirror image their move will be amplified.  The player will face each opponent twice in a tournament style before reach the final boss at the end of the game.</desc>
+		<image>./mixart/Voltage Fighter Gowcaizer (World).png</image>
+		<video>./snap/Voltage Fighter Gowcaizer (World).mp4</video>
+		<marquee>./wheel/Voltage Fighter Gowcaizer (World).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19951124T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Action-Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./baseball stars 2 (1994)(snk)(jp-us)[!].chd</path>
+		<name>Baseball Stars 2</name>
+		<desc>This follow up to Baseball Stars Professional features a fast-paced arcade style baseball with six fictitious teams, each with their own strengths and weaknesses.  There are two difficulties of play: Beginner, which automatically fields the ball for the player while Exciting has the player do the field manually.  Additionally, there are two main modes of play where in the single player mode the player will compete in a fifteen-team tournament or go head-to-head against a friend in a multiplayer mode.  The standard rules of baseball still apply, but it adds power-ups that the player can pick up and use during the game, such as the ability for their pitcher to throw faster or their batter to hit better.  They can also substitute a player during the game, but are limited to three substitutions per game. The game is shown through 2D graphics with comic-style cutscenes to illustrate the action, such as dramatic catches and home runs that will pop-up during the game.</desc>
+		<image>./mixart/baseball stars 2 (1994)(snk)(jp-us)[!].png</image>
+		<video>./snap/baseball stars 2 (1994)(snk)(jp-us)[!].mp4</video>
+		<marquee>./wheel/baseball stars 2 (1994)(snk)(jp-us)[!].png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./neo turf masters (1996)(snk)(jp)[!][big tournament golf].chd</path>
+		<name>Neo Turf Masters</name>
+		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
+		<image>./mixart/neo turf masters (1996)(snk)(jp)[!][big tournament golf].png</image>
+		<video>./snap/neo turf masters (1996)(snk)(jp)[!][big tournament golf].mp4</video>
+		<marquee>./wheel/neo turf masters (1996)(snk)(jp)[!][big tournament golf].png</marquee>
+		<rating>1</rating>
+		<releasedate>19960530T000000</releasedate>
+		<developer>Nazca</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Golf-Sports</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

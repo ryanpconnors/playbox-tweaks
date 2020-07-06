@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Atomiswave</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="37434" source="ScreenScraper.fr">
+		<path>./Faster Than Speed.lst</path>
+		<name>FASTER THAN SPEED</name>
+		<desc>ENTER THE EXCITING STREET-RACING WORLD OF FASTER THAN SPEED WHERE THE WINNER RULES AND THE LOSER WALKS! HIT THE STREET WITH THE MOST ADDICTIVE DRIVING EXPERIENCE OF YOUR LIFE! PICK FROM 8 CUSTOMIZED RIDES. FASTER THAN SPEED WILL TAKE YOUR PLAYERS INTO THE EXOTIC, DIM-LIT, BACK STREETS OF OVER 6 TRACKS CHALLENGING THE QUICKEST, THE FASTEST, THE BADDEST, AND THE MOST STOCKED RACER CONQUERS THE ASPHALT! TO TAKE DOWN YOUR CHALLENGER, YOU NEED TO BURN THE STREET WITH A VARIETY OF HIGH-SPEED TRICKS.</desc>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>Sammy</publisher>
+		<genre>CORRIDA, PILOTAGEM-CORRIDA EM 1ª PESSOA</genre>
+		<players>1</players>
+		<hash />
+		<image>./media/images/Faster Than Speed.png</image>
+	</game>
+	<game id="37435" source="ScreenScraper.fr">
+		<path>./Guilty Gear Isuka.lst</path>
+		<name>GUILTY GEAR ISUKA</name>
+		<desc>GUILTY GEAR ISUKA INTRODUCES NEW CHARACTERS, NEW ARENAS, AND SEVERAL NEW FRANCHISE FIRSTS. NOW, FOUR PLAYERS CAN BRAWL IN TWO-ON-TWO FIGHTING OR COOPERATIVELY AGAINST THE COMPUTER AI. A NEW MODE LETS YOU CUSTOMIZE YOUR OWN CHARACTER'S APPEARANCE, MOVES, AND COMBOS WITH POINTS EARNED DURING MATCHES. GUILTY GEAR ISUKA ALSO FEATURES THREE NEW CHARACTERS, ALL-NEW ARENAS, AND A SIDE-SCROLLING ACTION GAME MODE. PROVE THAT YOU'RE SKILLED ENOUGH TO WIN THE TOURNAMENT, AND SAVE HUMANS FROM THE GEAR THREAT.</desc>
+		<rating>0.85</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy/ARC System Works</developer>
+		<publisher>Sammy/ARC System Works</publisher>
+		<genre>LUTA-LUTA / VERSUS</genre>
+		<players>1-4</players>
+		<hash />
+		<image>./media/images/Guilty Gear Isuka.png</image>
+	</game>
+	<game id="37441" source="ScreenScraper.fr">
+		<path>./Metal Slug 6 (Blood).lst</path>
+		<name>METAL SLUG 6 </name>
+		<desc>METAL SLUG 6 RETURNS TO THE REBEL-MARTIAN ALLIANCE FEATURED IN METAL SLUGS 2, X, AND 3, BUT ON A MUCH BROADER SCALE. RATHER THAN REPEATING THE PREVIOUS GAMES' EVENTS OF THE MARTIANS BREAKING THE ALLIANCE AND THE REBELS ASSISTING THE PLAYER IN TURN, THE PLAYER NOW TEAMS UP WITH THE REBELS AND MARTIANS TO COMBAT AN EVEN GREATER THREAT.
+
+METAL SLUG 6 INTRODUCES A NEW PLAY MECHANIC DUBBED THE 'WEAPON STOCK SYSTEM'. TWO GUN POWER-UPS CAN NOW BE CARRIED AT THE SAME TIME. PLAYERS CAN SWITCH BETWEEN THE TWO WEAPONS, OR SIMPLY PUT THEM BOTH AWAY IN FAVOR OF THE DEFAULT WEAPON. WHEN OBTAINING A NEW WEAPON POWER-UP, IT WILL AUTOMATICALLY OCCUPY THE INACTIVE SLOT, OR, IF BOTH ARE HOLSTERED, REPLACE THE LESS RECENT WEAPON OF THE TWO.
+THE SCORE IS NOW MULTIPLIED BY POWERS OF 2. THE FASTER THE SPEED AT WHICH ENEMIES ARE KILLED, THE HIGHER THE POWER, AS A METER AT THE BOTTOM OF THE SCREEN SHOWS. WHEN IT SAYS "MAX" ENEMIES AND DESTRUCTIBLE OBJECTS WILL DROP COINS FOR AN EXTRA HIGH SCORE.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>PLATAFORMA</genre>
+		<players>2</players>
+		<hash />
+		<image>./media/images/Metal Slug 6.png</image>
+	</game>
+	<game id="37441" source="ScreenScraper.fr">
+		<path>./Metal Slug 6.lst</path>
+		<name>METAL SLUG 6</name>
+		<desc>METAL SLUG 6 RETURNS TO THE REBEL-MARTIAN ALLIANCE FEATURED IN METAL SLUGS 2, X, AND 3, BUT ON A MUCH BROADER SCALE. RATHER THAN REPEATING THE PREVIOUS GAMES' EVENTS OF THE MARTIANS BREAKING THE ALLIANCE AND THE REBELS ASSISTING THE PLAYER IN TURN, THE PLAYER NOW TEAMS UP WITH THE REBELS AND MARTIANS TO COMBAT AN EVEN GREATER THREAT.
+
+METAL SLUG 6 INTRODUCES A NEW PLAY MECHANIC DUBBED THE 'WEAPON STOCK SYSTEM'. TWO GUN POWER-UPS CAN NOW BE CARRIED AT THE SAME TIME. PLAYERS CAN SWITCH BETWEEN THE TWO WEAPONS, OR SIMPLY PUT THEM BOTH AWAY IN FAVOR OF THE DEFAULT WEAPON. WHEN OBTAINING A NEW WEAPON POWER-UP, IT WILL AUTOMATICALLY OCCUPY THE INACTIVE SLOT, OR, IF BOTH ARE HOLSTERED, REPLACE THE LESS RECENT WEAPON OF THE TWO.
+THE SCORE IS NOW MULTIPLIED BY POWERS OF 2. THE FASTER THE SPEED AT WHICH ENEMIES ARE KILLED, THE HIGHER THE POWER, AS A METER AT THE BOTTOM OF THE SCREEN SHOWS. WHEN IT SAYS "MAX" ENEMIES AND DESTRUCTIBLE OBJECTS WILL DROP COINS FOR AN EXTRA HIGH SCORE.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>PLATAFORMA</genre>
+		<players>2</players>
+		<hash />
+		<image>./media/images/Metal Slug 6.png</image>
+	</game>
+	<game id="37446" source="ScreenScraper.fr">
+		<path>./Salary Man Kintaro.lst</path>
+		<name>SALARY MAN KINTARO</name>
+		<desc>SALARY MAN KINTARO EST UN JEU D'AVENTURE SORTI EN 2004 DANS LES SALLES D'ARCADE.
+</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Sammy</developer>
+		<publisher>Sammy</publisher>
+		<genre>PLATAFORMA</genre>
+		<players>1-2</players>
+		<hash />
+		<image>./media/images/Salary Man Kintaro.png</image>
+	</game>
+	<game id="37447" source="ScreenScraper.fr">
+		<path>./Samurai Shodown VI.lst</path>
+		<name>SAMURAI SHODOWN VI</name>
+		<desc>AMONG OTHER SERIES CHANGES, AERIAL BLOCKING WAS REMOVED ENTIRELY, AND THE SWITCH-AROUND MOVE, WHICH ENABLED A PLAYER TO SHIFT QUICKLY BEHIND THE OTHER'S BACK, AS WELL AS THE DODGE (EVADE, SIDE-STEP), IN WHICH THE MOVE VIRTUALLY BRINGS A SEMI-3D ENVIRONMENT TO THE DEFENSE IN ATTEMPT TO USE EACH SWORD MORE EFFECTIVELY.
+
+ONE CAN NO LONGER CHARGE ONE'S OWN "POW" GAUGE. THE OFF-SCREEN DELIVERY MAN WAS OMITTED ENTIRELY FROM THE GAME. THE "CD COMBO" WAS ADDED, WHEREIN A PLAYER CAN PRESS THE C AND D BUTTONS TOGETHER, TRIGGERING A STRIKE THAT CAN BE FOLLOWED UP BY A SEQUENCE OF BUTTON TAPS.
+
+SNK ALSO ADDED A "SUICIDE" MOVE, WHEREIN ONE'S CHARACTER FORFEITS THE ROUND. THE BONUS TO THIS IS THAT THE ONE COMMITTING SUICIDE WILL START THE NEXT ROUND WITH A FULL "POW" GAUGE. CERTAIN FINISHES ALSO ENABLE A "FATALITY" MOVE IN THE VEIN OF MORTAL KOMBAT.</desc>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sammy/SNK Playmore</developer>
+		<publisher>Sammy/SNK Playmore</publisher>
+		<genre>LUTA-LUTA / VERSUS</genre>
+		<players>1-2</players>
+		<hash />
+		<image>./media/images/Samurai Shodown VI.png</image>
+	</game>
+	<game>
+		<path>./Neo-geo Battle Coliseum.lst</path>
+		<name>NEO-GEO BATTLE COLISEUM</name>
+		<desc>NEOGEO SPECIAL CAST UNLEASHES THE TAG-TEAM VERSUS FIGHTER NEOGEO BATTLE COLISEUM. IN ADDITION TO ORIGINAL HEROES AND HEROINES, IT FEATURES A HOST OF UNIQUE CHARACTERS THAT TRANSCEND TIME. ARMED WITH WEAPONS AND ROBOTS, WARRIORS FROM BOTH OLD AND NEW TITLES OF THE ONCE DOMINANT NEOGEO PLATFORM HAVE BEEN AMASSED UNDER ONE ROOF IN THIS NEW XBOX LIVE ARCADE VERSION, FEATURING BOTH CHARACTER AND BACKGROUND GRAPHICS REDONE IN HIGH DEFINITION.</desc>
+		<image>./media/images/Neo-geo Battle Coliseum.png</image>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>Sammy</publisher>
+		<genre>LUTA</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Animal Basket.lst</path>
+		<name>ANIMAL BASKET</name>
+		<desc>"TAMAIRE" IS A GAME TRADITIONALLY PLAYED BY JAPANESE ELEMENTARY SCHOOL CHILDREN AT SPORT FESTIVALS. IT TAKES ABOUT 200 STUFFED BALLS, 2 BASKETS AND 2 POLES TO HOLD THE BASKETS. ANY NUMBER OF CHILDREN CAN PARTICIPATE. THIS IS THE VIDEOGAME VERSION OF THIS JAPANESE GAME !</desc>
+		<image>./media/images/Animal Basket.png</image>
+		<rating>0.7</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sammy/Moss</developer>
+		<publisher>Sammy/Moss</publisher>
+		<genre>ESPORTE-ESPORTE / BASQUETE</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Dirty Pigskin Football.lst</path>
+		<name>DIRTY PIGSKIN FOOTBALL</name>
+		<desc>THIS IS FOOTBALL WITH A TWIST. RATHER THAN REGULARLY SUITED UP FOOTBALL PLAYERS EACH WITH THEIR OWN SET OF MORALS, WE HAVE GOT A COMPLETELY UNIQUE CAST OF PLAYERS WHO DON'T KNOW THE MEANING OF THE WORD. ONE OF THE FEATURED TEAMS IS: THE PRISONERS, IN THEIR TRADITIONAL ORANGE JAIL OVERALLS. THEN WE HAVE: THE HITMAN GROUP, A GROUP OF ASSASSINSALL DRESSED IN BLACK SUITS AND DARK GLASSES, PLEASANT RIGHT? THESE MEN ARE ALL JUST URGING TO GET THEIR HANDS DIRTY. IN TOTAL THERE ARE 12 TEAMS IN THIS GAME, VARIOUS VENUES TO PLAY AT, AND THE GAME ALSO FEATURES A COOL 4-PLAYER SIMULTANEOUS PLAY MODE. WITH A PLAY SYSTEM THAT IS EASY TO USE, PIGSKIN WELCOMES ALL LEVEL OF PLAYER TO JOIN IN THE ACTION.</desc>
+		<image>./media/images/Dirty Pigskin Football.png</image>
+		<rating>0.7</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>Sammy</publisher>
+		<genre>ESPORTE-ESPORTE / FUTEBOL AMERICANO</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Maximum Speed.lst</path>
+		<name>MAXIMUM SPEED</name>
+		<desc>MAXIMUM SPEED IS A DRIVING GAME WHICH INCLUDES A SINGLE PLAYER MODE, AND A 2 PLAYER HEAD TO HEAD MODE.
+
+MAXIMUM SPEED FEATURES 6 DIFFERENT COURSES, AND ALLOWS PLAYERS TO SELECT EITHER AUTOMATIC OR MANUAL TRANSMISSION. THERE ARE 3 DIFFERENT DIFFICULTY LEVELS AVAILABLE TO THE PLAYER, WHICH ENSURES THAT MAXIMUM SPEED REMAINS ENJOYABLE AND APPEALING TO A VARIETY OF PLAYERS.
+
+PLAYERS CAN ALSO CHOOSE FROM 3 DISTINCTLY DIFFERENT RACING STYLES: STOCK CAR, OPEN WHEEL CART OR PICKUP TRUCK. MAXIMUM SPEED ALSO FEATURES GREAT 3D ACTION GRAPHICS AND STEERING WHEEL FEEDBACK, WHICH BOTH ADD A DEGREE OF REALISM OF THE GAME.</desc>
+		<image>./media/images/Maximum Speed.png</image>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>Sammy</publisher>
+		<genre>CORRIDA EM 1ª PESSOA-CORRIDA, PILOTAGEM</genre>
+	</game>
+	<game>
+		<path>./SEGA Bass Fishing Challenge.lst</path>
+		<name>SEGA BASS FISHING CHALLENGE</name>
+		<desc>SEGA BASS FISHING CHALLENGE IS A 1-PLAYER ONLY FISHING GAME.</desc>
+		<image>./media/images/SEGA Bass Fishing Challenge.png</image>
+		<rating>0.7</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>ESPORTE-PESCA-CAÇA E PESCA</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./SEGA Clay Challenge.lst</path>
+		<name>SEGA CLAY CHALLENGE</name>
+		<desc>SEGA CLAY CHALLENGE (C) 2009 SEGA AMUSEMENTS, INC.  - SOURCES -  GAME'S ROM.</desc>
+		<image>./media/images/SEGA Clay Challenge.png</image>
+		<rating>0.75</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>TIRO-TIRO COM ACESSÓRIOS</genre>
+		<players>1-6</players>
+	</game>
+	<game>
+		<path>./Sports Shooting USA.lst</path>
+		<name>SPORTS SHOOTING USA</name>
+		<desc>A COMPETITIVE 1 TO 2 PLAYER SHOOTING GAME WHERE PLAYERS, USING OPTICAL GUNS, MUST SHOOT A NUMBER OF REQUIRED ON-SCREEN TARGETS WITHIN A CERTAIN TIME LIMIT TO QUALIFY AND PROCEED TO NEXT ROUND.</desc>
+		<image>./media/images/Sports Shooting USA.png</image>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>Sammy</publisher>
+		<genre>TIRO-TIRO COM ACESSÓRIOS</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Sushi Bar.lst</path>
+		<name>SUSHI BAR</name>
+		<desc>SUSHI SIMULATION GAME.</desc>
+		<image>./media/images/Sushi Bar.png</image>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knights of Valour - The Seven Spirits.lst</path>
+		<name>KNIGHTS OF VALOUR - THE SEVEN SPIRITS</name>
+		<desc>KNIGHTS OF VALOUR IS A SIDE-SCROLLING BEAT 'EM UP ACTION ARCADE GAME RELEASED BY INTERNATIONAL GAMES SYSTEM IN 1999. THE PLOT IS LOOSELY ADAPTED FROM THE CHINESE HISTORICAL NOVEL ROMANCE OF THE THREE KINGDOMS AND FEATURES THE FIVE TIGER GENERALS, ZHUGE LIANG, DIAOCHAN AND OTHERS AS PLAYABLE CHARACTERS. THE GAMEPLAY INVOLVES THE USE OF MAGICAL POWERS THAT ARE NOT FEATURED IN OTHER GAMES ALSO BASED ON THE NOVEL.</desc>
+		<image>./media/images/Knights of Valour - The Seven Spirits.png</image>
+		<video>./media/snap/KOV.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy/IGS</developer>
+		<publisher>Sammy/IGS</publisher>
+		<genre>BRIGA DE RUA-LUTA / 2.5D-LUTA</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./The Rumble Fish 2.lst</path>
+		<name>THE RUMBLE FISH 2</name>
+		<desc>O RUMBLE FISH 2 USA TODOS OS ELEMENTOS DO PRIMEIRO JOGO E ADICIONA ALGUNS NOVOS. OS MEDIDORES DE ATAQUE E DEFESA FORAM DIVIDIDOS EM TRÊS SEÇÕES CADA, PERMITINDO MAIS USO DE ARTES OFENSIVAS E DEFENSIVAS, BEM COMO TÉCNICAS LIGADAS A CADA MEDIDOR. UMA ADIÇÃO AO GAME É O BOOST DIVE, QUE COLOCA CADA PERSONAGEM EM UM ESTADO ENERGIZADO DE ACORDO COM SEU ESTILO DE LUTA. A MAIORIA DOS PERSONAGENS TEVE MODIFICAÇÕES EM SEUS MOVELISTS DE ALGUMA FORMA, COMO NOVOS MOVIMENTOS E NOVOS COMANDOS PARA MOVIMENTOS ANTIGOS.</desc>
+		<image>./media/images/The Rumble Fish 2.png</image>
+		<video>./media/snap/The Rumble Fish 2.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy/Dimps</developer>
+		<publisher>Sammy/Dimps</publisher>
+		<genre>LUTA-LUTA / VERSUS</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Guilty Gear X Ver. 1.5.lst</path>
+		<name>GUILTY GEAR X VER. 1.5</name>
+		<desc>TAKING PLACE A FEW WEEKS AFTER THE FIRST GAME. A NEW COMMANDER GEAR WAS DISCOVERED BY THE NAME DIZZY. WORRIED THAT A SECOND WAR WOULD START, ANOTHER HOLY KNIGHTS TOURNAMENT WAS STARTED. THE PERSON WHO COULD CAPTURE AND KILL THIS GEAR WOULD BE REWARDED 500,000 WORLD DOLLARS.</desc>
+		<image>./media/images/Guilty Gear X Ver. 1.5.png</image>
+		<video>./media/snap/GGX.mp4</video>
+		<rating>0.9</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy/ARC System Works</developer>
+		<publisher>Sammy/ARC System Works</publisher>
+		<genre>LUTA-LUTA / VERSUS</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>cphd</name>
+	</game>
+	<game>
+		<path>./The King of Fighters NeoWave.lst</path>
+		<name>THE KING OF FIGHTERS NEOWAVE</name>
+		<desc>THE KING OF FIGHTERS: NEOWAVE IS A 2D 3-ON-3 FIGHTING GAME IN THE KING OF FIGHTERS SERIES, FEATURING THREE GAMEPLAY STYLES AND NEW HARDWARE.</desc>
+		<image>./media/images/The King of Fighters NeoWave.png</image>
+		<video>./media/snap/KOF Neo.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sammy/SNK Playmore</developer>
+		<publisher>Sammy/SNK Playmore</publisher>
+		<genre>LUTA / VERSUS-LUTA</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./The Rumble Fish.lst</path>
+		<name>THE RUMBLE FISH</name>
+		<desc>THE RUMBLE FISH IS A FIGHTING GAME CREATED BY DIMPS FOR THE ATOMISWAVE ARCADE PLATFORM. ITS MOST DISTINGUISHING QUALITY IS ITS GRAPHICS ENGINE, WHICH ANIMATES THE CHARACTERS' LIMBS SEPARATELY.</desc>
+		<image>./media/images/The Rumble Fish.png</image>
+		<video>./media/snap/The Rumble Fish.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy/Dimps</developer>
+		<publisher>Sammy/Dimps</publisher>
+		<genre>LUTA-LUTA / VERSUS</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./The King of Fighters XI.lst</path>
+		<name>THE KING OF FIGHTERS XI</name>
+		<desc>THE ELEVENTH GAME IN THE KOF SERIES FOLLOWING THE KING OF FIGHTERS 2003. ACCORDING TO SEGA: 'FOR OVER 10 YEARS, THE KING OF FIGHTERS SERIES HAS BEEN THE CHOICE OF GAME PLAYERS AROUND THE WORLD. THE 11TH TEAM OF FIGHTERS CONTINUES THIS TRADITION. KOF11 IS SUITED FOR ONE TO TWO PLAYERS, WITH CONTINUOUS BUY-IN. CHOOSE FROM 33 FIGHTERS, INCLUDING 4 NEW CHARACTERS. A FIFTH CONTROL BUTTON WAS ADDED TO ENHANCE YOUR SKILLS BY DELIVERING A DEVASTATING BLOW TO YOUR OPPONENT, IF HIT AT THE RIGHT TIME. A NEW SKILL GAUGE PERFORMS A VARIETY OF TAG-OFF MOVES AND NEW ATTACKS. A PLAYER CAN ALSO CUSTOM CONSTRUCT A THREE-FIGHTER TAG-TEAM BY SELECTING THREE CHOICE COMBATANTS.'</desc>
+		<image>./media/images/The King of Fighters XI.png</image>
+		<video>./media/snap/KOF11.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>LUTA / VERSUS-LUTA</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Demolish Fist.lst</path>
+		<name>DEMOLISH FIST</name>
+		<desc>DEMOLISH FIST IS A SIDE SCROLLING BEAT 'EM UP WHERE THE PLAYER CONTROLS ONE OF FOUR CHARACTERS, ENZO, LEONEER, VANESSA OR UNDEAD AS YOU BATTLE YOUR WAY THROUGH VARIOUS STAGES. THERE ARE MANY ITEMS, WHICH ARE AVAILABLE TO USE AS A WEAPONS AGAINST YOUR ENEMIES. EACH PLAYER HAS THEIR OWN ASSORTMENT OF MOVES AND SPECIALS THAT THEY CAN UNLEASH AT WILL. ALSO ALL FOUR OF THESE CHARACTERS HAVE THE ABILITY TO USE THE AWESOME 'VERTIGO' TECHNIQUE! DEMOLISH FIST IS A WELL PUT TOGETHER FIGHTING GAME THAT HAS MANY THINGS TO OFFER THE BEAT 'EM UP WORLD.</desc>
+		<image>./media/images/Demolish Fist.png</image>
+		<video>./media/snap/DFist.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy/Dimps</developer>
+		<publisher>Sammy/Dimps</publisher>
+		<genre>BRIGA DE RUA-LUTA-LUTA / VERSUS</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Dolphin Blue.lst</path>
+		<name>DOLPHIN BLUE</name>
+		<desc>SAMMY'S ATOMISWAVE ARCADE SHOOT-EM-UP IN THE VEIN OF METAL SLUG, WHERE PLAYERS RIDE DOLPHINS AND DESTROY FLEETS OF ENEMY SHIPS AND SUBMARINES.  UNFORTUNATELY, THIS ARCADE SHOOT-EM-UP WAS NEVER PORTED TO ANY HOME CONSOLE.</desc>
+		<image>./media/images/Dolphin Blue.png</image>
+		<video>./media/snap/DBlue.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>Sammy</publisher>
+		<genre>SHOOT'EM UP-PLATAFORMA-PLATAFORMA / TIRO COM ROLAGEM</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Fist of The North Star.lst</path>
+		<name>FIST OF THE NORTH STAR</name>
+		<desc>THIS WAS AN ARCADE GAME RELEASED IN 2000 BY KONAMI (ALSO KNOWN AS PUNCH MANIA: HOKUTO NO KEN)</desc>
+		<image>./media/images/Fist of The North Star.png</image>
+		<video>./media/snap/Fist of The North Star.mp4</video>
+		<marquee>./media/wheel/Fist of The North Star.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>LUTA-LUTA / VERSUS</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

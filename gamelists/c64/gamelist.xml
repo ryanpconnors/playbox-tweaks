@@ -1,0 +1,2414 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Commodore 64</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="35996" source="ScreenScraper.fr">
+		<path>./Ace_of_Aces.d64</path>
+		<name>Ace of Aces</name>
+		<desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber. Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Artech Studios</publisher>
+		<genre>Shoot'em Up-Simulation</genre>
+		<players>1</players>
+		<image>./mixart/Ace_of_Aces.png</image>
+		<marquee>./wheel/Ace_of_Aces.png</marquee>
+	</game>
+	<game id="109662" source="ScreenScraper.fr">
+		<path>./Archon.d64</path>
+		<name>Archon</name>
+		<desc>The light and the dark side (or the eternal confrontation). A magical, mediaeval field depicted as an overgrown chess board becomes apparent in front of you. Inside this mystical area there are mythical creatures as e.g. unicorns, sorceresses, golems, wizards or fire-breathing dragons. If one of those creatures moves to another field, so its life energy changes depending on the colour of the field. If two opponents meet on one square, the playing field turns into an arena.    Your characters use their fantastic abilities to fight against banshees, goblins and wizards. They use spells, missiles and fists, they throw spears and fire. They even take over the look and the characteristics of the opponent. You will need all your skill, agility and intelligence to control and lead your side.    Your magic rises and diminuishes with the light cycle of the board. The same way the light changes, so your abilities change. You need to keep an eye on the time and portion your strength effectively.    Archon is a fight made of action and strategy, which is carried out between two oppositional armed forces, that consist of myths and legends. The light and the dark side consist of the same number of individuals and their strengths are roughly equal, but they are not made up of the same troup parts. Their goals are the same: every side exists to win. Either by destroying all the opposing armed forces or by conquering the five force fields.</desc>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Free Fall Associates</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Board game</genre>
+		<players>1-2</players>
+		<image>./mixart/Archon.png</image>
+		<marquee>./wheel/Archon.png</marquee>
+		<video>./snap/Archon.mp4</video>
+	</game>
+	<game id="36527" source="ScreenScraper.fr">
+		<path>./Barbarian 2 [REM].d64</path>
+		<name>Barbarian II : The Dungeon of Drax</name>
+		<desc>Barbarian II : The Dungeon of Drax sur Commodore 64 s'éloigne un peu du jeu original puisque les combats singuliers du premier volet se transforment en succession d'affrontements contre plusieurs monstres et ennemis. Après avoir choisi entre le barbare et la princesse Marina (sauvé dans le jeu précédent), le joueur explore plusieurs donjons à la recherche du maléfique Drax.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Palace</developer>
+		<publisher>Palace</publisher>
+		<genre>Beat'em Up</genre>
+		<image>./mixart/Barbarian 2 [SCG].png</image>
+		<marquee>./wheel/Barbarian 2 [SCG].png</marquee>
+		<video>./snap/Barbarian 2 [SCG].mp4</video>
+	</game>
+	<game id="36527" source="ScreenScraper.fr">
+		<path>./Barbarian 2 [SCG].d64</path>
+		<name>Barbarian II : The Dungeon of Drax</name>
+		<desc>Barbarian II : The Dungeon of Drax sur Commodore 64 s'éloigne un peu du jeu original puisque les combats singuliers du premier volet se transforment en succession d'affrontements contre plusieurs monstres et ennemis. Après avoir choisi entre le barbare et la princesse Marina (sauvé dans le jeu précédent), le joueur explore plusieurs donjons à la recherche du maléfique Drax.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Palace</developer>
+		<publisher>Palace</publisher>
+		<genre>Beat'em Up</genre>
+		<image>./mixart/Barbarian 2 [SCG].png</image>
+		<marquee>./wheel/Barbarian 2 [SCG].png</marquee>
+		<video>./snap/Barbarian 2 [SCG].mp4</video>
+	</game>
+	<game id="36130" source="ScreenScraper.fr">
+		<path>./Barbarian.d64</path>
+		<name>Barbarian</name>
+		<desc>In this game you play the role of a barbarian who must navigate his way through dangerous dungeons. The game is played from a third person side scrolling perspective and also has platform jumping parts to it. The barbarian is controlled by using left and right on the joystick to move and up and down is used to scroll through the various commands at the bottom of the screen. When a command is highlighted pressing fire will perform that action thus saving on extra buttons being needed to play. There are two weapons at your disposal. A sword which you start the game with and later a bow which is handy for long range attacks. There are many traps to avoid and various monsters who have different attack patterns.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Beat'em Up-Action</genre>
+		<players>1</players>
+		<image>./mixart/Barbarian.png</image>
+		<marquee>./wheel/Barbarian.png</marquee>
+		<video>./snap/Barbarian.mp4</video>
+	</game>
+	<game id="36818" source="ScreenScraper.fr">
+		<path>./Beach-Head.d64</path>
+		<name>Beach Head</name>
+		<desc>The game's setting is the Pacific Theatre of World War II. Gameplay consists of several varying stages in which the player must control various vehicles including warships and tanks in order to defeat an enemy fleet, break through enemy beach defences and destroy an enormous gun-emplacement to win the game.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Access Games</developer>
+		<publisher>Access Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<image>./mixart/Beach-Head.png</image>
+		<marquee>./wheel/Beach-Head.png</marquee>
+		<video>./snap/Beach-Head.mp4</video>
+	</game>
+	<game id="109981" source="ScreenScraper.fr">
+		<path>./blazer.d64</path>
+		<name>Blazer</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Nexus Interact</publisher>
+		<image>./mixart/blazer.png</image>
+		<marquee>./wheel/blazer.png</marquee>
+	</game>
+	<game id="36279" source="ScreenScraper.fr">
+		<path>./Blue Max.d64</path>
+		<name>Blue Max</name>
+		<desc>For those who know nothing of World War I or it's heroes, this game is named after Max Chatsworth, one of Britain's Flying Aces.  Chatsworth's fame began in battle, when he was out on a reconnaissance mission, and his squadron was decimated by enemy planes.  The pilot survived, and in the process shot down seven enemy fighters.  He shot down thirteen more the next month.  For these actions, Germany offered their Blue Max medal to anyone who could shoot Chatsworth down—and Chatsworth got a new nickname—Blue Max.  As Blue Max, you go out on sorties—flying missions—attacking assigned targets.  Targets include bridges, buildings, enemy planes, tanks, bridges, anti-aircraft batteries, vehicles and ships.  You progress to new missions as you take out your targets.  You must drop bombs to take out the ground targets, and this action also represents a key danger for you.  Unlike the modern bombers that drop bombs on targets far below, early aircraft engaged in semi-suicidal bombing runs.  The pilots started at high altitude, then tipped the planes nose downward towards their ground-based target, and pulled up before they hit the ground.  In the middle of the dive and pull up process, they released the bomb.  There were problems of coordination, found in the game as well—if you time it wrong, or start too low, you will crash.  This game has aroused some controversy too, which supposedly caused it to be banned in Germany.  In the course of your missions, you end up bombing houses.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Synapse Software Corporation</developer>
+		<publisher>Synapse Software Corporation</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Blue Max.png</image>
+		<marquee>./wheel/Blue Max.png</marquee>
+		<video>./snap/Blue Max.mp4</video>
+	</game>
+	<game id="110391" source="ScreenScraper.fr">
+		<path>./Boulder Dash.d64</path>
+		<name>Bristles</name>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>First Star Software</publisher>
+		<image>./mixart/Boulder Dash.png</image>
+		<marquee>./wheel/Boulder Dash.png</marquee>
+		<video>./snap/Boulder Dash.mp4</video>
+	</game>
+	<game id="36061" source="ScreenScraper.fr">
+		<path>./Bruce Lee.d64</path>
+		<name>Bruce Lee</name>
+		<desc>The late martial arts hero features in this platform game, with the aim of reaching a wizard in an underground lair, defeat of whom can offer him untold wealth.   In each area you must collect the many strategically-placed lanterns before exiting through the newly-revealed passageway. Some rooms also have escalator-type sections to run along, and the standard (although slightly illogical in this context) ladders.   On the way, you'll fight two enemies - a ninja and a green sumo warrior named Yamo. You can defeat them by punching, kicking, dropping on their heads or luring them into hazardous terrain, or even by making them accidentally hit each other. Even after they are killed, however, they keep coming back for more after a few seconds. Since they can move pretty intelligently (they even climb ladders), you should watch out for them.   There are lots of hazards to avoid by either walking round or jumping - walls of electrical charge and exploding bushes for example.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Data Soft</developer>
+		<publisher>Data Soft</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Bruce Lee.png</image>
+		<marquee>./wheel/Bruce Lee.png</marquee>
+		<video>./snap/Bruce Lee.mp4</video>
+	</game>
+	<game id="35907" source="ScreenScraper.fr">
+		<path>./California Games [Side B_ESI].d64</path>
+		<name>California Games</name>
+		<desc>California Games was the original "Extreme Games" – what today's generation might call "X-Games in the sun".  Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX.  The surfing event is ranked by judges, which give a score to help the players improve their routine.  The Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event.</desc>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<image>./mixart/California Games [Side Load_ESI].png</image>
+		<marquee>./wheel/California Games [Side Load_ESI].png</marquee>
+		<video>./snap/California Games [Side Load_ESI].mp4</video>
+	</game>
+	<game id="35907" source="ScreenScraper.fr">
+		<path>./California Games [Side Load_ESI].d64</path>
+		<name>California Games</name>
+		<desc>California Games was the original "Extreme Games" – what today's generation might call "X-Games in the sun".  Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX.  The surfing event is ranked by judges, which give a score to help the players improve their routine.  The Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event.</desc>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<image>./mixart/California Games [Side Load_ESI].png</image>
+		<marquee>./wheel/California Games [Side Load_ESI].png</marquee>
+		<video>./snap/California Games [Side Load_ESI].mp4</video>
+	</game>
+	<game id="111978" source="ScreenScraper.fr">
+		<path>./EXILE.D64</path>
+		<name>Exile</name>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Audiogenic Software Ltd.</publisher>
+		<image>./mixart/EXILE.png</image>
+		<marquee>./wheel/EXILE.png</marquee>
+		<video>./snap/EXILE.mp4</video>
+	</game>
+	<game id="112512" source="ScreenScraper.fr">
+		<path>./G.I. Joe [Epyx] [REM].d64</path>
+		<name>G.I. Joe</name>
+		<desc>G. I. Joe: A Real American Hero is a 1985 action shoot 'em up video game.    At the beginning of the game the player selects a one player or two player game. The objective as one of the members of the G.I. Joe team is to eliminate any threats from Cobra and to capture eight Cobra operatives. The game cannot be completed if too many members of either side are placed in jail, other members are released to perpetuate the game.    Two modes of play are used: overhead vehicular combat sections, where the player controls a member of the G.I. Joe Special Forces, and one-on-one fights with Cobra operatives. In the overhead combat portion of the game, the player could select one of eight Joe team members (such as Snake Eyes), to face off in combat against one of eight Cobra agents (such as Zartan). There are different geographical locations, such as woods, desert and arctic tundra. Each character had access to a vehicle from the G.I. Joe series, such as the Dragonfly helicopter, Rattler plane, M.O.B.A.T. or H.I.S.S. tank.    The one-on-one melee battle portion of the game featured sixteen characters available for the Joe team: Duke, Scarlett, Recondo, Torpedo, Snake Eyes, Roadblock, Spirit, Zap, Gung-Ho, Snow Job, Blowtorch, Stalker, Ace, Wild Bill, Steeler, and Clutch. The Joes were pitted against eight Cobras: Destro, the Baroness, Zartan, Firefly, Cobra Commander, Storm Shadow, Major Bludd, and Scrap-Iron.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<image>./mixart/G.I. Joe [Epyx] [REM].png</image>
+		<marquee>./wheel/G.I. Joe [Epyx] [REM].png</marquee>
+		<video>./snap/G.I. Joe [Epyx] [REM].mp4</video>
+	</game>
+	<game id="36062" source="ScreenScraper.fr">
+		<path>./Impossible Mission.d64</path>
+		<name>Impossible Mission</name>
+		<desc>You play a secret agent on a quest to stop the evil Professor Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.  The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<image>./mixart/Impossible Mission.png</image>
+		<marquee>./wheel/Impossible Mission.png</marquee>
+		<video>./snap/Impossible Mission.mp4</video>
+	</game>
+	<game id="35824" source="ScreenScraper.fr">
+		<path>./Karateka [REM].d64</path>
+		<name>Karateka</name>
+		<desc>The evil Akuma has destroyed your homeland, killed many of your friends and kidnapped your Princess Mariko. Fortunately, you are skilled in Martial Arts, so your inevitable quest to reach Akuma's palace has a chance of success.  The game is viewed from the side and features a succession of increasingly-difficult opponents. All the standard karate kicks and punches are available to both you and your foes. The game's design was serious and realistic, and the game featured lots of cutscenes to develop the story.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Broderbund Software</developer>
+		<publisher>Broderbund Software</publisher>
+		<genre>Fight-Action</genre>
+		<players>1</players>
+		<image>./mixart/Karateka [REM].png</image>
+		<marquee>./wheel/Karateka [REM].png</marquee>
+		<video>./snap/Karateka [REM].mp4</video>
+	</game>
+	<game id="36521" source="ScreenScraper.fr">
+		<path>./Last Ninja 2B.D64</path>
+		<name>Last Ninja 2 : Back with a Vengeance</name>
+		<desc>Last Ninja 2 : Back with a Vengeance sur Commodore 64 est un jeu d'action dans lequel vous incarnez le seul et dernier survivant de votre clan qui a été sauvagement massacré. Vous n'avez plus qu'une seule idée en tête : la revanche. Traquez et tuez les meurtriers avec l'arsenal du parfait Shinobi : katana, nunchaku et shuriken.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Adventure</genre>
+		<image>./mixart/Last Ninja 2B.png</image>
+		<marquee>./wheel/Last Ninja 2B.png</marquee>
+		<video>./snap/Last Ninja 2B.mp4</video>
+	</game>
+	<game id="35832" source="ScreenScraper.fr">
+		<path>./Lemmings [Side A].d64</path>
+		<name>Lemmings</name>
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.  You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
+		<rating>0.55</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Psynogis</developer>
+		<publisher>Psynogis</publisher>
+		<genre>Puzzle-Game-Strategy</genre>
+		<players>1</players>
+		<image>./mixart/Lemmings [Side B].png</image>
+		<marquee>./wheel/Lemmings [Side B].png</marquee>
+	</game>
+	<game id="35832" source="ScreenScraper.fr">
+		<path>./Lemmings [Side B].d64</path>
+		<name>Lemmings</name>
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.  You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
+		<rating>0.55</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Psynogis</developer>
+		<publisher>Psynogis</publisher>
+		<genre>Puzzle-Game-Strategy</genre>
+		<players>1</players>
+		<image>./mixart/Lemmings [Side B].png</image>
+		<marquee>./wheel/Lemmings [Side B].png</marquee>
+	</game>
+	<game id="35832" source="ScreenScraper.fr">
+		<path>./Lemmings [Side C].d64</path>
+		<name>Lemmings</name>
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.  You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
+		<rating>0.55</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Psynogis</developer>
+		<publisher>Psynogis</publisher>
+		<genre>Puzzle-Game-Strategy</genre>
+		<players>1</players>
+		<image>./mixart/Lemmings [Side B].png</image>
+		<marquee>./wheel/Lemmings [Side B].png</marquee>
+	</game>
+	<game id="35850" source="ScreenScraper.fr">
+		<path>./Maniac_Mansion_(de)_(TSK)_Side_1.d64</path>
+		<name>Maniac Mansion</name>
+		<desc>The Edison mansion has always been a creepy old house on the edge of town. There have been rumors of strange experiments going on and of odd creatures living amongst the Edison family. There is even a story that a meteorite once crashed near the home nearly 20 years ago. More immediately, a girl named Sandy has gone missing from the local highschool and her boyfriend Dave swears that he saw Dr. Fred abducting her. Dave knows that he cannot do it alone and will need help from two other students if he has any hope of infiltrating the mansion and rescuing Sandy.  Players start by choosing 2 students to accompany Dave to the Edison mansion, and can then switch between these three characters at will. Most actions are carried out by selecting verbs on the screen and applying them to an object (such as "OPEN Door"). Each character maintains a separate personality and may have a different way to solve a problem from his classmates. Thus many of the puzzles can be overcome in different ways depending on the character being used. If any one of the kids are captured by the Edisons, they are thrown into the dungeon and must be rescued themselves by any character who still has their freedom.</desc>
+		<rating>0.8</rating>
+		<releasedate>19871002T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Maniac_Mansion_(de)_(TSK)_Side_1.png</image>
+		<marquee>./wheel/Maniac_Mansion_(de)_(TSK)_Side_1.png</marquee>
+		<video>./snap/Maniac_Mansion_(de)_(TSK)_Side_1.mp4</video>
+	</game>
+	<game id="35850" source="ScreenScraper.fr">
+		<path>./Maniac_Mansion_(de)_(TSK)_Side_2.d64</path>
+		<name>Maniac Mansion</name>
+		<desc>The Edison mansion has always been a creepy old house on the edge of town. There have been rumors of strange experiments going on and of odd creatures living amongst the Edison family. There is even a story that a meteorite once crashed near the home nearly 20 years ago. More immediately, a girl named Sandy has gone missing from the local highschool and her boyfriend Dave swears that he saw Dr. Fred abducting her. Dave knows that he cannot do it alone and will need help from two other students if he has any hope of infiltrating the mansion and rescuing Sandy.  Players start by choosing 2 students to accompany Dave to the Edison mansion, and can then switch between these three characters at will. Most actions are carried out by selecting verbs on the screen and applying them to an object (such as "OPEN Door"). Each character maintains a separate personality and may have a different way to solve a problem from his classmates. Thus many of the puzzles can be overcome in different ways depending on the character being used. If any one of the kids are captured by the Edisons, they are thrown into the dungeon and must be rescued themselves by any character who still has their freedom.</desc>
+		<rating>0.8</rating>
+		<releasedate>19871002T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Maniac_Mansion_(de)_(TSK)_Side_1.png</image>
+		<marquee>./wheel/Maniac_Mansion_(de)_(TSK)_Side_1.png</marquee>
+		<video>./snap/Maniac_Mansion_(de)_(TSK)_Side_1.mp4</video>
+	</game>
+	<game id="35923" source="ScreenScraper.fr">
+		<path>./Marble_Madness_(Nostalgia).d64</path>
+		<name>Marble Madness</name>
+		<desc>A port of the arcade game. The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Marble_Madness_Secret_Level_(Electro).png</image>
+		<marquee>./wheel/Marble_Madness_Secret_Level_(Electro).png</marquee>
+		<video>./snap/Marble_Madness_Secret_Level_(Electro).mp4</video>
+	</game>
+	<game id="35923" source="ScreenScraper.fr">
+		<path>./Marble_Madness_(PWX).d64</path>
+		<name>Marble Madness</name>
+		<desc>A port of the arcade game. The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Marble_Madness_Secret_Level_(Electro).png</image>
+		<marquee>./wheel/Marble_Madness_Secret_Level_(Electro).png</marquee>
+		<video>./snap/Marble_Madness_Secret_Level_(Electro).mp4</video>
+	</game>
+	<game id="35923" source="ScreenScraper.fr">
+		<path>./Marble_Madness_Secret_Level_(Electro).d64</path>
+		<name>Marble Madness</name>
+		<desc>A port of the arcade game. The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Marble_Madness_Secret_Level_(Electro).png</image>
+		<marquee>./wheel/Marble_Madness_Secret_Level_(Electro).png</marquee>
+		<video>./snap/Marble_Madness_Secret_Level_(Electro).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./mayhema.d64</path>
+		<name>mayhema</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./mayhemb.d64</path>
+		<name>mayhemb</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="115423" source="ScreenScraper.fr">
+		<path>./myth1.d64</path>
+		<name>Myth : History in the Making</name>
+		<desc>Each level is centred on a certain location, such as in Hades, an Egyptian pyramid and ancient Greece, where the player must collect a magic orb in each to finish. Each level is based around related myths and legends. The gameplay consists of running and jumping through each level, collecting objects and weapons, fighting enemies and solving puzzles. Enemies include skeletons, demons, wraiths, mummies and vikings. Weapons include a sword, gun and fireballs. Each level contains a mythical boss enemy, such as Medusa, Thor and a Hydra. Puzzles involve using the right object in the right location to progress, such as throwing skulls into a pit of fire to summon a monster, and using the right weapon against enemies, such as attacking a specific monster with tridents. The user manual gave some background information about the various myths referred to in the game and gave hints to the puzzles. C64GS CART - At black screen, type SYS 3 MYTH with the spaces in uppercase. This will begin the game!</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./mixart/myth2.png</image>
+		<marquee>./wheel/myth2.png</marquee>
+		<video>./snap/myth2.mp4</video>
+	</game>
+	<game id="116417" source="ScreenScraper.fr">
+		<path>./Oil_Imperium_dt_(Dmagic)_S1.d64</path>
+		<name>Oil Imperium</name>
+		<desc>Oil Field 17 is burning furiously and you won't be able to meet your delivery dates. Luckily you still have enough money left to open two new plants. In the meantime, your spies are looking for the incendiary... Oil Imperium shows you how tough business can be. Dirty tricks, the kind you'd normally only see on TV, are part of your everyday agenda. But besides your instincts for money and intrigue, you also require skill for the action sequences where you must search for oil, set up pipelines or try to extinguish fires.</desc>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>reLINE Software</developer>
+		<publisher>reLINE Software</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+		<image>./mixart/Oil_Imperium_dt_(Dmagic)_S1.png</image>
+		<marquee>./wheel/Oil_Imperium_dt_(Dmagic)_S1.png</marquee>
+	</game>
+	<game id="116417" source="ScreenScraper.fr">
+		<path>./Oil_Imperium_dt_(Dmagic)_S2.d64</path>
+		<name>Oil Imperium</name>
+		<desc>Oil Field 17 is burning furiously and you won't be able to meet your delivery dates. Luckily you still have enough money left to open two new plants. In the meantime, your spies are looking for the incendiary... Oil Imperium shows you how tough business can be. Dirty tricks, the kind you'd normally only see on TV, are part of your everyday agenda. But besides your instincts for money and intrigue, you also require skill for the action sequences where you must search for oil, set up pipelines or try to extinguish fires.</desc>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>reLINE Software</developer>
+		<publisher>reLINE Software</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+		<image>./mixart/Oil_Imperium_dt_(Dmagic)_S1.png</image>
+		<marquee>./wheel/Oil_Imperium_dt_(Dmagic)_S1.png</marquee>
+	</game>
+	<game id="35982" source="ScreenScraper.fr">
+		<path>./Outrun [Side B_TC].d64</path>
+		<name>Out Run - US Version</name>
+		<desc>Race across varied terrain in this conversion of one of the most famous arcade racing games. Your Ferrari is at the ready, complete with female passenger, over a series of short tracks.  Gameplay is viewed form just above and behind the car, so you can see it. The roads are full of sharp bends and hazards, contact with which can cause the car to roll and lose you time. On each section of track there is a fork in the road, allowing you to choose which direction you go in. You have to complete 5 track sections in total, out of the 15 in the game.</desc>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/Outrun [Side A_TC].png</image>
+		<marquee>./wheel/Outrun [Side A_TC].png</marquee>
+		<video>./snap/Outrun [Side A_TC].mp4</video>
+	</game>
+	<game id="35982" source="ScreenScraper.fr">
+		<path>./Outrun [Triad].d64</path>
+		<name>Out Run - US Version</name>
+		<desc>Race across varied terrain in this conversion of one of the most famous arcade racing games. Your Ferrari is at the ready, complete with female passenger, over a series of short tracks.  Gameplay is viewed form just above and behind the car, so you can see it. The roads are full of sharp bends and hazards, contact with which can cause the car to roll and lose you time. On each section of track there is a fork in the road, allowing you to choose which direction you go in. You have to complete 5 track sections in total, out of the 15 in the game.</desc>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/Outrun [Triad].png</image>
+		<marquee>./wheel/Outrun [Triad].png</marquee>
+		<video>./snap/Outrun [Side A_TC].mp4</video>
+	</game>
+	<game id="36041" source="ScreenScraper.fr">
+		<path>./Pirates [Side B].d64</path>
+		<name>Pirates!</name>
+		<desc>Take on the life of a buccaneer in the golden age of Caribbean Piracy! This game lets you choose from 6 different "ages" (for example, "The Silver Empire" from 1560-1600, "War For Profit" from 1640-1660, etc.), one of 4 nationalities (English, French, Dutch, Spanish), 4 difficulty levels, and one of 5 special abilities (skill at fencing, skill at navigation, etc.). Nine different types of ships were represented.   The goal of the game is to retire with as much gold and land as possible, as many ranks/titles as possible (Colonel, Admiral, Marquis, Duke), and a wife. Finding long lost relatives helps too. You accomplish these goals by plundering cities, capturing and sinking enemy ships, getting in good with governors to receive titles, learn news of "evil Spaniards" holding your relatives, capturing evil pirates, etc.    The game is educational, as you will learn about piracy through the thoroughly researched manual. You'll smell the sea salt as you participate in wild sword fights, desperate sea battles, and daring attacks by land!</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Pirates [Side A].png</image>
+		<marquee>./wheel/Pirates [Side A].png</marquee>
+		<video>./snap/Pirates [Side A].mp4</video>
+	</game>
+	<game id="111411" source="ScreenScraper.fr">
+		<path>./Pitfall [2703].d64</path>
+		<name>Pitfall</name>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Activision</publisher>
+		<image>./mixart/Pitfall [2703].png</image>
+	</game>
+	<game id="116173" source="ScreenScraper.fr">
+		<path>./Pitfall [Bladerunner].d64</path>
+		<name>Pitfall</name>
+		<desc>Let me introduce myself. I'm Pitfall Harry, veteran jungle explorer. Fortune hunting's my game, and yours, too, if you're daring enough to take this trip with me. Don't be nervous; I'll be your guide through the jungle, and I'm one of the best. Untold riches are waiting for us in there, but so are dangers a dozen times over. We'll be swinging on vines over bottomless tarpits. We'll be hopping across swamps, using crocodile heads like stepping stones. We'll be searching underground through dark passageways crawling with killer scorpions. So pack up your backpack and meet me at the jungle at dawn - and we'll be off to seek a king's ransom in gold, diamonds and lost treasures - in Pitfall Harry's Jungle Adventure.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./mixart/Pitfall [Bladerunner].png</image>
+		<marquee>./wheel/Pitfall [Bladerunner].png</marquee>
+		<video>./snap/Pitfall [Bladerunner].mp4</video>
+	</game>
+	<game id="111411" source="ScreenScraper.fr">
+		<path>./Pitfall [Remember].d64</path>
+		<name>Pitfall</name>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Activision</publisher>
+		<image>./mixart/Pitfall [2703].png</image>
+	</game>
+	<game id="36298" source="ScreenScraper.fr">
+		<path>./pitstop2.d64</path>
+		<name>Pitstop II</name>
+		<desc>Race Formula-1 in several tracks while trying to beat a computer opponent.  Pay attention to your fuel and tires: It will be necessary to drive into a pitstop to swap them out and refuel.</desc>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>U.S. Gold</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<image>./mixart/pitstop2.png</image>
+		<marquee>./wheel/pitstop2.png</marquee>
+		<video>./snap/pitstop2.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./PP_Hammer_+7_PRIDE.d64</path>
+		<name>PP_Hammer_+7_PRIDE</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="36696" source="ScreenScraper.fr">
+		<path>./Raid Over Moscow [REM].d64</path>
+		<name>Raid Over Moscow</name>
+		<desc>The USSR has launched a huge attack on the USA, and the only hope for the free world is for you (as leader of a US Squadron of fighters) to destroy their defense bases. This is done in a multi-stage action game with some similarities to the same developer's Beach Head. All the mini-games must be completed before the time limit on the bomb is expired.  The first thing you will see is a missile being launched; the game then takes you to your hangar, from which you must quickly launch as many ships as possible, a task made difficult by the limited gravity. You must then fly it into Soviet airspace in a side-view shoot 'em up section, in which staying low keeps you safe from radars, and quick reactions see you shoot enemy fighters and avoid trees.  The next scene takes place on a single-screen view, with five windows to shoot through, and enemies aiming at you to be avoided. You then reach the base, and must shoot out approaching enemies. Finally, you must use discs onto a wall, such that they rebound to hit maintenance robots, with the ultimate goal of causing the base to overheat, the Soviet attack to be thwarted, and the US to be saved.</desc>
+		<rating>0.85</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Access Games</developer>
+		<publisher>Access Games</publisher>
+		<genre>Action</genre>
+		<image>./mixart/Raid Over Moscow [REM].png</image>
+		<marquee>./wheel/Raid Over Moscow [REM].png</marquee>
+		<video>./snap/Raid Over Moscow [REM].mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Sams_journey_plus9_TRIAD_disk01.d64</path>
+		<name>Sams_journey_plus9_TRIAD_disk01</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Sams_journey_plus9_TRIAD_disk02.d64</path>
+		<name>Sams_journey_plus9_TRIAD_disk02</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Sams_journey_plus9_TRIAD_disk03.d64</path>
+		<name>Sams_journey_plus9_TRIAD_disk03</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Sams_journey_plus9_TRIAD_disk04.d64</path>
+		<name>Sams_journey_plus9_TRIAD_disk04</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./SF2.D64</path>
+		<name>SF2</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="36000" source="ScreenScraper.fr">
+		<path>./Shadow_of_the_Beast.d64</path>
+		<name>Shadow of the Beast</name>
+		<desc>While very young, Aarbron was kidnapped and enslaved by the Priests of the Beast Lord. He grew up on drugs made to destroy his own will and turn him into the Beast Messenger, a powerful creature serving Maletoth, The Beast Lord himself. He did his job, until one day he noticed a man about to be sacrificed in a ritual, his face triggering ancient memories... and as the sacrificial knife descended into the man's body, Aarbron recognizes the face. Of his father. As his father dies in the altar, memories of his childhood and tormented past at the hands of the Beast Lord emerged, and as feelings of hate over his captors took over him, he swore revenge and fled the temple, knowing the road to avenge his father and redemption would be hard.  Shadow of the Beast, one of Psygnosis most popular titles during the 16-bit computer era is a side-scrolling platformer best known for the use of parallax scrolling along lush graphics, a musical score  by David Whittaker, a iconic cover by Roger Dean and what many consider to be unforgiving gameplay, balancing between the "very challenging" and the "impossible". The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers than open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed, and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.</desc>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Reflections Interactive Limited</developer>
+		<publisher>Ocean</publisher>
+		<genre>Beat'em Up-Action</genre>
+		<players>1</players>
+		<image>./mixart/Shadow_of_the_Beast.png</image>
+		<marquee>./wheel/Shadow_of_the_Beast.png</marquee>
+		<video>./snap/Shadow_of_the_Beast.mp4</video>
+	</game>
+	<game id="35842" source="ScreenScraper.fr">
+		<path>./Shinobi.d64</path>
+		<name>Shinobi</name>
+		<desc>You control a ninja, Shinobi, who must battle his way through each level in search of hostages which must be rescued. You have shurikens, kicks and punches to defend yourself with. As well as the powerful ninja magic which can clear the screen of enemies in one go.  Each level is broken down into smaller scenes and hostages are guarded by big blokes who throw swords. Watch out for gun-toting enemy henchmen and ninjas.  Reaching the end of each level will find you battling it out with a boss. These range from 8ft giants to helicopter gunships.</desc>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Shinobi.png</image>
+		<marquee>./wheel/Shinobi.png</marquee>
+	</game>
+	<game id="36063" source="ScreenScraper.fr">
+		<path>./Skate_or_Die.d64</path>
+		<name>Skate or Die!</name>
+		<desc>Skate or Die incorporates five distinct styles of skating, which can be attempted individually or in turn. You skate around a menu room to choose which one to attempt. Before taking off you can visit Rodney's skate shop to buy equipment.  The first event is freestyle, in which your aim is to score as many points as possible in 10 attempts. Judges determine how much style and skill you have shown. The High Jump uses the same equipment, only this time your task is to jump as high as possible at the end of the ramp.  The downhill events are overhead-view races. In the Downhill Race you simply try to complete the course within 90 seconds. In the Downhill Jam you try to outperform a human or computer opponent whilst dodging or jumping hazards. You can use attacking moves to either remove hazards or knock your opponent over.   The pool joust is more of a one-on-one beat em up using a stick, set within a pit to skate around.</desc>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<image>./mixart/Skate_or_Die.png</image>
+		<marquee>./wheel/Skate_or_Die.png</marquee>
+		<video>./snap/Skate_or_Die.mp4</video>
+	</game>
+	<game id="36473" source="ScreenScraper.fr">
+		<path>./Ski_or_Die_(Ikari)_Side_1.d64</path>
+		<name>Ski or Die</name>
+		<desc>Ski or Die is a winter-themed extreme sports game in which the player can competes in 5 different events:  1. Downhill Blitz: Downhill skiing event in which the player can make large jumps over chasms and perform stunts in the moguls section  2. Innertube Trash: Two players descend a mountain in innertubes. Score points by picking up items, perforating your opponents tire with a knife or fork and finishing first.  2. Acro Aerials: Ski down a ramp and score points by performing acrobatic jumps.  3. Snowball Blast: First person snowball fight. Score points by taking out little that attack your snow fortress.  4. Snowboard Half-Pipe: Put on your snowboard and score as much points as possible in a limited amount of time by performing tricks inside a half-pipe.  Practice a single event or try the tournament. The tournament mode has hot-seat multiplayer support.</desc>
+		<rating>0.3</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./mixart/Ski_or_Die_(Ikari)_Side_1.png</image>
+		<marquee>./wheel/Ski_or_Die_(Ikari)_Side_1.png</marquee>
+	</game>
+	<game id="36473" source="ScreenScraper.fr">
+		<path>./Ski_or_Die_(Ikari)_Side_2.d64</path>
+		<name>Ski or Die</name>
+		<desc>Ski or Die is a winter-themed extreme sports game in which the player can competes in 5 different events:  1. Downhill Blitz: Downhill skiing event in which the player can make large jumps over chasms and perform stunts in the moguls section  2. Innertube Trash: Two players descend a mountain in innertubes. Score points by picking up items, perforating your opponents tire with a knife or fork and finishing first.  2. Acro Aerials: Ski down a ramp and score points by performing acrobatic jumps.  3. Snowball Blast: First person snowball fight. Score points by taking out little that attack your snow fortress.  4. Snowboard Half-Pipe: Put on your snowboard and score as much points as possible in a limited amount of time by performing tricks inside a half-pipe.  Practice a single event or try the tournament. The tournament mode has hot-seat multiplayer support.</desc>
+		<rating>0.3</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./mixart/Ski_or_Die_(Ikari)_Side_1.png</image>
+		<marquee>./wheel/Ski_or_Die_(Ikari)_Side_1.png</marquee>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./SOULC-1.D64</path>
+		<name>SOULC-1</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./SOULC-2.D64</path>
+		<name>SOULC-2</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./SOULC-3.D64</path>
+		<name>SOULC-3</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./SOULC-4.D64</path>
+		<name>SOULC-4</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./SOULC-5.D64</path>
+		<name>SOULC-5</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./SOULC-6.D64</path>
+		<name>SOULC-6</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="114930" source="ScreenScraper.fr">
+		<path>./Space_Taxi_(Muse_Software_1984)_(Crest).d64</path>
+		<name>Space-Taxi</name>
+		<desc>Piloting a Space Taxi, you must pick up passengers from "pads" and carry them to whatever other pads they wish to go. Space Taxi features 25 screens with varying obstacles and challenges that must be navigated in order to collect your fare. Although Space Taxis sort of resemble yellow Checker Cabs, they operate on a different principle - the longer you take to deliver a passenger, the less money you collect. In addition to watching the clock because of an incentive to collect money, players have to be aware of their fuel supply. Run out of fuel, and you will crash.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Muse Software</developer>
+		<publisher>Muse Software</publisher>
+		<players>1-4</players>
+		<image>./mixart/Space_Taxi_(Muse_Software_1984)_(Crest).png</image>
+		<marquee>./wheel/Space_Taxi_(Muse_Software_1984)_(Crest).png</marquee>
+		<video>./snap/Space_Taxi_(Muse_Software_1984)_(Crest).mp4</video>
+	</game>
+	<game id="36304" source="ScreenScraper.fr">
+		<path>./Summer Games.d64</path>
+		<name>Summer Games</name>
+		<desc>Summer Games allows up to eight players to compete in a series of summer themed Olympic events. The gameplay is similar to the other entries in Epyx "games" series. Each player can choose a country to represent, and then takes turns competing in various events to see who will win the gold medal! The game allows you to compete in all of the events sequentially, choose a few events, choose just one event, or practice an event. The events available vary slightly depending on the platform, and may include:  1. Pole vault 2. Platform diving 3. 4x400 meter relay 4. 100 meter dash 5. Gymnastics 6. Freestyle swimming 7. Skeet shooting 8. 100 meter freestyle 9. Rowing</desc>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<image>./mixart/Summer Games.png</image>
+		<marquee>./wheel/Summer Games.png</marquee>
+		<video>./snap/Summer Games.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Summer_Games_I+II_(HF)_Disk_1.d64</path>
+		<name>Summer_Games_I+II_(HF)_Disk_1</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Summer_Games_I+II_(HF)_Disk_2.d64</path>
+		<name>Summer_Games_I+II_(HF)_Disk_2</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="115562" source="ScreenScraper.fr">
+		<path>./Great Giana Sisters, The.d64</path>
+		<name>Super Mario Bros</name>
+		<desc>El archi conocido juego de plataformas que popularizó a su personaje Mario llega al C64. Un trabajo llevado a cabo por Zeropaige. Sorprendiendo a todo el mundo con este port del juego del 85 lanzado por Famicon y Nintendo, creando la leyenda de Mario.    Esta versión del “Super Mario Bros” no solo ha portado el juego con todos los detalles, creando una copia exacta del original, si no que además también soporta funciones de turbo y el uso de doble Sid en el caso de tener esta modificación en el c64. Además de ser compatible con todas las regiones (Pal/Ntsc). Tan solo deberemos seleccionar algunas de estas opciones en el menú principal cuando cargamos el juego. Haciendo de esta forma una compatibilidad perfecta con el equipo que utilicemos.</desc>
+		<rating>0</rating>
+		<releasedate />
+		<image>./mixart/Great Giana Sisters, The.png</image>
+	</game>
+	<game id="36122" source="ScreenScraper.fr">
+		<path>./Test Drive [Side A].d64</path>
+		<name>Test Drive</name>
+		<desc>This mix of racing simulation and arcade game consists of driving a choice of 5 sports cars on a mountain strip at the fastest speed possible without getting caught by the cops.  To avoid them, use your radar detector -- or just try to outrun them if they spot you.  Manual stickshift only, so make sure you don't redline or you'll blow your engine.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Distinctive Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/Test Drive [Side A].png</image>
+		<marquee>./wheel/Test Drive [Side A].png</marquee>
+		<video>./snap/Test Drive [Side A].mp4</video>
+	</game>
+	<game id="36122" source="ScreenScraper.fr">
+		<path>./Test Drive [Side B].d64</path>
+		<name>Test Drive</name>
+		<desc>This mix of racing simulation and arcade game consists of driving a choice of 5 sports cars on a mountain strip at the fastest speed possible without getting caught by the cops.  To avoid them, use your radar detector -- or just try to outrun them if they spot you.  Manual stickshift only, so make sure you don't redline or you'll blow your engine.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Distinctive Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/Test Drive [Side A].png</image>
+		<marquee>./wheel/Test Drive [Side A].png</marquee>
+		<video>./snap/Test Drive [Side A].mp4</video>
+	</game>
+	<game id="183430" source="ScreenScraper.fr">
+		<path>./Last Ninja 3, the [Side A].d64</path>
+		<name>The Last Ninja 3</name>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>System 3 Software</publisher>
+		<image>./mixart/Last Ninja 3, the [Side B].png</image>
+	</game>
+	<game id="183430" source="ScreenScraper.fr">
+		<path>./Last Ninja 3, the [Side B].d64</path>
+		<name>The Last Ninja 3</name>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>System 3 Software</publisher>
+		<image>./mixart/Last Ninja 3, the [Side B].png</image>
+	</game>
+	<game id="36437" source="ScreenScraper.fr">
+		<path>./Last Ninja, the [Side B_Triad].d64</path>
+		<name>The Last Ninja</name>
+		<desc>You are the last living member of your ninja clan after they were brutally slaughtered. Now, you seek to exact revenge on the evil shogun responsible.  The Last Ninja is an action/adventure game set in medieval Japan. The game is shown in isometric view, and the eponymous ninja can walk in four directions, jump, fight the enemies and collect necessary items on his way.   While fighting, the ninja can use several different blows and block. There are a couple of weapons to find, including smoke bombs and shuriken.</desc>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Adventure-Action</genre>
+		<players>1</players>
+		<image>./mixart/Last Ninja, the [Side A_Triad].png</image>
+		<marquee>./wheel/Last Ninja, the [Side A_Triad].png</marquee>
+		<video>./snap/Last Ninja, the [Side A_Triad].mp4</video>
+	</game>
+	<game id="36080" source="ScreenScraper.fr">
+		<path>./Turrican 2 [Side B].d64</path>
+		<name>Turrican II : The Final Fight</name>
+		<desc>Turrican II : The Final Fight est un jeu d'action sur Commodore 64. En l'an 2035, vous devez lutter pour rétablir la paix et renverser un super ordinateur ayant pris le contrôle. Votre personnage explore de vastes niveaux bourrés d'ennemis et de bonus. Il peut tirer dans toutes les directions et se servir d'un arsenal toujours plus puissant. Quelques zones en shoot'em up interviennent au fil de la progression.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rainbow Arts (Softgold)</developer>
+		<publisher>Factor 5</publisher>
+		<image>./mixart/Turrican 2 [Side A].png</image>
+		<marquee>./wheel/Turrican 2 [Side A].png</marquee>
+		<video>./snap/Turrican 2 [Side A].mp4</video>
+	</game>
+	<game id="35904" source="ScreenScraper.fr">
+		<path>./Turrican_(The_Sharks)_S1.d64</path>
+		<name>Turrican</name>
+		<desc>Three-headed demon Morgul has been influencing people's dreams to create nightmares, but more recently these nightmares have become real. Only Turrican can save them in this fast paced side scrolling shoot-em up. It features 5 worlds and 13 levels of challenging gameplay.  Gameplay is conceptually simple: just jump, shoot and explore. However, this game puts a lot of emphasis on finding and using the 10 different weapons Turrican can collect.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Innerprise Software</developer>
+		<publisher>Rainbow Arts (Softgold)</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Turrican_(The_Sharks)_S2.png</image>
+		<marquee>./wheel/Turrican_(The_Sharks)_S2.png</marquee>
+		<video>./snap/Turrican_(The_Sharks)_S2.mp4</video>
+	</game>
+	<game id="35904" source="ScreenScraper.fr">
+		<path>./Turrican_(The_Sharks)_S2.d64</path>
+		<name>Turrican</name>
+		<desc>Three-headed demon Morgul has been influencing people's dreams to create nightmares, but more recently these nightmares have become real. Only Turrican can save them in this fast paced side scrolling shoot-em up. It features 5 worlds and 13 levels of challenging gameplay.  Gameplay is conceptually simple: just jump, shoot and explore. However, this game puts a lot of emphasis on finding and using the 10 different weapons Turrican can collect.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Innerprise Software</developer>
+		<publisher>Rainbow Arts (Softgold)</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Turrican_(The_Sharks)_S2.png</image>
+		<marquee>./wheel/Turrican_(The_Sharks)_S2.png</marquee>
+		<video>./snap/Turrican_(The_Sharks)_S2.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./wdw2.d64</path>
+		<name>wdw2</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="36142" source="ScreenScraper.fr">
+		<path>./Wings_of_Fury_(NEC).d64</path>
+		<name>Wings of Fury</name>
+		<desc>Wings of Fury is an action game with some minor simulation aspects, in which you are the pilot of an American F6F Hellcat plane. The setting of the game is the Pacific during World War II.  It is your job to defeat the Japanese by destroying enemy bunkers, machine gun nests and barracks on a series of islands. Barracks and gun nests can be bombarded with regular bombs, while you'll have to use rockets to take out the concrete bunkers. After a successful bombing run, return to mow down the Japanese soldiers with your machine guns. You also have to sink Japanese battleships with torpedoes and engage in dogfights with enemy fighter planes.    You start each mission by taking off from an aircraft carrier, which you'll have to protect from assaults by Japanese torpedo planes. Whenever you run out of fuel, bombs, rockets or machine gun ammo you can replenish those by returning to your carrier. Your carrier is also the place to repair damage to your plane.  The Gameboy Color version of Wings of Fury has a toned down violence level. You no longer mow down Japanese soldiers with your machine guns, instead you bombard jeeps &amp; trucks. Also missing in this version are the Japanese torpedo planes and the small 1st-person view window. New are some extra manoeuvres for your plane like a barrel roll and a review of your ammo consumption after each mission. Using less ammo than allocated gives you bonus points.</desc>
+		<rating>0.55</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Broderbund Software</developer>
+		<publisher>Broderbund Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Wings_of_Fury_(NEC).png</image>
+		<marquee>./wheel/Wings_of_Fury_(NEC).png</marquee>
+	</game>
+	<game id="35880" source="ScreenScraper.fr">
+		<path>./Wonder_Boy_(REM).d64</path>
+		<name>Wonderboy</name>
+		<desc>Just when things were going great with Tom-Tom and his girlfriend Tanya, some thug of a woodland king had to kidnap her and hide her away, and Tom-Tom doesn't have a clue where. That's why he has to explore deep dark forests, cross endless oceans, climb treacherous slopes, survive endless volcanoes, and even walk through clouds. But Tom-Tom will never be totally alone. You see, when he goes through the exotic locations, he has to come face to face with its inhabitants, like bees, spiders, snakes, coal-kids, frogs, bats, snails, coyotes, and octopuses, to name a few. The hatchet is Tom-Tom's only line of defense against these menaces.  There are ten areas, each containing four rounds each, but the tenth area can't be accessed unless Tom-Tom collects all the dolls during his rescue mission. During his journey, he can break open different eggs that will reveal hatchets, skateboards, mushrooms, milk, and even guardian angels. You can ride the skateboard through each round, as long as you don't collide with an inhabitant. When you complete each round while still riding the skateboard, you'll start the next round still riding it. As you progress through each round, your vitality will start to get low, but it can be increased by getting milk, mushrooms, potato chips,or fruit that appear everywhere you go. As well as the normal eggs, there are also speckled eggs that must be avoided, otherwise the God of Death will be released, and once he follows you, you'll lose vitality much quickly. At the end of every fourth round, there is a king waiting to destroy you with his fireballs or lightning bolts.  There are also warp-gates, but you don't find them, they find you. You see, warp-gates appear in rounds 1-4 of each area. If you happen to get one fruit, a special item will appear. These special items include handbags, wrist watches, a pair of shoes, a teddy bear, and a bottle of perfume. Another girl will appear and take you up to the clouds where the object is to collect as many hearts as you can without falling down or getting the item again. Once you have collected all the hearts, you can get the item to return to the surface, and more often than not, you'll get further in the round.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Westone</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<image>./mixart/Wonder_Boy_(REM).png</image>
+		<marquee>./wheel/Wonder_Boy_(REM).png</marquee>
+		<video>./snap/Wonder_Boy_(REM).mp4</video>
+	</game>
+	<game id="36286" source="ScreenScraper.fr">
+		<path>./World Games [Side A].d64</path>
+		<name>World Games</name>
+		<desc>Olympics style sports game.  Compete in several events including: Skiing, Weight Lifting, Barrel Jumping, Sumo Wrestling, Bull Riding, Cliff Diving, Log Rolling, Caber Toss, Pole Vault, Platform Diving.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Epyx</publisher>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<image>./mixart/World Games [Side A].png</image>
+		<marquee>./wheel/World Games [Side A].png</marquee>
+		<video>./snap/World Games [Side A].mp4</video>
+	</game>
+	<game id="36286" source="ScreenScraper.fr">
+		<path>./World Games [Side B].d64</path>
+		<name>World Games</name>
+		<desc>Olympics style sports game.  Compete in several events including: Skiing, Weight Lifting, Barrel Jumping, Sumo Wrestling, Bull Riding, Cliff Diving, Log Rolling, Caber Toss, Pole Vault, Platform Diving.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Epyx</publisher>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<image>./mixart/World Games [Side B].png</image>
+		<marquee>./wheel/World Games [Side B].png</marquee>
+		<video>./snap/World Games [Side A].mp4</video>
+	</game>
+	<game>
+		<path>./X-Out_(NVM_MCP-Team)_S1.d64</path>
+		<name>X-Out</name>
+		<desc>In principle, this is yet another (technically very impressive) horizontally scrolling shoot-'em-up. The interesting twist about the scenario is that it doesn't play in space like the similar game R-Type and most of its clones - instead, the fight between good and evil is underwater.  Through five levels, you have to shoot countless enemies, complete with the obligatory mid-level and end-level bosses. The most innovative part of this game comes after a level when you get to purchase new weapons - instead of simply buying upgrades, you can customize your ship by placing your new weapons anywhere on it.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Rainbow Arts (Softgold)</developer>
+		<publisher>Rainbow Arts (Softgold)</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>1</players>
+		<image>./mixart/X-Out_(NVM_MCP-Team)_S1.png</image>
+		<marquee>./wheel/X-Out_(NVM_MCP-Team)_S1.png</marquee>
+		<video>./snap/X-Out_(NVM_MCP-Team)_S1.mp4</video>
+	</game>
+	<game id="110283" source="ScreenScraper.fr">
+		<path>./Trailblazer II (Europe).T64</path>
+		<name>Trailblazer II</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Gremlin Graphics</publisher>
+		<hash>934AB673</hash>
+		<image>./mixart/Trailblazer II (Europe).png</image>
+		<video>./snap/Cosmic Causeway - Trailblazer II (Europe).mp4</video>
+		<marquee>./wheel/Trailblazer II (Europe).png</marquee>
+	</game>
+	<game id="112080" source="ScreenScraper.fr">
+		<path>./Firelord (Europe).T64</path>
+		<name>Firelord</name>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Hewson</publisher>
+		<hash>75F55D8A</hash>
+		<image>./mixart/Firelord (Europe).png</image>
+		<marquee>./wheel/Firelord (Europe).png</marquee>
+		<video>./snap/Firelord (Europe).mp4</video>
+	</game>
+	<game id="115260" source="ScreenScraper.fr">
+		<path>./Mission A.D. (Europe).T64</path>
+		<name>Mission AD</name>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Odin Computer Graphics</publisher>
+		<hash>68C78F6C</hash>
+		<image>./mixart/Mission A.D. (Europe).png</image>
+		<video>./snap/Mission A.D. (Europe).mp4</video>
+	</game>
+	<game id="36117" source="ScreenScraper.fr">
+		<path>./Nebulus (Europe).D64</path>
+		<name>Nebulus</name>
+		<desc>Weird things are happening on Planet Nebulus. Someone or something has begun building huge towers on the sea bottom without having a construction license.
+
+You get to the base of each tower in your submarine. You must guide your creature around and through all eight towers in order to reach the top of each and defuse an evil threat.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>U.S. Gold</publisher>
+		<players>2</players>
+		<hash>E962062A</hash>
+		<image>./mixart/Nebulus (Europe).png</image>
+		<marquee>./wheel/Nebulus (Europe).png</marquee>
+		<video>./snap/Nebulus (Europe).mp4</video>
+	</game>
+	<game id="113030" source="ScreenScraper.fr">
+		<path>./Skool Daze (Europe).T64</path>
+		<name>Skool Daze</name>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Microsphere</publisher>
+		<hash>C30838AE</hash>
+		<image>./mixart/Skool Daze (Europe).png</image>
+		<video>./snap/Skool Daze (Europe).mp4</video>
+	</game>
+	<game id="116611" source="ScreenScraper.fr">
+		<path>./Snare (Beyond Belief) (Europe).T64</path>
+		<name>Snare</name>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<publisher>Beyond Belief</publisher>
+		<hash>EE99AD99</hash>
+		<image>./mixart/Snare (Beyond Belief) (Europe).png</image>
+		<video>./snap/Snare (Beyond Belief) (Europe).mp4</video>
+	</game>
+	<game id="114397" source="ScreenScraper.fr">
+		<path>./Street Sports Baseball (USA).D64</path>
+		<name>Street Sports Baseball</name>
+		<desc>A baseball game for 1 or 2 players in which the action takes place in parks, vacant lots and backyards with makeshift bases, rather than on an actual diamond. In addition to the normal rules of baseball, players must cope with mud puddles, tree stumps, and other hazards. Features a split-screen view which provides an overview of the entire field alongside close-ups of where the action is happening.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1-2</players>
+		<hash>1B6AA5A4</hash>
+		<image>./mixart/Street Sports Baseball (USA).png</image>
+		<video>./snap/Street Sports Baseball (USA).mp4</video>
+	</game>
+	<game id="110205" source="ScreenScraper.fr">
+		<path>./Temple of Apshai Trilogy (USA).D64</path>
+		<name>Temple of Apshai Trilogy</name>
+		<desc>The Temple of Apshai Trilogy includes updated graphical versions of three classic Apshai games: ? Dunjonquest: Temple of Apshai ? Dunjonquest: Upper Reaches of Apshai ? Dunjonquest: Curse of Ra The game could be described as a graphical "rogue like", but actually it resembles the mainframe classic DND more, as you cannot see the whole level, but only your surroundings. Furthermore, the level maps are not randomized like in Rogue. Still, the game play has a lot in common with Rogue and other early dungeon crawls: A solo character explores a monster-infested, multi-level dungeon to grab some treasure, everything in top-down view.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1</players>
+		<hash>AD5FD207</hash>
+		<image>./mixart/Temple of Apshai Trilogy (USA).png</image>
+		<marquee>./wheel/Temple of Apshai Trilogy (USA).png</marquee>
+		<video>./snap/Temple of Apshai Trilogy (USA).mp4</video>
+	</game>
+	<game id="110485" source="ScreenScraper.fr">
+		<path>./Arc of Yesod, The (Europe).T64</path>
+		<name>The Arc of Yesod</name>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Thor Computer Software</publisher>
+		<hash>8A716A3F</hash>
+		<image>./mixart/Arc of Yesod, The (Europe).png</image>
+		<marquee>./wheel/Arc of Yesod, The (Europe).png</marquee>
+		<video>./snap/Arc of Yesod, The (Europe).mp4</video>
+	</game>
+	<game id="110223" source="ScreenScraper.fr">
+		<path>./Thing on a Spring (Europe).D64</path>
+		<name>Thing on a Spring</name>
+		<desc>The evil Goblin has used his magical abilities to ensnare all the toys in the neighborhood to go into his underground lair. Thing bounces to the rescue, and resolves to retrieve them from his 4 storey underground lair. To do this he must collect 9 pieces of a jigsaw puzzle on each floor. Needless to say, Goblin has not made things easy - a myriad of traps await our intrepid hero. There are traps all over, some crucial areas are guarded by switches, and the last of these switches locks the level-ending lift.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Anthony J. Clarke</developer>
+		<publisher>Gremlin Graphics</publisher>
+		<players>1</players>
+		<hash>2BBFBCB7</hash>
+		<image>./mixart/Thing on a Spring (Europe).png</image>
+		<marquee>./wheel/Thing on a Spring (Europe).png</marquee>
+		<video>./snap/Thing on a Spring (Europe).mp4</video>
+	</game>
+	<game id="36436" source="ScreenScraper.fr">
+		<path>./Trailblazer (Europe).D64</path>
+		<name>Trailblazer</name>
+		<desc>An imaginative action game in which you must guide a ball-shaped craft through a succession of levels. These have a patchwork-quilt type display, with holes to avoid, and squares of various colors, which affect the craft's speed, both within its power potential and into warp, as well as a control-reverser and lots of holes. You can jump these holes by pressing fire, although you have a limited number of these for each level, and adjust the speed by pulling the joystick forward or backwards.  You face a time limit on each of the 21 levels, although your time is boosted every time you complete one. A simultaneous 2-player mode is included, similar to the split-screen mode in the Lotus games (by the same authors).</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Mr Chip Software</developer>
+		<publisher>Mindscape</publisher>
+		<players>1-2</players>
+		<hash>81ECB62E</hash>
+		<image>./mixart/Trailblazer (Europe).png</image>
+		<video>./snap/Trailblazer (Europe).mp4</video>
+		<marquee>./wheel/Trailblazer (Europe).png</marquee>
+	</game>
+	<game id="35933" source="ScreenScraper.fr">
+		<path>./Uridium.d64</path>
+		<name>Uridium</name>
+		<desc>Your home solar system of 15 planets has been attacked by a horde of Super Dreadnoughts, from a race who wish to harvest your universe's minerals for their own use.
+
+You must pilot your craft through some of the hardest levels ever created and shoot down all the enemy space craft and ground weapons, and avoid the many indestructible hazards. 
+
+The innovation is that you do not simply travel in a single direction, but instead move from left to right or right to left depending on where the current targets are, in a manner more similar to Defender than most shoot 'em ups.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Graftgold</publisher>
+		<players>1-2</players>
+		<hash>374B5838</hash>
+		<image>./mixart/Uridium.png</image>
+		<marquee>./wheel/Uridium.png</marquee>
+		<video>./snap/Uridium.mp4</video>
+	</game>
+	<game id="36404" source="ScreenScraper.fr">
+		<path>./Who Dares Wins II (Europe).T64</path>
+		<name>Who Dares Wins II</name>
+		<desc>Eight invaded townships must be brought back under your control in this Commando-style shoot 'em up, which progresses vertically using a flick-screen system. You are armed with a rifle (activated by a short tap of the fire button) and five grenades (used via a longer press), and must not only kill off the enemy forces, but also rescue your comrades who have been tied to trees along the way. You begin at the bottom of the first screen and slowly make your way upwards; enemies pop up from all sides, walking around and shooting, and you have to dodge their shots while trying to shoot them yourself. The foes make good use of the decoy opportunities of the terrain, and you must do the same to have a chance. The levels include rivers with narrow bridges, potholes, and train-lines.
+
+Extra supplies are dropped in as you progress through the game, as are extra lives in addition to your starting 5.</desc>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Alligata Software Ltd.</developer>
+		<publisher>Alligata Software Ltd.</publisher>
+		<players>1</players>
+		<hash>00C338B3</hash>
+		<image>./mixart/Who Dares Wins II (Europe).png</image>
+		<marquee>./wheel/Who Dares Wins II (Europe).png</marquee>
+		<video>./snap/Who Dares Wins II (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Summer Games 2.crt</path>
+		<name>Summer Games II</name>
+		<desc>Eight Olympic events feature in this game, and any selection of these can be played at a time. There is no pure sprinting, and only the rowing and cycling can be thought of as pure joystick-waggling. The triple jump involves pressing right to start the hop (before reaching the white line), right again for the step as you land, left as you land for the jump, and then up to propel you through the sand.  I high jump, after selecting a height you feel you can clear, you use up and down to control the speed, fire to jump, and then forward to propel you over the bar.
+
+For the javelin even you hold down fire to build up speed, and push left to throw the javelin, holding it left before releasing to change the angle. In the equestrian event, you must use up to increase speed, and fire or right to jump when appropriate to clear the hazards - too many faults will see you disqualified.
+
+Fencing involves moving your foil using the joystick, always staying one step ahead of your opponent, retreating when appropriate. The kayaking event involves navigating a river by controlling the direction, ensuring that all the gates are past correctly even when this requires some precise lining up. You can also load the events from Summer Games 1 in, to play all 16 events in a marathon session.</desc>
+		<image>./mixart/Summer Games 2.png</image>
+		<video>./snap/Summer Games 2.mp4</video>
+		<marquee>./wheel/Summer Games 2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1-8</players>
+	</game>
+	<game id="111961" source="ScreenScraper.fr">
+		<path>./Everyone's a Wally.d64</path>
+		<name>Everyone's a Wally</name>
+		<desc>Everyone's a Wally est un jeu d'action sur Commodore 64. Pour déchiffrer un code fragmenté en cinq parties, le clan Wally se partage la tâche et se lance chacun à la recherche d'une partie. Le jeu se découpe ainsi en plusieurs niveaux en compagnie de sa femme Wilma et de ses amis Dick, Tom et Harry.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Mikro-Gen Ltd</developer>
+		<publisher>Mikro-Gen Ltd</publisher>
+		<hash>51B88459</hash>
+		<image>./mixart/Everyone's a Wally (Europe).png</image>
+		<marquee>./wheel/Everyone's a Wally (Europe).png</marquee>
+		<video>./snap/Everyone's a Wally (Europe).mp4</video>
+	</game>
+	<game id="35942" source="ScreenScraper.fr">
+		<path>./Winter Games.d64</path>
+		<name>Winter Games</name>
+		<desc>Another in the series of Epyx Olympic sports games. Compete in many different sporting events like: Ski Jump, Hot Dog, Biathlon, Bobsled, Free Skating, Figure Skating and more.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Action Graphics</developer>
+		<publisher>Epyx</publisher>
+		<players>1-8</players>
+		<hash>6EA0F3C8</hash>
+		<image>./mixart/Winter Games.png</image>
+		<marquee>./wheel/Winter Games.png</marquee>
+		<video>./snap/Winter Games.mp4</video>
+	</game>
+	<game>
+		<path>./Uchi Mata.t64</path>
+		<name>Uchi Mata</name>
+		<desc>Uchi Mata is a unique tournament-based Judo fighting game in which you play as a judoka in the ultimate tournament.
+
+The game is played from a non-scrolling side view. You control your fighter and attempt to get within striking distance of your opponent, however you don't attack directly with your attack button. Instead, your attack command puts you in a fighting stance that allows you to input a series of directional moves. That, combined with the correct feet placement of both fighters (which can be seen in a helpful window) allows you to unleash specific throws and offensive maneuvers that form the basis of the combat in the game. A stamina and health bar also keep your attacks in check, as you may need to rest and build up your strength in order to perform effective attacks.</desc>
+		<image>./mixart/Uchi Mata.png</image>
+		<video>./snap/Uchi Mata.mp4</video>
+		<marquee>./wheel/Uchi Mata.png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Martech</developer>
+		<publisher>Mindscape</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Anarchy (Europe).D64</path>
+		<name>Anarchy</name>
+		<desc>Inside an Ace Mk2 Interceptor tank, you have been assigned a hazardous 16-stage mission. You must travel to the overrun planet of Sentinel 4, and destroy the weapons caches the rebels have build up. They can't be blasted when you are right next to them, ensuring that a degree of planning and strategy is required.
+
+Viewed from above in levels with simple sideways scrolling, the objective on each level is to shoot each of the weapons crates, before going through the newly-opened exit.  Guard droids must be avoided, but shooting them can leave them inactive for a short period of time, and they can now be shot or hit to push them in that direction, which can be used strategically to make more paths available. There is a 2-minute time limit on each level. Every 5th level has a nuclear weapon guarded by a seeking enemy droid, which continually follows you.</desc>
+		<image>./mixart/Anarchy (Europe).png</image>
+		<video>./snap/Anarchy (Europe).mp4</video>
+		<marquee>./wheel/Anarchy (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+	</game>
+	<game>
+		<path>./Battle Valley (Europe).D64</path>
+		<name>Battle Valley</name>
+		<desc>This side-view shoot 'em up involves trying to retrieve two nuclear weapons which have been stolen by terrorists. These are located at opposite ends of the playing area, so you can pursue them in either order. Needless to say, the terrorists have plenty of forces out to prevent you getting too far.
+
+Unusually, the game features both a helicopter and a tank - you choose either from the base, and can fly/drive back there to change. The best strategy is to use the helicopter to shoot out air-based enemies and repair the various bridges, then return for the tank. You get 4000 seconds in which to complete all this, and losing a life costs you 500 of these.</desc>
+		<image>./mixart/Battle Valley (Europe).png</image>
+		<video>./snap/Battle Valley (Europe).mp4</video>
+		<marquee>./wheel/Battle Valley (Europe).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Impossible Mission.D64</path>
+		<name>Impossible Mission</name>
+		<desc>You play a secret agent on a quest to stop the evil Professor
+Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.
+
+The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
+		<image>./mixart/Impossible Mission.png</image>
+		<video>./snap/Impossible Mission II (USA).mp4</video>
+		<marquee>./wheel/Impossible Mission.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+	</game>
+	<game>
+		<path>./California Games.crt</path>
+		<name>California Games</name>
+		<desc>California Games was the original "Extreme Games"  what today's generation might call "X-Games in the sun".  Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX.  The surfing event is ranked by judges, which give a score to help the players improve their routine.
+
+The Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event.</desc>
+		<image>./mixart/California Games.png</image>
+		<video>./snap/California Games.mp4</video>
+		<marquee>./wheel/California Games.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Mega-Apocalypse (Europe).D64</path>
+		<name>Mega-Apocalypse</name>
+		<desc>It is a very strange universe really - isn´t it? All those millions of planets and moons and stars and comets swirling about in the vastness of space. Imagine what fun it would be to explore - to boldly go where no boldly goer had boldly gone before - unless they happened to live there. 
+
+Latest research from the Institute of Advanced Research (I.A.R.) indicated that there are quite a lot of planets with things living on them. Some of these things are pretty intelligent like us really. Other of these things are really stupid, like whelks, for example. 
+
+Anyway, to cut a long story short, you have been selected to explore the universe, boldly seeking out strange and exciting new worlds. If you find any, your instructions are quite clear. 
+
+BLAST THE LIVING DAYLIGHTS OUT OF THEM!!</desc>
+		<image>./mixart/Mega-Apocalypse (Europe).png</image>
+		<video>./snap/Mega-Apocalypse (Europe).mp4</video>
+		<marquee>./wheel/Mega-Apocalypse (Europe).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Martech</developer>
+		<publisher>Martech Games</publisher>
+	</game>
+	<game>
+		<path>./KATAKIS.D64</path>
+		<name>Katakis</name>
+		<image>./mixart/KATAKIS.png</image>
+		<video>./snap/KATAKIS.mp4</video>
+		<marquee>./wheel/KATAKIS.png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Rainbow Arts</publisher>
+	</game>
+	<game>
+		<path>./Cyberdine Warrior.T64</path>
+		<name>Cyberdine Warrior</name>
+		<image>./mixart/Cyberdine Warrior.png</image>
+		<video>./snap/Cyberdine Warrior.mp4</video>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Cybernoid 2.d64</path>
+		<name>Cybernoid 2 - The Revenge</name>
+		<desc>Cybernoid II : The Revenge est un jeu d'action sur Commodore 64. Vous contrôlez un vaisseau spatial et votre boulot est de libérer un cargo qui a été capturé par une vague de vaisseaux pirates. Différentes armes sont à votre disposition dans votre engin.</desc>
+		<image>./mixart/Cybernoid II - The Revenge (Europe).png</image>
+		<video>./snap/Cybernoid II - The Revenge (Europe).mp4</video>
+		<marquee>./wheel/Cybernoid II - The Revenge (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Cybernoid - The Fighting Machine (Europe).T64</path>
+		<name>Cybernoid : The Fighting Machine</name>
+		<desc>Cybernoid : The Fighting Machine est un jeu d'action sur Commodore 64 dans lequel des monstres de l'espace ont volé des minéraux de valeur, des bijoux, des munitions et de l'armement. Aux commandes de son guerrier Cybernoid, le joueur doit poursuivre les pirates et retrouver le précieux cargo avant qu'il ne soit trop tard.</desc>
+		<image>./mixart/Cybernoid - The Fighting Machine (Europe).png</image>
+		<video>./snap/Cybernoid - The Fighting Machine (Europe).mp4</video>
+		<marquee>./wheel/Cybernoid - The Fighting Machine (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+	</game>
+	<game>
+		<path>./Deflektor (Europe).D64</path>
+		<name>Deflektor</name>
+		<desc>There's plenty of reflection in this game, in both senses of the word. That's because this strategic puzzler involves using mirrors to direct a beam of light across a succession of 60 screens. Each mirror has 16 different angles it can be set at, each of which will send the beam around the screen in different ways.
+
+Before the exit is activated, all the mines on a screen must be cleared by running the beam over them. There are other devices built into the levels, including teleports and random angle-changers, as well as hazards to avoid (they cause the beam to overheat) and droids which go around moving the mirrors' directions.</desc>
+		<image>./mixart/Deflektor (Europe).png</image>
+		<video>./snap/Deflektor (Europe).mp4</video>
+		<marquee>./wheel/Deflektor (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Vortex Software</developer>
+		<publisher>Gremlin Graphics</publisher>
+	</game>
+	<game>
+		<path>./Enduro_Racer_(Triad).prg</path>
+		<name>Enduro Racer</name>
+		<desc>In this game you play the role of an endurance bike racer. The gameplay involves you racing against the clock to get to the finish line and jumping over ramps. At the end of each race you get points for how many cars or bikes you have overtaken with which you can upgrade your bike. There are various different terrain for you to race on including desert beach and dirt tracks plus a number of things to slow you down or even knock you off of your bike all together. The main idea is to find the best route through each level to shave off valuable seconds in order to over take more cars and bikes.  The Japanese version of the game has more Tracks than the European and US versions have. Among  them is a snow track which is one of the hardest tracks in the game, because there is a lot of stones on the thin road.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/Enduro_Racer_(Triad).png</image>
+		<marquee>./wheel/Enduro_Racer_(Triad).png</marquee>
+		<video>./snap/Enduro_Racer_(Triad).mp4</video>
+	</game>
+	<game>
+		<path>./Flimbos_Quest_(L+T).d64</path>
+		<name>Flimbo's Quest</name>
+		<desc>Rescuing girlfriends is a pretty common challenge in older computer games - why can't any of these ladies look after themselves? On this occasion Pearly has been kidnapped by Fransz Dandruff, so you'd better make sure he's hair today, gone tomorrow.  The gameplay is platform based, although you can move down platforms as well as up to the next one. There are lots of baddies (drawn in a cutesy style) who need shooting and offer rewards. the 7 levels are fairly short, relatively easy, and linear.</desc>
+		<image>./mixart/Flimbos_Quest_(L+T).png</image>
+		<video>./snap/Flimbos_Quest_(L+T).mp4</video>
+		<marquee>./wheel/Flimbos_Quest_(L+T).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Platform-Action</genre>
+	</game>
+	<game>
+		<path>./Ghostbusters.d64</path>
+		<name>Ghostbusters</name>
+		<desc>Based on the movie of the same name, the Ghostbusters are the ones to call who will "bust" any ghost hauntings. It does this through the use of nuclear accelerated "proton packs" and traps, whereby the ghosts can be captured and transferred to a secure storage facility. However New York City has suddenly become a very haunted place, and the number of ghosts has suddenly increased. The Ghostbusters must reduce the paranormal (PK) level in the city, representing ghost power, before the Temple of Zuul awakens and ressurects an evil goddess, Gozer.  Ghostbusters is an action game that combines an overhead view and a side-view. From Ghostbusters HQ, the player must monitor the map of New York City for "ghost alarms" as well as casual spirits, and plot a route to the alarmed area. The player then controls the Ghostbuster vehicle as it drives through traffic. Here, the player is able to capture casual ghosts on the way if they are en route. Once at the location, the game switches to a side-view. Two of the ghostbusters will take position and activate their proton beams and toss a trap to the ground. The player will attempt to  maneuver the ghost(s) over the placed trap. Once activated, the trap attempts to capture any ghosts directly above it. Successful capture will earn the player money, which can then be used to purchase new Ghostbusters vehicles and new modifications for the vehicle. Unsuccessful capture will see the ghost fly away.  As the game progresses, the PK energy of the city increases. Ghostbusters must keep it under critical levels by being constantly  successful at ghost captures. Eventually the Temple of Zuul will activate, and if the PK levels are still manageable, the Ghostbusters can venture there for a final showdown with Gozer.</desc>
+		<image>./mixart/Ghostbusters.png</image>
+		<video>./snap/Ghostbusters.mp4</video>
+		<marquee>./wheel/Ghostbusters.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Ghosts'n Goblins.d64</path>
+		<name>Ghosts'n Goblins</name>
+		<desc>The beautiful princess is kidnapped. Her lover, the Knight in shining armor, armed with five different weapons to fight the enemy, sets out to rescue the beautiful princess. The Knight, aided by your skill, must pass through seven different guarded gates, fighting and destroying demons, dragons, giants and zombies. Ghosts 'N Goblins is exciting... challenging you and the Knight to rescue the princess, amid great danger, escaping Hades, land of the enemies!</desc>
+		<image>./mixart/Ghosts'n Goblins.png</image>
+		<video>./snap/Ghosts'n Goblins.mp4</video>
+		<marquee>./wheel/Ghosts'n Goblins.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Elite Systems</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Great Giana Sisters.d64</path>
+		<name>Great Giana Sisters</name>
+	</game>
+	<game>
+		<path>./Green Beret.d64</path>
+		<name>Green Beret</name>
+		<desc>The player takes on the role of a United States special operations soldier infiltrating an enemy military base in order to save several POW's from being executed by firing squad. There are four stages: a Marshalling Area, a Harbor, an Air Base and a Siberian Camp. The omnipresent knife can be supplemented with captured arms. By killing certain enemy soldiers, the player can obtain a three-shot flamethrower, a four-shot RPG, or a three-pack of hand grenades. At the end of each stage, the player will face a unique group of enemies specific to that stage.</desc>
+		<image>./mixart/Green Beret.png</image>
+		<video>./snap/Green Beret.mp4</video>
+		<marquee>./wheel/Green Beret.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Gribbly's Day Out (Europe).T64</path>
+		<name>Gribbly's Day Out</name>
+		<image>./mixart/Gribbly's Day Out (Europe).png</image>
+		<video>./snap/Gribbly's Day Out (Europe).mp4</video>
+		<marquee>./wheel/Gribbly's Day Out (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Hawkeye.d64</path>
+		<name>Hawkeye</name>
+		<image>./mixart/Hawkeye.png</image>
+		<video>./snap/Hawkeye.mp4</video>
+		<marquee>./wheel/Hawkeye.png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game>
+		<path>./Creatures (Europe).D64</path>
+		<name>Creatures</name>
+		<desc>Creatures relied on 'cutesy' graphics interspersed with very bloody 'torture screens' where between each level a single screen puzzle was presented to the player, who had to solve it (often in highly humorous fashion) or run out of time and lose the game, together with a very bloody end for the recipient of the torture.</desc>
+		<image>./mixart/Creatures (Europe).png</image>
+		<video>./snap/Creatures (Europe).mp4</video>
+		<marquee>./wheel/Creatures (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Apex Computer Productions</developer>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game>
+		<path>./Creatures.d64</path>
+		<name>Creatures</name>
+		<desc>Creatures relied on 'cutesy' graphics interspersed with very bloody 'torture screens' where between each level a single screen puzzle was presented to the player, who had to solve it (often in highly humorous fashion) or run out of time and lose the game, together with a very bloody end for the recipient of the torture.</desc>
+		<image>./mixart/Creatures.png</image>
+		<video>./snap/Creatures.mp4</video>
+		<marquee>./wheel/Creatures.png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Apex Computer Productions</developer>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game>
+		<path>./Bomb Jack.d64</path>
+		<name>Bomb Jack</name>
+		<desc>In Bomb Jack, the player controls Jack, who must collect all the bombs in order to complete the current round and go onto the next one. This sounds easy, right? Wrong! Making Jack's task difficult are numerous enemies such as birds, mummies, turtles, and orbs.  In each round, collecting a number of bombs results in a bonus coin appearing, and collecting this coin will make the player's score increase 2 to 4 times. More often than not, the "power ball" appears, and when you collect this, you can defeat enemies and have more time to collect all the bombs. There is also the "E" coin, which gives Jack one additional life, but rarely does this coin appear.  The more you progress through the game, the more difficult it becomes, as enemies travel more quickly to get you.</desc>
+		<image>./mixart/Bomb Jack.png</image>
+		<video>./snap/Bomb Jack.mp4</video>
+		<marquee>./wheel/Bomb Jack.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Tehkan Ltd.</developer>
+		<publisher>Elite Systems</publisher>
+		<genre>Platform-Action</genre>
+	</game>
+	<game>
+		<path>./Boulder Dash (USA).T64</path>
+		<name>Boulder Dash</name>
+		<desc>You're Rockford and have to dig through monster infested caves in search of diamonds. In each level you must collect a certain number of these diamonds, in order to open a portal to the next stage. Enemies can be squashed by falling boulders, which are released when the ground below them is removed or they are pushed onto empty ground, but be careful because these can also squash you. In later levels, difficulty is increased by many puzzle elements and shorter time limits.</desc>
+		<image>./mixart/Boulder Dash (USA).png</image>
+		<video>./snap/Boulder Dash (USA).mp4</video>
+		<marquee>./wheel/Boulder Dash (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>First Star Software</developer>
+		<publisher>First Star Software</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Boulder Dash 2.d64</path>
+		<name>Boulder Dash 2000</name>
+		<image>./mixart/Boulder Dash 2.png</image>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Boulder Dash 3.d64</path>
+		<name>Boulder Dash 3</name>
+		<image>./mixart/Boulder Dash 3.png</image>
+		<video>./snap/Boulder Dash 3.mp4</video>
+		<marquee>./wheel/Boulder Dash 3.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Bounder (Europe).T64</path>
+		<name>Bounder</name>
+		<desc>In Bounder, the player controls a tennis ball that constantly bounces on the screen. 
+
+The player has to move the ball around between two bounces so it lands on friendly areas like grass or the main hexagonal-patterned floor. If it lands  hazardous areas like spikes and sand, or hits the enemies which move around, one of the seven lives the player starts with is lost. There are beneficial squares though - arrows which keep the ball in the air longer or teleports which clear part of the game. 
+
+The 174 screens are divided into 10 levels - at the end of each of these there's a bonus screen.</desc>
+		<image>./mixart/Bounder (Europe).png</image>
+		<video>./snap/Bounder (Europe).mp4</video>
+		<marquee>./wheel/Bounder (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin Graphics</publisher>
+	</game>
+	<game>
+		<path>./Bubble Bobble.d64</path>
+		<name>Bubble Bobble</name>
+		<desc>Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave...  Bubble Bobble is a platform game, with each level being a single screen. The enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points (such as fruit). The real power Bub and Bob have however is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they'll turn to fruit. Additionally, power-ups sometimes float by in bubbles. They include lightning, which flies out horizontally at enemies, and water, which drags the player and enemies straight down flowing over platforms. Taking too long to complete any level will summon Baron Von Blubba, who will float around the screen trying to destroy the player.</desc>
+		<image>./mixart/Bubble Bobble.png</image>
+		<video>./snap/Bubble Bobble.mp4</video>
+		<marquee>./wheel/Bubble Bobble.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform-Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./California Games [Side A_ESI].d64</path>
+		<name>California Games</name>
+		<desc>California Games was the original "Extreme Games" – what today's generation might call "X-Games in the sun".  Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX.  The surfing event is ranked by judges, which give a score to help the players improve their routine.  The Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event.</desc>
+		<image>./mixart/California Games [Side Load_ESI].png</image>
+		<video>./snap/California Games [Side Load_ESI].mp4</video>
+		<marquee>./wheel/California Games [Side Load_ESI].png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<genre>Sports</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Chip's Challenge (USA).D64</path>
+		<name>Chip's Challenge</name>
+		<desc>Nerdy Chip desperately wants to join the "Bit Busters" computer club, led by Melinda the Mental Marvel.  However, before she'll let him in, he must prove his intelligence by passing the initiation test.  149 increasingly difficult levels, including a few hidden ones, await Chip in this tile-based puzzle game.  Use tools such as keys, and special shoes to bypass obstacles.  Manipulate switches to and use dirt blocks to build bridges across waterways.  Avoid enemy creatures, grab all the computer chips in the level, and hurry to the exit: On top of everything else, there's a time limit!</desc>
+		<image>./mixart/Chip's Challenge (USA).png</image>
+		<video>./snap/Chip's Challenge (USA).mp4</video>
+		<marquee>./wheel/Chip's Challenge (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>U.S. Gold</publisher>
+	</game>
+	<game>
+		<path>./Commando.d64</path>
+		<name>Commando</name>
+		<desc>Several levels await your super-tough Commando in this arcade conversion. Armed with only a standard rifle and a few grenades you must take on hordes of Nazis. Some are wandering around in the open, while others have picked out hiding places, which you must approach from certain angles. Trees, rivers and bridges create a varied combat-like terrain and must be incorporated into your thinking. Extra grenades can be collected, and will definitely be required, as they allow you to kill form distance and thus avoid some enemy shots.</desc>
+		<image>./mixart/Commando.png</image>
+		<video>./snap/Commando.mp4</video>
+		<marquee>./wheel/Commando.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Confuzion (Europe).D64</path>
+		<name>Confuzion</name>
+		<desc>This is a puzzle game where you must explode all of the bombs on each level, using a spark.  The spark flows along a fuse, which is made up of a series of tiles.  These can be moved, in the manner of sliding puzzles, where there is only one gap, and tiles can be moved into the gap, creating a new gap.  The aim is then to move the tiles so the fuse forms a path from the spark to each bomb. 
+
+There is a time limit, however, and extra time is knocked off if the spark reaches a dead end.  Also some levels contain water droplets, that extinguish the spark if they touch it.</desc>
+		<image>./mixart/Confuzion (Europe).png</image>
+		<video>./snap/Confuzion (Europe).mp4</video>
+		<marquee>./wheel/Confuzion (Europe).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Incentive Software</developer>
+		<publisher>Incentive Software</publisher>
+	</game>
+	<game>
+		<path>./1942.d64</path>
+		<name>1942</name>
+		<desc>A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot "Super Ace". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.</desc>
+		<image>./mixart/1942.png</image>
+		<video>./snap/1942.mp4</video>
+		<marquee>./wheel/1942.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Elite Systems</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up-Action-Shoot'em up / Vertical</genre>
+	</game>
+	<game>
+		<path>./Alleykat.D64</path>
+		<name>Alleykat</name>
+		<image>./mixart/Alleykat.png</image>
+		<video>./snap/Alleykat.mp4</video>
+		<marquee>./wheel/Alleykat.png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Arkanoid.d64</path>
+		<name>Arkanoid</name>
+		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.  The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.  By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the ball.... sorry, bolt.... down. Needless to say, the game inspired tonnes of clones, few of which added anything else.</desc>
+		<image>./mixart/Arkanoid.png</image>
+		<video>./snap/Arkanoid.mp4</video>
+		<marquee>./wheel/Arkanoid.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>I-Imagine</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Armalyte.crt</path>
+		<name>Armalyte</name>
+		<desc>Enter the forbidden zones, beyond the nightmare of Delta With Armalyte ...
+Two freedom fighters lost in eight sections of a deadly galaxy, their own determination and control are the only elements standing between them and oblivion.</desc>
+		<image>./mixart/Armalyte.png</image>
+		<video>./snap/Armalyte.mp4</video>
+		<marquee>./wheel/Armalyte.png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Robin LEVY</developer>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game>
+		<path>./Avenger (Gremlin Graphics Software Ltd.) (Europe).T64</path>
+		<name>Avenger</name>
+		<desc>In the sequel to The Way of the Tiger, Yaemon the Grand Master of Flame is the villain of the piece. He has killed your foster-father Naijish and stolen the Scrolls of Kettsuin.
+
+Your quest to recover the scroll and avenge your father's death is viewed from above and superficially resembles Gauntlet. You start outside the  Quench Heart Keep, and must initially find enough keys in the grounds and connected buildings to penetrate it, and then kill each of the 3 guards.
+
+There are other prey including spiders to fend off - these know how to home in on you. You are armed with a limited number of Shuikch to shoot from distance; after these are gone you are reliant on your bare hand, although more can be collected. Pressing the 1 key summons an energy recharge from the God Kwon, but only a limited number of times.</desc>
+		<image>./mixart/Avenger (Gremlin Graphics Software Ltd.) (Europe).png</image>
+		<video>./snap/Avenger (Gremlin Graphics Software Ltd.) (Europe).mp4</video>
+		<marquee>./wheel/Avenger (Gremlin Graphics Software Ltd.) (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Commodore</publisher>
+	</game>
+	<game>
+		<path>./Aztec Challenge.d64</path>
+		<name>Aztec Challenge</name>
+		<desc>Over the Aztecs broods a shadow of one of the most barbarous and horrible religions the world has ever known. Each year the Aztec priests sacrifice to their numerous gods many luckless human victims. Once you are chosen to be sacrificed you have only one chance of escape; you must compete in, and complete, an endurance and obstacle course of skill and daring to prove your worth.  Now, you have been chosen, and now you must discover and successfully conquer the "AZTEC CHALLENGE"!</desc>
+		<image>./mixart/Aztec Challenge.png</image>
+		<video>./snap/Aztec Challenge.mp4</video>
+		<marquee>./wheel/Aztec Challenge.png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Paul Norman</developer>
+		<publisher>Cosmi</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Defender of the Crown [ESI_Side A].d64</path>
+		<name>Defender of the Crown</name>
+		<desc>Defender of the Crown puts you in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.  After a short introduction by Robin of Locksley himself, you start the game with a single castle and 10 soldiers at your command. From there, you have to build your army, take control of additional territories and fight the three Norman lords - and sometimes your Saxon friends as well.  The game has several different styles: You may either engage in a jousting contest where you have to knock your opponent off his horse using a lance, you can go raid a castle for loot or you can attack another territory/castle.  The game was originally created on the Amiga platform in 1986 by Cinemaware with wonderful graphics by James D. Sachs and great music by Jim Cuomo, then ported to the PC whilst keeping its original appeal and quality.</desc>
+		<image>./mixart/Defender of the Crown [ESI_Side A].png</image>
+		<video>./snap/Defender of the Crown [ESI_Side A].mp4</video>
+		<marquee>./wheel/Defender of the Crown [ESI_Side A].png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Master Designer Software</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Defender of the Crown [ESI_Side B].d64</path>
+		<name>Defender of the Crown</name>
+		<desc>Defender of the Crown puts you in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.  After a short introduction by Robin of Locksley himself, you start the game with a single castle and 10 soldiers at your command. From there, you have to build your army, take control of additional territories and fight the three Norman lords - and sometimes your Saxon friends as well.  The game has several different styles: You may either engage in a jousting contest where you have to knock your opponent off his horse using a lance, you can go raid a castle for loot or you can attack another territory/castle.  The game was originally created on the Amiga platform in 1986 by Cinemaware with wonderful graphics by James D. Sachs and great music by Jim Cuomo, then ported to the PC whilst keeping its original appeal and quality.</desc>
+		<image>./mixart/Defender of the Crown [ESI_Side A].png</image>
+		<video>./snap/Defender of the Crown [ESI_Side A].mp4</video>
+		<marquee>./wheel/Defender of the Crown [ESI_Side A].png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Master Designer Software</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Heartland (Europe).T64</path>
+		<name>Heartland</name>
+		<image>./mixart/Heartland (Europe).png</image>
+		<video>./snap/Heartland (Europe).mp4</video>
+		<marquee>./wheel/Heartland (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>OCG</publisher>
+	</game>
+	<game>
+		<path>./Herobotix (Europe).T64</path>
+		<name>Herobotix</name>
+		<image>./mixart/Herobotix (Europe).png</image>
+		<video>./snap/Herobotix (Europe).mp4</video>
+		<marquee>./wheel/Herobotix (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Highway Encounter (Europe).T64</path>
+		<name>Highway Encounter</name>
+		<image>./mixart/Highway Encounter (Europe).png</image>
+		<video>./snap/Highway Encounter (Europe).mp4</video>
+		<marquee>./wheel/Highway Encounter (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Vortex Software</publisher>
+	</game>
+	<game>
+		<path>./Hunter's Moon (Europe).D64</path>
+		<name>Hunter's Moon</name>
+		<image>./mixart/Hunter's Moon (Europe).png</image>
+		<video>./snap/Hunter's Moon (Europe).mp4</video>
+		<marquee>./wheel/Hunter's Moon (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game>
+		<path>./hysteria.d64</path>
+		<name>Hysteria</name>
+		<desc>A fanatical sect has changed mankind's future by summoning a previously extinct primeval entity in our past. You, a sole survivor of the once elite 'time corps' have been chosen by the federation of law and order to combat the entity in three time zones: Ancient Greece, Dark Ages and Space.
+
+The game, controlled by joystick, has you moving the time warrior in horizontal-scrolling parallax levels. You have to collect nine pieces that assemble to a face of the primeval entity who must be battled.
+
+Meanwhile, the locals in each time zone do not like time warriors and throw and fire everything at you. Luckily, you are carrying an energy conversion kit that changes some shot objects and enemies into valuable weapons and armoury. Good luck, you will need it!</desc>
+		<image>./mixart/Hysteria (Europe).png</image>
+		<video>./snap/Hysteria (Europe).mp4</video>
+		<marquee>./wheel/Hysteria (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Special FX</developer>
+		<publisher>Software Projects</publisher>
+	</game>
+	<game>
+		<path>./Donkey Kong [Nintendo].d64</path>
+		<name>Donkey Dong</name>
+		<image>./mixart/Donkey Kong [Nintendo].png</image>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./International Karate Plus.d64</path>
+		<name>IK+</name>
+		<desc>In the game, three karateka fight against each other on a beach, trying to be the first to score six points. After every two rounds, there is a bonus game which is either deflecting bouncing balls or kicking away bombs. The C64 version of the game only has the ball bouncing bonus game, and not the bomb bonus game. The game can be played by one or two human players; at least one fighter is always controlled by the computer. Unlike its predecessor, International Karate, there is only one backdrop. However, different parts of the backdrop can be recoloured to several different themes by the players using specific keystrokes.</desc>
+		<image>./mixart/International Karate Plus.png</image>
+		<video>./snap/International Karate Plus.mp4</video>
+		<marquee>./wheel/International Karate Plus.png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Sports-Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./IO - Into Oblivion (Europe).T64</path>
+		<name>IO - Into Oblivion</name>
+		<image>./mixart/IO - Into Oblivion (Europe).png</image>
+		<video>./snap/IO - Into Oblivion (Europe).mp4</video>
+		<marquee>./wheel/IO - Into Oblivion (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Firebird</publisher>
+	</game>
+	<game>
+		<path>./Jumpman (USA).D64</path>
+		<name>Jumpman</name>
+		<desc>Jumpman is a bomb disposal expert. He is called on to save the Jupiter headquarters after the evil Alienators invade it and booby-trap its 30 levels.
+
+In this early platform game, the titular hero must find his way around each screen, collecting every bomb. There are platforms and ladders to use, and a jet booster to propel you up the screen. However there are also enemies to avoid, and Jumpman must be careful not to fall too far.</desc>
+		<image>./mixart/Jumpman (USA).png</image>
+		<video>./snap/Jumpman (USA).mp4</video>
+		<marquee>./wheel/Jumpman (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Loco.d64</path>
+		<name>Loco</name>
+		<image>./mixart/Loco.png</image>
+		<video>./snap/Loco.mp4</video>
+		<marquee>./wheel/Loco.png</marquee>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Alligata Software</publisher>
+	</game>
+	<game>
+		<path>./Monty Mole (Europe).T64</path>
+		<name>Monty Mole</name>
+		<image>./mixart/Monty Mole (Europe).png</image>
+		<video>./snap/Monty Mole (Europe).mp4</video>
+		<marquee>./wheel/Monty Mole (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Gremlin Graphics</publisher>
+	</game>
+	<game>
+		<path>./Monty on the Run (Europe).D64</path>
+		<name>Monty on the Run</name>
+		<desc>Monty Mole was imprisoned due to his coal theft in Wanted: Monty Mole, and rescued by Sam Stoat in Monty is Innocent. Now he has to get out of Britain while he still can.
+
+Like the original, the game is a flick-screen platformer with puzzly leanings. Learning the movement paths of enemies, and the timing sequence of the crushers, and working out a path across the screen by using the offered ropes and platforms. Not all parts of all screens can be accessed at once.
+
+You will need to collect money and other items along the way. Before starting the game, you must choose five items from a selection of 21 to form your 'Freedom Kit'  correct selections are essential to complete the game, and a degree of trial and error is required to know which ones are correct.</desc>
+		<image>./mixart/Monty on the Run (Europe).png</image>
+		<video>./snap/Monty on the Run (Europe).mp4</video>
+		<marquee>./wheel/Monty on the Run (Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin</publisher>
+	</game>
+	<game>
+		<path>./myth2.d64</path>
+		<name>Myth : History in the Making</name>
+		<desc>Each level is centred on a certain location, such as in Hades, an Egyptian pyramid and ancient Greece, where the player must collect a magic orb in each to finish. Each level is based around related myths and legends. The gameplay consists of running and jumping through each level, collecting objects and weapons, fighting enemies and solving puzzles. Enemies include skeletons, demons, wraiths, mummies and vikings. Weapons include a sword, gun and fireballs. Each level contains a mythical boss enemy, such as Medusa, Thor and a Hydra. Puzzles involve using the right object in the right location to progress, such as throwing skulls into a pit of fire to summon a monster, and using the right weapon against enemies, such as attacking a specific monster with tridents. The user manual gave some background information about the various myths referred to in the game and gave hints to the puzzles. C64GS CART - At black screen, type SYS 3 MYTH with the spaces in uppercase. This will begin the game!</desc>
+		<image>./mixart/myth2.png</image>
+		<video>./snap/myth2.mp4</video>
+		<marquee>./wheel/myth2.png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./NEBULUS.D64</path>
+		<name>Nebulus</name>
+		<desc>Weird things are happening on Planet Nebulus. Someone or something has begun building huge towers on the sea bottom without having a construction license.    You get to the base of each tower in your submarine. You must guide your creature around and through all eight towers in order to reach the top of each and defuse an evil threat.</desc>
+		<image>./mixart/NEBULUS.png</image>
+		<video>./snap/NEBULUS.mp4</video>
+		<marquee>./wheel/NEBULUS.png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Netherworld (Europe).D64</path>
+		<name>Netherworld</name>
+		<desc>In this game you are trapped in Netherworld. With your space ship you have to make your way through different levels with a hostile environment. Under a time limit you have to collect diamonds to get to the next level. The game is filled with dragons, moving mines, acid spitting creatures and lots more.
+Your space ship is able to shoot, furthermore you can collect several power ups, such as sand glasses to ease the time limit, shield restore or items that give you invulnerability.</desc>
+		<image>./mixart/Netherworld (Europe).png</image>
+		<video>./snap/Netherworld (Europe).mp4</video>
+		<marquee>./wheel/Netherworld (Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+	</game>
+	<game>
+		<path>./Nobby the Aardvark 0.D64</path>
+		<name>Nobby the Aardvark</name>
+		<desc>Nobby the Aardvark is on the hunt for Antopia after an ant ready to be lunch told him about this wondrous place. So begins Nobby's search over eight levels for ant heaven. nnnnNobby the Aardvark is a mixture of game styles that include platform, mulit-scrolling, and top down maze levels. Vehicles included are a hot air balloon and a submarine. The joystick is used to control Nobby and the fire button is used to fire objects. If Nobby runs out of ants to fire then he can top up at an anthill.</desc>
+		<image>./mixart/Nobby the Aardvark 0.png</image>
+		<video>./snap/Nobby the Aardvark 0.mp4</video>
+		<marquee>./wheel/Nobby the Aardvark 0.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Genesis Software</developer>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game>
+		<path>./Nodes of Yesod.T64</path>
+		<name>Nodes of Yesod</name>
+		<image>./mixart/Nodes of Yesod.png</image>
+		<video>./snap/Nodes of Yesod.mp4</video>
+		<marquee>./wheel/Nodes of Yesod.png</marquee>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Odin Computer Graphics</publisher>
+	</game>
+	<game>
+		<path>./North_and_South_(Infogrames)_(REM).d64</path>
+		<name>North &amp; South</name>
+		<desc>Making an extremely simplified board interface, the game features a strategic map of the USA separated into states and territories, where army units are moved around. In each state which "owns" a railway station, there is a fort, the capture of which leads to the player overtaking the whole state. Otherwise, capturing a state involves simple movement, unless there is another army "on" the state. Armies can be reinforced in two ways. By turning on an option at the main menu the player controlling the state of North Carolina will get periodic reinforcements by ship. Also, railways generate money which in turn generates soldiers. Moving their army units, the player may expand westwards into unoccupied territory. If two antagonistic armies clash, it will result in a battle. There is an option on the main menu where the player can turn off in-game missions and battles to make it purely like a board game. Whenever opposing armies meet in board-game mode, the results of the battles are left to chance, with the outcome weighted towards the larger army. Either army may retreat from these battles. Whenever a side attempts to capture an enemy fort or rob a train, the result is also randomised.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Infogrames</publisher>
+		<genre>Strategy</genre>
+		<image>./mixart/North_and_South_(Infogrames)_(REM).png</image>
+		<marquee>./wheel/North_and_South_(Infogrames)_(REM).png</marquee>
+		<video>./snap/North_and_South_(Infogrames)_(REM).mp4</video>
+	</game>
+	<game>
+		<path>./Outrun [Side A_TC].d64</path>
+		<name>Out Run - US Version</name>
+		<desc>Race across varied terrain in this conversion of one of the most famous arcade racing games. Your Ferrari is at the ready, complete with female passenger, over a series of short tracks.  Gameplay is viewed form just above and behind the car, so you can see it. The roads are full of sharp bends and hazards, contact with which can cause the car to roll and lose you time. On each section of track there is a fork in the road, allowing you to choose which direction you go in. You have to complete 5 track sections in total, out of the 15 in the game.</desc>
+		<image>./mixart/Outrun [Side A_TC].png</image>
+		<video>./snap/Outrun [Side A_TC].mp4</video>
+		<marquee>./wheel/Outrun [Side A_TC].png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+	</game>
+	<game>
+		<path>./Pac-Man [Atari].d64</path>
+		<name>Pac-Man</name>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.  Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.  Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.  Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
+		<image>./mixart/Pac-Man [Atari].png</image>
+		<video>./snap/Pac-Man [Atari].mp4</video>
+		<marquee>./wheel/Pac-Man [Atari].png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Paperboy.d64</path>
+		<name>Paperboy</name>
+		<desc>Based on the arcade game, the object of Paperboy is to deliver papers to your customers while inflicting as much damage as possible to the houses of your non-customers. To make things more difficult, numerous obstacles get in your way including construction workers, rogue tires, skateboarders, dogs and cats, cars, and even the occasional tornado.</desc>
+		<image>./mixart/Paperboy.png</image>
+		<video>./snap/Paperboy.mp4</video>
+		<marquee>./wheel/Paperboy.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Paradroid (Europe).D64</path>
+		<name>Paradroid</name>
+		<desc>Paradroid is a top view shoot-em-up set aboard eight large space freighters filled with droids. After going through a storm in space, the rays affected the droids and they malfunctioned and killed the crew.
+
+You now have to destroy all the droids on the fleet of eight ships.  You control an "Influence Device" which can temporarily control other droids and use their weapons to destroy the others. When your power is low or your damage is high, you will need to transfer to another droid or risk losing your Influence Device.
+
+There was also an updated version called Heavy Metal Paradroid released in 1986 and Paradroid 90 (for the Amiga) released in 1990.</desc>
+		<image>./mixart/Paradroid (Europe).png</image>
+		<video>./snap/Paradroid (Europe).mp4</video>
+		<marquee>./wheel/Paradroid (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Graftgold</publisher>
+	</game>
+	<game>
+		<path>./pipe2.d64</path>
+		<name>pipe2</name>
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Pirates [Side A].d64</path>
+		<name>Pirates!</name>
+		<desc>Take on the life of a buccaneer in the golden age of Caribbean Piracy! This game lets you choose from 6 different "ages" (for example, "The Silver Empire" from 1560-1600, "War For Profit" from 1640-1660, etc.), one of 4 nationalities (English, French, Dutch, Spanish), 4 difficulty levels, and one of 5 special abilities (skill at fencing, skill at navigation, etc.). Nine different types of ships were represented.   The goal of the game is to retire with as much gold and land as possible, as many ranks/titles as possible (Colonel, Admiral, Marquis, Duke), and a wife. Finding long lost relatives helps too. You accomplish these goals by plundering cities, capturing and sinking enemy ships, getting in good with governors to receive titles, learn news of "evil Spaniards" holding your relatives, capturing evil pirates, etc.    The game is educational, as you will learn about piracy through the thoroughly researched manual. You'll smell the sea salt as you participate in wild sword fights, desperate sea battles, and daring attacks by land!</desc>
+		<image>./mixart/Pirates [Side A].png</image>
+		<video>./snap/Pirates [Side A].mp4</video>
+		<marquee>./wheel/Pirates [Side A].png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Pitstop II (USA).T64</path>
+		<name>Pitstop II</name>
+		<desc>Race Formula-1 in several tracks while trying to beat a computer opponent.  Pay attention to your fuel and tires: It will be necessary to drive into a pitstop to swap them out and refuel.</desc>
+		<image>./mixart/Pitstop II (USA).png</image>
+		<video>./snap/Pitstop II (USA).mp4</video>
+		<marquee>./wheel/Pitstop II (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>U.S. Gold</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Power DRIFT.D64</path>
+		<name>Power Drift</name>
+		<desc>Ever wanted to race dune buggies at high speed on a variety of tracks? Power Drift is an arcade racer that gives you the chance to do just that.  There are 5 tracks to choose from, each with 5 stages. The stages range from cities, to deserts to tracks over water. There are also 12 drivers to pick from, from businessmen to skinheads and mohicans.   Your buggy has 2 gears, high and low. Once the light goes green, just keep the pedal to the metal. You’ll need to place third or higher to continue to the next stage. Be careful not to bump into other buggies or objects next to the road. While you’re buggy can take a pounding, crashing will slow you down.   Finish all 5 stages in a level and you’ll be presented with a bonus level.</desc>
+		<image>./mixart/Power DRIFT.png</image>
+		<video>./snap/Power DRIFT.mp4</video>
+		<marquee>./wheel/Power DRIFT.png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+	</game>
+	<game>
+		<path>./R-Type_(Electric_Dreams)_(Beastie_Boys).d64</path>
+		<name>R-Type</name>
+		<desc>R-Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay.  You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire.  The R-9 comes equipped as standard with a small gun which can only take down the smallest of enemies without firing several shots. By holding down the fire button, it can be loaded up so as to release a large burst of energy, eliminating all but the strongest enemies in its path. From time to time, pods will come flying in your direction. Upon being shot, they release an upgrade. The first one will invariably be the one called "The Force", which is a weapons pod that clings either to the front or the back of your ship, absorbing any enemy bullets or acting as a bumper with which you can fly head-on into them. You can also use it as an offensive weapon by firing it and pulling it back in. Mastering the Force is vital to surviving in R-Type, since it must be used both as protection against bullet clusters, as a remote controlled cannon, and in order to clear the screen from obstacles. Other upgrades give you target-seeking missiles or a bigger main gun. Different gun types, differentiated by their colour, serve different purposes. The blue one sends laser beams bouncing across the screen (good for tunnels), the red one fires straight ahead, and the yellow one follows any walls it may encounter (good for artillery emplacements).  The stages of R-Type are made in an organic style, certainly inspired by H. R. Giger's artwork for the Alien movies. When it came out, it was considered trend-setting since it broke off from the stereotypical sci-fi mould of other shoot'em'ups. In part, the levels themselves are your enemy, which is exemplified by the fourth, where spider-like creatures weave webs that cover the screen and block your path, or levels with intricate tunnel systems. Still, the levels are best handled with a combination of strategy and reflexes, without the memorisation that is required of R-Type's contemporary rival, Gradius.</desc>
+		<image>./mixart/R-Type_(Electric_Dreams)_(Beastie_Boys).png</image>
+		<video>./snap/R-Type_(Electric_Dreams)_(Beastie_Boys).mp4</video>
+		<marquee>./wheel/R-Type_(Electric_Dreams)_(Beastie_Boys).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Electric Dreams Software</developer>
+		<publisher>Irem</publisher>
+		<genre>Shoot'em Up-Action</genre>
+	</game>
+	<game>
+		<path>./Rainbow Islands.D64</path>
+		<name>Rainbow Islands</name>
+		<desc>Sequel to Bubble Bobble, Rainbow Islands sees Bub and Bob (in 2 player mode), who are now curiously small boys rather than dinosaurs, attempting to rid the Rainbow Islands of bad guys.  Using the power to cast rainbows, trapping anything underneath, the boys must ascend vertically 4 levels each island, with a big, bad boss at the end of each.  By trapping beasts under your rainbows, then jumping on them to break them you can collect seven different colored gems, and there are also power-ups for extra speed and rainbows.</desc>
+		<image>./mixart/Rainbow Islands.png</image>
+		<video>./snap/Rainbow Islands.mp4</video>
+		<marquee>./wheel/Rainbow Islands.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform-Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Rambo - First Blood Part 2.d64</path>
+		<name>Rambo : First Blood Part II</name>
+		<desc>Rambo must tranverse six zones from bottom to top while defending against waves of enemies, ending with a boss at the end of the stage. Rambo is armed with a machinegun that can only shoot upwards, left and right, as well as in diagonal between the mentioned directions. He also counts with explosive arrows that are limited in quantity but can be shot in eight directions.</desc>
+		<image>./mixart/Rambo - First Blood Part 2.png</image>
+		<video>./snap/Rambo - First Blood Part 2.mp4</video>
+		<marquee>./wheel/Rambo - First Blood Part 2.png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>PlatinumGames</developer>
+		<publisher>Ocean</publisher>
+	</game>
+	<game>
+		<path>./Rampage_(Activision_1988)_(Napalm).d64</path>
+		<name>Rampage</name>
+		<desc>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.  Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human</desc>
+		<image>./mixart/Rampage_(Activision_1988)_(Napalm).png</image>
+		<video>./snap/Rampage_(Activision_1988)_(Napalm).mp4</video>
+		<marquee>./wheel/Rampage_(Activision_1988)_(Napalm).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Ranarama (Europe).T64</path>
+		<name>Rana Rama</name>
+		<desc>The purpose of apprentice courses is for young people to learn a trade gradually, without putting yourself or your employers at risk. Unfortunately, nobody explained this to Wizards apprentice Mervyn, before he tried to cast a spell to make him irresistible to females, as the spell misfired, and made him attractive only to female frogs. However, his dungeon was soon invaded, and Mervyn was not killed, as he appeared to be a humble frog.
+
+Viewed from above, the aim is to kill all 96 of the wizards who have invaded the dungeon, which is split into 8 levels, each made up of 16 screens and at least 50 rooms. To see whats in a room he has to enter it, in a manner similar to the Switchblade games.
+
+The games rather esoteric title comes from the way you obtain spells to upgrade the four different types of power you have (power, offence, defence and effect). When you meet a warlock you enter a mini game in which the letters RANARAMA are in random order, and by swapping pairs of letters in sequence you must form the full word in as little time as possible. This system of having a sub-game for collecting upgrades is similar to the grappling concept in Paradroid.
+
+This earns up to four of the Runes (Mysticism, Witchcraft, Magecraft and Runecraft), each of which can be used on one of the four types of power. The Magecraft offensive use is a fireball, defence for Runecraft makes you invisible to enemies, and the special effect for Witchcraft allows you to jump through space. Lose a life and you lose all these powers, and losing another life means its Game Over.</desc>
+		<image>./mixart/Ranarama (Europe).png</image>
+		<video>./snap/Ranarama (Europe).mp4</video>
+		<marquee>./wheel/Ranarama (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Graftgold</publisher>
+	</game>
+	<game>
+		<path>./Robin of the Wood (Europe).T64</path>
+		<name>Robin of the Wood</name>
+		<image>./mixart/Robin of the Wood (Europe).png</image>
+		<video>./snap/Robin of the Wood (Europe).mp4</video>
+		<marquee>./wheel/Robin of the Wood (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Odin Computer Graphics</publisher>
+	</game>
+	<game>
+		<path>./Samantha Fox Strip Poker.d64</path>
+		<name>Samantha Fox Strip Poker</name>
+		<desc>In this game, you play 5-card or 7-card stud poker, depending on the system. You are playing against Samantha Fox, a well known model and singer in the UK. The game is strip poker so, the more you win, the less she wears.</desc>
+		<image>./mixart/Samantha Fox Strip Poker.png</image>
+		<video>./snap/Samantha Fox Strip Poker.mp4</video>
+		<marquee>./wheel/Samantha Fox Strip Poker.png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Software Communications</developer>
+		<publisher>Martech</publisher>
+		<genre>Playing cards</genre>
+	</game>
+	<game>
+		<path>./Sex Games.d64</path>
+		<name>Sex Games</name>
+		<image>./mixart/Sex Games.png</image>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Landisoft</publisher>
+	</game>
+	<game>
+		<path>./Silkworm_(Ikari).d64</path>
+		<name>Silk Worm</name>
+		<desc>Silkworm is a classic horizontally-scrolling shoot-em-up based on the 1988 Tecmo arcade game. The main difference between this game and many other side-scrolling shoot-em-ups is that you got to be on land as well as in the air.  Player 1 would play as a helicopter, but if a second player joined the game, they would play as a jeep. Both players would have to protect each other as well as themselves. After a certain number of kills, a "goose" helicopter would form on the screen. If the players managed to destroy it they would get a weapons powerup. This would go on throughout the entire game (a "goose" could appear even during the end of level baddie!).</desc>
+		<rating>0.3</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Silkworm_(Ikari).png</image>
+		<marquee>./wheel/Silkworm_(Ikari).png</marquee>
+		<video>./snap/Silkworm_(Ikari).mp4</video>
+	</game>
+	<game>
+		<path>./Skate Crazy.d64</path>
+		<name>Skate Crazy</name>
+		<desc>Pull on your skates and get down to the local car park where your prowess on eight wheels is put to the test in the 'Car Park Challenge'. nnnnThe player grooves his way around one level of the car park which has been turned into a multidirectionally scrolling arena for the gladiators of roller racing. Kick cans over, litter to collect and obstacles to avoid in the shape of cones, ramps, sand, bouncing balls, flying frisbees, mazes of tyres and rocks, and even other skaters. Finishing each level is a battle against time to negotiate a series of gates in a set order, the next gate being signified by a row of dots which flash between its flags. nnnnTo complete rounds successfully, though, suitably impressive stunts and tricks are carried out to appease a set of four judges. Each have a card which they periodically display at the bottom of the screen, notifying the player of his progress. When the player's energetic jumping skills have gained enough points to qualify, he skates through the finishing gate and has his performance rated. Failing to qualify forces the player to skate around the car park against the clock, picking up a set number of pieces of litter. Beating a level allows the player to skate to the level's exit ramp, from where he chooses to move up to the next level or leave the car park and move onto the next part of the game, 'The Skate Crazy Championship Course'. nnnnThis section of the game is a race against time over four horizontally scrolling cityscapes of platforms and ramps, with the player building up speed on his skates using a paced joystick waggling movement. Ground level obstacles and gaps in the floor are crossed with leaps of controllable strength and items at head height are avoided by judicious ducking. Birds and other creatures also spell doom for the heroic skater, unless he is able to avoid them or throw things at them. nnnnPoints are scored in this section by picking up extra skating paraphernalia, such as pads, clothes, skates and litter.</desc>
+		<image>./mixart/Skate Crazy.png</image>
+		<video>./snap/Skate Crazy.mp4</video>
+		<marquee>./wheel/Skate Crazy.png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Gremlin Graphics</developer>
+		<publisher>Gremlin Graphics</publisher>
+	</game>
+	<game>
+		<path>./Space_Harrier_II_(REM)(GP).d64</path>
+		<name>Space Harrier II</name>
+		<desc>Space Harrier II follows (very closely) in the footsteps of its predecessor and involves you (a Space Harrier) going off to save "Fantasy Land". This combined with the many flashing gaudy colors the game throws at you leads me to believe that it was born out of a bad acid trip.  There are 13 stages to complete by jetting around and blasting bad guys and bosses as they approach. The game is played from behind the main character and the landscape rushes up in 3D similar to the effect used in many car games such as Outrun.  The game uses many of the enemies and bosses from the first Space Harrier, but adds an array of new ones as well.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Lightgun Shooter-Action</genre>
+		<players>1</players>
+		<image>./mixart/Space_Harrier_II_(REM)(GP).png</image>
+		<marquee>./wheel/Space_Harrier_II_(REM)(GP).png</marquee>
+		<video>./snap/Space_Harrier_II_(REM)(GP).mp4</video>
+	</game>
+	<game>
+		<path>./Speed Ball (USA).T64</path>
+		<name>Speedball</name>
+		<desc>The original future sport game, Speedball is played out on a small court with five players on each team, making it more frantic than the more famous sequel. The ball must be thrown into the goal at your opponent's end. Any amount of physical contact can be made, and there are no illegal ways to get the ball or the goal.
+
+Before each match you can bribe the referee into awarding you a head-start or strengthening the abilities of your players. You compete in a simple knockout cup tournament, or in individual 2-player games.</desc>
+		<image>./mixart/Speed Ball (USA).png</image>
+		<video>./snap/Speed Ball (USA).mp4</video>
+		<marquee>./wheel/Speed Ball (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>The Bitmap Brothers</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./SPEEDBA2.T64</path>
+		<name>Speedball 2 - Brutal Deluxe</name>
+		<desc>Brutal Deluxe doesn't live up to their name - in fact they're the worst team Speedball has ever seen. As their manager, it is your job to transform their fortunes. As well as the league system, which consists of 2 8-team divisions and challenges you to advance to the top, there are also 2 cup tournaments, one of which is played out over 2 'legs' with the aggregate score deciding who progresses. You can play the matches as well, which is the real meat of the game. They consist of 2 90-second periods, and the gameplay is futuristic, fast and frantic, with heavy tackling encouraged to retrieve the ball. Power-ups and tokens appear on the pitch, including ones to make your players extra-tough or freeze the opponents.</desc>
+		<image>./mixart/Speedball II (Europe).png</image>
+		<video>./snap/Speedball II (Europe).mp4</video>
+		<marquee>./wheel/Speedball II (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>The Bitmap Brothers</publisher>
+	</game>
+	<game>
+		<path>./Spindizzy (USA).D64</path>
+		<name>Spindizzy</name>
+		<desc>As GERALD (Gyroscopic ExploRAtion Landing Device) you must explore 385 screens of Hangworld, using limited fuel. The game is viewed isometrically, which means that the controls are rotated through 90 degrees - this, coupled with the fact that many screens have huge gaps and diagonal paths, means that it's hard to get far at first. Falling off ledges loses you time, which is very limited to start with
+
+Gerald must collect energy crystals throughout his journey - which can also be shortened by using a complex system of lifts. Sections you have travelled through are automatically mapped.</desc>
+		<image>./mixart/Spindizzy (USA).png</image>
+		<video>./snap/Spindizzy (USA).mp4</video>
+		<marquee>./wheel/Spindizzy (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Electric Dreams Software</developer>
+		<publisher>Electric Dreams Software</publisher>
+	</game>
+	<game>
+		<path>./Spy vs Spy.d64</path>
+		<name>Spy vs Spy</name>
+		<desc>MAD magazine's comic strip of the same name comes to life in this game which was designed for one or two players. The split-screen shows both spies at the same time. Play with a friend or against the machine. The black spy and the white spy are out to outsmart each other before the time bell rings. Find the needed objects (money, passport, secret plans and airport door key) by searching rooms in the embassy, which include desks, file cabinets and other furniture. Foil your opponent by setting creative booby traps in the various rooms (a bomb in a dresser drawer, for instance). Traps can be disarmed with objects found in rooms (a water bucket from a firebox on the wall will disarm the bomb in the prior example). When all the items are together in the secret briefcase, head for the airport door. Fights ensue when both spies enter the same room and are armed with clubs.</desc>
+		<image>./mixart/Spy vs Spy.png</image>
+		<video>./snap/Spy vs Spy.mp4</video>
+		<marquee>./wheel/Spy vs Spy.png</marquee>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>First Star Software</developer>
+		<publisher>First Star Software</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Star Paws (Europe).T64</path>
+		<name>Star Paws</name>
+		<image>./mixart/Star Paws (Europe).png</image>
+		<video>./snap/Star Paws (Europe).mp4</video>
+		<marquee>./wheel/Star Paws (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Software Projects</publisher>
+	</game>
+	<game>
+		<path>./Steel.t64</path>
+		<name>Steel</name>
+		<image>./mixart/Steel.png</image>
+		<video>./snap/Steel.mp4</video>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Stunt Car Racer.d64</path>
+		<name>Stunt Car Racer</name>
+		<desc>"Race a single computer opponent for first place on a unique racetrack -- 100 feet in the air! You start in the fourth three-man division of a league, all racing each other twice, and must come top to progress. The action is viewed from within the car throughout the 3-lap races, with the distance between you always on screen.    Jump chasms, jumps, and drawbridges; take banks hard or slow; pass your opponent on the track or while catching mass air. Your car has the ability to burn a limited amount of turbo boost fuel as a way to accelerate faster and achieve higher speeds, but don't use it all up at once or you'll fall behind. Don't damage your engine too much; severe dents will show up during your next race.    Whatever you do, don't fall off the track, as this will cost you time as you are placed back on." --mobygames.com</desc>
+		<image>./mixart/Stunt Car Racer.png</image>
+		<video>./snap/Stunt Car Racer.mp4</video>
+		<marquee>./wheel/Stunt Car Racer.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Micro Style</developer>
+		<publisher>Micro Style</publisher>
+		<genre>Race, Driving</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Super Cycle.crt</path>
+		<name>Super Cycle</name>
+		<desc>A motorbike racing game strongly resembling Sega's Hang-On titles. The game is viewed from behind the bike, which tilts as you turn. You are racing against the clock, although there are lots of other bikes on track to avoid and ride around. There are 3 skill levels, which affect the amount of time you have to complete the level, and the bonus offered if you manage to (the amount of time left, divided by a set number, bigger on lower levels). Your bike has 3 gears and appears to have a top speed of around 120 MPH. After every 2 races there's a bonus round in which you must pick up as many tokens as possible in the time limit.</desc>
+		<image>./mixart/Super Cycle.png</image>
+		<video>./snap/Super Cycle (USA).mp4</video>
+		<marquee>./wheel/Super Cycle.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+	</game>
+	<game>
+		<path>./Last Ninja, the [Side A_Triad].d64</path>
+		<name>The Last Ninja</name>
+		<desc>You are the last living member of your ninja clan after they were brutally slaughtered. Now, you seek to exact revenge on the evil shogun responsible.  The Last Ninja is an action/adventure game set in medieval Japan. The game is shown in isometric view, and the eponymous ninja can walk in four directions, jump, fight the enemies and collect necessary items on his way.   While fighting, the ninja can use several different blows and block. There are a couple of weapons to find, including smoke bombs and shuriken.</desc>
+		<image>./mixart/Last Ninja, the [Side A_Triad].png</image>
+		<video>./snap/Last Ninja, the [Side A_Triad].mp4</video>
+		<marquee>./wheel/Last Ninja, the [Side A_Triad].png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Adventure-Action</genre>
+	</game>
+	<game>
+		<path>./Way of the Exploding Fist, the.d64</path>
+		<name>The Way of the Exploding Fist</name>
+		<desc>This menacingly-titled beat 'em up was the first in many martial arts titles from Australia's Melbourne House. Sixteen different moves are on offer, ranging from standard kicks to jumps, somersaults and roundhouse kicks.  The move executed each time is defined based on the character's direction, the joystick/keyboard positioning, and on whether the fire button is depressed, in a system which became standard on single-button control systems.  To win each bout you must score 2 Yin-Yangs - a perfectly executed kick/punch scores a full one, whereas a less forceful contact offers half a point - the best moves also offer more points. In the one-player game, you advance through a Dan by winning two successive bouts, and a single win for the opponent means game over. The champion in a two-player duel is decided by points after 4 rounds.</desc>
+		<image>./mixart/Way of the Exploding Fist, the.png</image>
+		<video>./snap/Way of the Exploding Fist, the.mp4</video>
+		<marquee>./wheel/Way of the Exploding Fist, the.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>Melbourne House</publisher>
+		<genre>Fight-Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Thing Bounces Back (Europe).T64</path>
+		<name>Thing Bounces Back</name>
+		<image>./mixart/Thing Bounces Back (Europe).png</image>
+		<video>./snap/Thing Bounces Back (Europe).mp4</video>
+		<marquee>./wheel/Thing Bounces Back (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Gremlin Graphics</publisher>
+	</game>
+	<game>
+		<path>./Turrican 2 [Side A].d64</path>
+		<name>Turrican II : The Final Fight</name>
+		<desc>Turrican II : The Final Fight est un jeu d'action sur Commodore 64. En l'an 2035, vous devez lutter pour rétablir la paix et renverser un super ordinateur ayant pris le contrôle. Votre personnage explore de vastes niveaux bourrés d'ennemis et de bonus. Il peut tirer dans toutes les directions et se servir d'un arsenal toujours plus puissant. Quelques zones en shoot'em up interviennent au fil de la progression.</desc>
+		<image>./mixart/Turrican 2 [Side A].png</image>
+		<video>./snap/Turrican 2 [Side A].mp4</video>
+		<marquee>./wheel/Turrican 2 [Side A].png</marquee>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rainbow Arts (Softgold)</developer>
+		<publisher>Factor 5</publisher>
+	</game>
+	<game>
+		<path>./Uridium.d64</path>
+		<name>Uridium</name>
+		<desc>Your home solar system of 15 planets has been attacked by a horde of Super Dreadnoughts, from a race who wish to harvest your universe's minerals for their own use.
+
+You must pilot your craft through some of the hardest levels ever created and shoot down all the enemy space craft and ground weapons, and avoid the many indestructible hazards. 
+
+The innovation is that you do not simply travel in a single direction, but instead move from left to right or right to left depending on where the current targets are, in a manner more similar to Defender than most shoot 'em ups.</desc>
+		<image>./mixart/Uridium.png</image>
+		<video>./snap/Uridium.mp4</video>
+		<marquee>./wheel/Uridium.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Graftgold</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Winter Games.d64</path>
+		<name>Winter Games</name>
+		<desc>Another in the series of Epyx Olympic sports games. Compete in many different sporting events like: Ski Jump, Hot Dog, Biathlon, Bobsled, Free Skating, Figure Skating and more.</desc>
+		<image>./mixart/Winter Games.png</image>
+		<video>./snap/Winter Games.mp4</video>
+		<marquee>./wheel/Winter Games.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Action Graphics</developer>
+		<publisher>Epyx</publisher>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Yie Ar Kung-Fu.d64</path>
+		<name>Yie Ar Kung-Fu</name>
+		<desc>Based on the popular arcade game, Yie Ar Kung-Fu follows Oolong's quest to become a Kung-Fu master.  Of course this involves fighting a wide range of opponents in a traditional one-on-one 2D environment.  Oolong has a wide range of attacks he can use to lower his opponent's life bar, including traditional punching and kicking attacks as well as jumping ones.  Opponents are well armed with unique weapons and attacks, so Oolong's task won't be easy.</desc>
+		<image>./mixart/Yie Ar Kung-Fu.png</image>
+		<video>./snap/Yie Ar Kung-Fu.mp4</video>
+		<marquee>./wheel/Yie Ar Kung-Fu.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight-Sports-Action</genre>
+	</game>
+	<game>
+		<path>./Zynaps (Europe).D64</path>
+		<name>Zynaps</name>
+		<image>./mixart/Zynaps (Europe).png</image>
+		<video>./snap/Zynaps (Europe).mp4</video>
+		<marquee>./wheel/Zynaps (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Buggy_Boy_(L+T).d64</path>
+		<name>Buggy Boy</name>
+		<desc>The object of the game was to drive around one of five courses (Offroad, North, East, South or West) in the shortest time possible. Each course has five legs, each filled with obstacles such as boulders and brick walls. Points are awarded for driving through gates and collecting flags.    The player could also hit logs and tree stumps in order to jump the buggy over obstacles, gaining extra points while airborne. Extra points are also rewarded for driving the buggy on one wheel.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Tatsumi Electronics</developer>
+		<publisher>Elite Systems</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/Buggy_Boy_(L+T).png</image>
+		<marquee>./wheel/Buggy_Boy_(L+T).png</marquee>
+		<video>./snap/Buggy_Boy_(L+T).mp4</video>
+	</game>
+	<game>
+		<path>./Creatures 2.d64</path>
+		<name>Creatures 2 : Torture Trouble</name>
+		<desc>Creatures 2 : Torture Trouble est un jeu d'action sur Commodore 64. Clyde Radcliff vit maintenant une vie paisible avec sa femme et ses 9 enfants. Mais c'est alors que des démons arrivent à s'échapper et décident de se venger sur notre héros en enlevant ses enfants. Clyde doit ainsi sauver sa progéniture et éliminer tous les démons.</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thalamus</developer>
+		<publisher>Apex Designs</publisher>
+		<image>./mixart/Creatures 2.png</image>
+		<marquee>./wheel/Creatures 2.png</marquee>
+		<video>./snap/Creatures 2.mp4</video>
+	</game>
+	<game>
+		<path>./Operation_Wolf_(BROS).d64</path>
+		<name>Operation Wolf</name>
+		<desc>You have been recruited for Operation Wolf, a desperate attempt to rescue prisoners from the enemy. Through a series of missions, you'll engage a variety of enemies, from soldiers to ninjas, patrol boats to helicopters, and more. Can you carry the day?  Operation Wolf is an arcade conversion of the game by Taito. It is essentially a bitmapped "rail-shooter", where you basically hold the gun and shoot just about everything that moves, while conserving your ammo and grenades. Shoot ammo/grenades and healing items on the screen to "pick them up". Your primary machine gun can kill everything if you hit it enough times, but you can also use the grenade launcher for really deadly targets like helicopters or armored cars. You can collect a machine gun which will allow you to shoot faster for a few seconds.   You'll be pummelled by a LOT of enemies. Some will be shooting, others will be tossing grenades, knifes, and more. Some are armored and requires more than a few hits, others dodges. You can shoot grenades and knifes out of the air if you aim well enough. There are also civilians running around which can be shot, but it's not beneficial.   Bosses appear at the end of some levels, and each has a specific weakness you need to exploit.</desc>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Lightgun Shooter-Action</genre>
+		<players>1</players>
+		<image>./mixart/Operation_Wolf_(BROS).png</image>
+		<marquee>./wheel/Operation_Wolf_(BROS).png</marquee>
+		<video>./snap/Operation_Wolf_(BROS).mp4</video>
+	</game>
+	<game>
+		<path>./Great Giana Sisters.d64</path>
+		<name>The Great Giana Sisters</name>
+		<desc>The Great Giana Sisters is a 2D side-scrolling arcade game like Nintendo's Super Mario Bros.  After a long and deep sleep, Giana finds herself in a mysterious and evil dreamworld where everything is strange and different.    In 32 levels, Giana has to fight against bad monsters, huge spiders and lots of other creatures to find a magic diamond that makes it possible to return to her own world.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Time Warp Productions</developer>
+		<publisher>Rainbow Arts (Softgold)</publisher>
+		<genre>Platform-Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Great Giana Sisters.png</image>
+		<marquee>./wheel/Great Giana Sisters.png</marquee>
+		<video>./snap/Great Giana Sisters.mp4</video>
+	</game>
+	<game>
+		<path>./The_Newzealand_Story_(S451).d64</path>
+		<name>The New Zealand Story</name>
+		<desc>One day, a kiwi tribe was having fun and games outside the zoo, only to be kidnapped by the evil-minded Leopard Seal, who plans to sell them at the black market. Fortunately, during the kidnapping process, Tiki, leader of the tribe, managed to escape the sack, and her job is to rescue Phee-Phee and the other kiwis scattered around New Zealand, and are held in cages in various locations that include Auckland, Rotorua, Waitomo Caves, Strait Cook, and Mt. Cook.   If Tiki doesn't rescue a kiwi in a limited amount of time, the devil will appear and try to kill her. When Tiki reaches the outskirts of each city, except Strait Cook, there is a boss waiting to meet Tiki, and kill her by using their own choice of weapons. Also making the rescue mission difficult are several nasties that attempt to throw their own weapons, like bombs and arrows, at her. To defeat these enemies, Tiki shoots at them using her crossbow and arrows. More often than not, when Tiki shoots at enemies, they will leave behind pieces of fruit that she can pick up for points. However, it is likely that Tiki may get other weapons or the letters E, X, T, E, N, and D. Collecting all these letters will result in an extra life, and as for the weapons, they include laser shots, bombs, and fireballs.   In some levels, a few areas are located further up than just left or right, and the only way that Tiki can go up is by snatching something off the enemy that gives her the ability to fly up. Other areas are underwater, and when Tiki goes underwater, her oxygen  meter decreases, so she has to rise up to the surface again to restore her oxygen levels. Apart from her own weapons, Tiki is able to squirt water at enemies if she gets to the top of the water.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform-Action</genre>
+		<image>./mixart/The_Newzealand_Story_(S451).png</image>
+		<marquee>./wheel/The_Newzealand_Story_(S451).png</marquee>
+		<video>./snap/The_Newzealand_Story_(S451).mp4</video>
+	</game>
+	<game>
+		<path>./World Games (Europe).D64</path>
+		<name>World Games</name>
+		<desc>Olympics style sports game.  Compete in several events including:
+Skiing, Weight Lifting, Barrel Jumping, Sumo Wrestling, Bull Riding, Cliff Diving, Log Rolling, Caber Toss, Pole Vault, Platform Diving.</desc>
+		<image>./mixart/World Games (Europe).png</image>
+		<video>./snap/World Games (Europe).mp4</video>
+		<marquee>./wheel/World Games (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx Inc</publisher>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Impossible Mission II (USA).D64</path>
+		<name>Impossible Mission II</name>
+		<desc>You have 8 hours to prevent Elvin, a psychotic genius from destroying the world in this sequel to the highly successful Impossible Mission. Enter Elvin's tower fortress, avoid his robots, assemble security combinations for each tower, recover musical sequences and tie them together into a full melody to reach Elvin's central control room.</desc>
+		<image>./mixart/Impossible Mission II (USA).png</image>
+		<video>./snap/Impossible Mission II (USA).mp4</video>
+		<marquee>./wheel/Impossible Mission II (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Novotrade International</developer>
+		<publisher>Epyx</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Rubicon.CRT</path>
+		<name>Rubicon</name>
+		<image>./mixart/Rubicon.png</image>
+		<video>./snap/Rubicon.mp4</video>
+		<marquee>./wheel/Rubicon.png</marquee>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Impossible Mission II (USA).D64</path>
+		<name>Impossible Mission II</name>
+		<desc>You have 8 hours to prevent Elvin, a psychotic genius from destroying the world in this sequel to the highly successful Impossible Mission. Enter Elvin's tower fortress, avoid his robots, assemble security combinations for each tower, recover musical sequences and tie them together into a full melody to reach Elvin's central control room.</desc>
+		<image>./mixart/Impossible Mission II (USA).png</image>
+		<video>./snap/Impossible Mission II (USA).mp4</video>
+		<marquee>./wheel/Impossible Mission II (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Novotrade International</developer>
+		<publisher>Epyx</publisher>
+	</game>
+	<game>
+		<path>./Last Ninja 2A.D64</path>
+		<name>Last Ninja All in One</name>
+		<desc>Last Ninja 2 : Back with a Vengeance sur Commodore 64 est un jeu d'action dans lequel vous incarnez le seul et dernier survivant de votre clan qui a été sauvagement massacré. Vous n'avez plus qu'une seule idée en tête : la revanche. Traquez et tuez les meurtriers avec l'arsenal du parfait Shinobi : katana, nunchaku et shuriken.</desc>
+		<image>./mixart/Last Ninja 2B.png</image>
+		<video>./snap/Last Ninja 2B.mp4</video>
+		<marquee>./wheel/Last Ninja 2B.png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Adventure</genre>
+	</game>
+</gameList>

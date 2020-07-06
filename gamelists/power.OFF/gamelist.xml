@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+    <game>
+        <path>./Shutdown Pi.sh</path>
+        <name>System Shutdown</name>
+        <image>./boxart/shutdown.png</image>
+        <video>./boxart/shutdown.png</video>
+    </game>
+    <game>
+        <path>./Reboot Pi.sh</path>
+        <name>System Restart</name>
+        <image>./boxart/reboot.png</image>
+        <video>./boxart/reboot.png</video>
+    </game>
+</gameList>

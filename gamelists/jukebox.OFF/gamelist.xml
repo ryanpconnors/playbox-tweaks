@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+	<game>
+		<path>./NumberOne.sh</path>
+		<name>NumberOne JukeBox</name>
+		<desc>Run JukeBox application. Place your mp3 files in the music folder set in the JukeBox configuration. The mp3 files need to have tags filled.</desc>
+		<image>./icons/jukebox.png</image>
+	</game>
+	<game>
+		<path>./TouchOne.sh</path>
+		<name>TouchOne JukeBox</name>
+		<desc>Run JukeBox application. Place your mp3 files in the music folder set in the JukeBox configuration. The mp3 files need to have tags filled.</desc>
+		<image>./icons/jukebox.png</image>
+	</game>
+	<game>
+		<path>./WallSmall.sh</path>
+		<name>WallSmall JukeBox</name>
+		<desc>Run JukeBox application. Place your mp3 files in the music folder set in the JukeBox configuration. The mp3 files need to have tags filled.</desc>
+		<image>./icons/jukebox.png</image>
+	</game>
+	<game>
+		<path>./WallJuke.sh</path>
+		<name>WallJuke JukeBox</name>
+		<desc>Run JukeBox application. Place your mp3 files in the music folder set in the JukeBox configuration. The mp3 files need to have tags filled.</desc>
+		<image>./icons/jukebox.png</image>
+	</game>
+	<game>
+		<path>./Modern.sh</path>
+		<name>Modern JukeBox</name>
+		<desc>Run JukeBox application. Place your mp3 files in the music folder set in the JukeBox configuration. The mp3 files need to have tags filled.</desc>
+		<image>./icons/jukebox.png</image>
+	</game>
+	<game>
+		<path>./Granite.sh</path>
+		<name>Granite JukeBox</name>
+		<desc>Run JukeBox application. Place your mp3 files in the music folder set in the JukeBox configuration. The mp3 files need to have tags filled.</desc>
+		<image>./icons/jukebox.png</image>
+	</game>
+	<game>
+		<path>./✭ JukeBox Configuration.sh</path>
+		<name>✭ JukeBox Configuration</name>
+		<desc>RunJukeBox Configuration. Run to delete your old database and configure your controller buttons.</desc>
+		<image>./icons/jukebox-cfg.png</image>
+	</game>
+</gameList>

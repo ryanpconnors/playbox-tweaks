@@ -1,0 +1,406 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Super Nintendo MSU-1</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="172196" source="ScreenScraper.fr">
+		<path>./Super_Mario_Kart_(USA)_(MSU1).sfc</path>
+		<name>Super Mario Kart</name>
+		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
+
+There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+		<hash>AC1E05DA</hash>
+		<image>./mixart/Super_Mario_Kart_(USA)_(MSU1).png</image>
+		<marquee>./wheel/Super_Mario_Kart_(USA)_(MSU1).png</marquee>
+		<video>./snap/Super_Mario_Kart_(USA)_(MSU1).mp4</video>
+	</game>
+	<game id="172208" source="ScreenScraper.fr">
+		<path>./Super_Street_Fighter_II_(USA)_(MSU1).sfc</path>
+		<name>Super Street Fighter II</name>
+		<desc>This is the sequel to the super hit Street Fighter II Turbo and Street Fighter II Championship games for the SNES and Genesis. This port of the arcade game featured all 4 new characters and stages making a total of 16 playable. The game was packed into massive 32Meg and 40Meg cartridges for the SNES and Genesis. Featured many multiplayer modes in addition to the single player mode. There was the returning elimination group battle where you and a group of people played until one person was the champ. The Point Battle where the person with the most points wins. Newer modes included Tournament where you had an 8 man double elimination tournament. Finally the Challenge mode, where you tried to get the most points on a CPU opponent or beat them real fast trying to surpass records.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930911T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1-2</players>
+		<hash>3F412740</hash>
+		<image>./mixart/Super_Street_Fighter_II_(USA)_(MSU1).png</image>
+		<marquee>./wheel/Super_Street_Fighter_II_(USA)_(MSU1).png</marquee>
+		<video>./snap/Super_Street_Fighter_II_(USA)_(MSU1).mp4</video>
+	</game>
+	<game>
+		<path>./Ultimate_Mortal_Kombat_3_(USA)_(MSU1).sfc</path>
+		<name>Ultimate Mortal Kombat 3</name>
+		<desc>Ultimate Mortal Kombat 3 combines the best of all the Mortal Kombats into a single cartridge. 23 playable characters are immediately available, such as Reptile, Cyrax, Scorpion, Sub-Zero, Jax, Katana, Sonya, and more. There are two bosses that are unlockable, as well as additional characters.
+
+There is a variety of new levels, some of which are interactive. Characters can uppercut someone, causing them to hit the ground hard and crash through to the bottom floor, or they can knocked someone off a bridge, landing in a pit of spikes.
+
+Players can go against the computer one-on-one, two-on-two, or take part in the 8-fighter tournament.
+
+The DS version has a wireless one-one-one multiplayer mode and includes the Puzzle Kombat mini-game from Mortal Kombat: Deception.</desc>
+		<image>./mixart/Ultimate_Mortal_Kombat_3_(USA)_(MSU1).png</image>
+		<video>./snap/Ultimate_Mortal_Kombat_3_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Ultimate_Mortal_Kombat_3_(USA)_(MSU1).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19961001T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Williams Entertainment Inc.</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./F-Zero_(USA)_(MSU1).sfc</path>
+		<name>F-Zero</name>
+		<desc>F-Zero is a futuristic racing game, set in the year 2560. The player chooses one of the four available hovercars and then can race with other hovercars in one of the gameplay modes - "Practice" or "Grand Prix". 
+
+In "Practice" mode, the player chooses one track where he competes with one other hovercar to win the race (or there can be no rival at all, if you so wish). In "Grand Prix", the player must complete a series of races with several competitors. Each race consists of five laps. 
+
+The hovercar has a limited Power meter, which represents the machine's health and decreases when the hovercar collides with the track boundaries and other players. If power runs out, the hovercar explodes and the player loses the race. There are repair areas near the start line, which restore power to the player's hovercar if he drives into them. The tracks contain many more or less dangerous traps, such as icefields or landmines. 
+
+Completing a lap awards the player a "Super Jet" which can be activated at any time to give a short speed boost. The hovercar can keep up to three Super Jets and use them when necessary. 
+
+Completing a lap also gives points, which give the player a life when enough are accumulated. The player can lose a life in the Grand Prix mode if his hovercar explodes, if his hovercar somehow falls out of the track or if he ends up too far behind the other racers.</desc>
+		<image>./mixart/F-Zero_(USA)_(MSU1).png</image>
+		<video>./snap/F-Zero_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/F-Zero_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19901121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+	</game>
+	<game>
+		<path>./Rival_Turf!_(USA)_(MSU1).sfc</path>
+		<name>Rival Turf!</name>
+		<desc>When a ruthless gang led by Big Al invades their turf, it's up to the Brawl Brothers to take back their streets and send their rivals home with their tails between their legs. You can go at it alone or team up with a friend for some simultaneous two-player action as you kick, punch, and body slam your way to victory through six stages of no holds barred, hand-to-hand fighting action. There are all kinds of realistic street-fighting techniques to master, including body slams, leg sweeps, jabs, hooks, and uppercuts. If you want a fight but aren't feeling friendly, then turn the tables on your friend and go head-to-head for bragging rights and control of the streets. In RIVAL TURF, only the strong survivecan you take it?
+</desc>
+		<image>./mixart/Rival_Turf!_(USA)_(MSU1).png</image>
+		<video>./snap/Rival_Turf!_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Rival_Turf!_(USA)_(MSU1).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920402T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Sunset_Riders_(USA)_(MSU1).sfc</path>
+		<name>Sunset Riders</name>
+		<desc>The Wild West...full of the criminal element. Sir Richard Rose, the most despicable face in the criminal lot, has enough power to control the mining facilities, cattle ranches, and trading communities and turn everything to his favor. With that much power, he could literally buy himself the Wild West and control everything!
+
+The people need help, desperately. And just as things were looking grim, who should ride into town but 4 men who have made a pact: to put down Sir Richard Rose and make the Wild West a free and peaceful place to live.
+
+Steve, Bob, Billy, and Cormano are the Sunset Riders, and they're about to live out the wildest shootout the Wild West has ever seen...</desc>
+		<image>./mixart/Sunset_Riders_(USA)_(MSU1).png</image>
+		<video>./snap/Sunset_Riders_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Sunset_Riders_(USA)_(MSU1).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super_Mario_World_(USA)_(MSU1).sfc</path>
+		<name>Super Mario World</name>
+		<desc>Once again, the evil Bowser has captured Princess Peach (while on a holiday on Yoshi's Island), and it's up to Mario to save her. To aid him in his quest, Mario must use the flying ability of the feather to get him to places hard to reach. But what's even more important is his new friend, the dinosaur Yoshi, who Mario can ride through each level and eat the enemies.
+
+Over 90 levels are on offer, with plenty of Bowser's evil koopas and new characters around each level. Apart from saving Peach, you can also save some of Yoshi's friends, other dinosaurs that each have a special attack. Each level also contains a set of extra items to collect, including dinosaur coins, and break the tape at the end of each level to collect stars, that allow you to open up the bonus games.</desc>
+		<image>./mixart/Super_Mario_World_(USA)_(MSU1).png</image>
+		<video>./snap/Super_Mario_World_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Super_Mario_World_(USA)_(MSU1).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19901121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./R-Type_III_(USA)_(MSU1).sfc</path>
+		<name>R-Type III</name>
+		<desc>UNDER A NEW BYDO THREAT, EARTH RETALIATES It was believed on Earth that the deadly BYDO Empire had been destroyed--but now they've returned, as nasty as ever. Their ships and armies are more powerful than before, and Earth will surely be conquered unless the new R-90 ship can destroy them. Powered with engines that launch it into different dimensions, and armed with the Round, Shadow, and Cyclone Forces, R-90 has what it takes to wipe out the BYDO threat. Then, the BYDO mother ship must be found and destroyed to entirely erase the species from our galaxy.</desc>
+		<image>./mixart/R-Type_III_(USA)_(MSU1).png</image>
+		<video>./snap/R-Type_III_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/R-Type_III_(USA)_(MSU1).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Irem</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super_Turrican_(USA)_(MSU1).sfc</path>
+		<name>Super Turrican</name>
+		<desc>Super Turrican is the next generation installment of the famous Turrican Series. Once again it is up to the U.S.S. Freedom Forces to get into their Turrican Assault Suits and drive back the forces of "The Machine".
+
+Similar to it's predecessors, Super Turican features large levels that are crammed with secrets and can be explored freely and in any direction. To get rid of the numerous enemies, Turrican can use three upgradeable shots: A spreadshot, a powerful laser and a rebound that bounces off of walls. Additionally, there is a Freeze-Beam that can be used to temporarily freeze enemies. It is fully rotatable, and therefor also a great help in discovering secret capsules. These capsules contain powerups and can often be used to reach secret areas. Last but not least, Turrican has the ability to transform into an energy wheel (as long as he has enough special energy), which enables him to lay mines and even makes him invincible.</desc>
+		<image>./mixart/Super_Turrican_(USA)_(MSU1).png</image>
+		<video>./snap/Super_Turrican_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Super_Turrican_(USA)_(MSU1).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Factor 5 GmbH</developer>
+		<publisher>Kemco/Seika</publisher>
+	</game>
+	<game>
+		<path>./Rock_n'_Roll_Racing_(USA)_(MSU1).sfc</path>
+		<name>Rock n' Roll Racing</name>
+		<desc>Rock 'n Roll Racing is an arcade combat racing game. Combat plays a heavy role in the game, as each car has a frontal weapon, such as a laser or missile, and a drop weapon, such as spikes or mines. As you complete races, you get more money to upgrade your car.
+
+The soundtrack features "Born to Be Wild," "Bad to the Bone," "The Peter Gunn Theme," "Highway Star" and "Paranoid."
+</desc>
+		<image>./mixart/Rock_n'_Roll_Racing_(USA)_(MSU1).png</image>
+		<video>./snap/Rock_n'_Roll_Racing_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Rock_n'_Roll_Racing_(USA)_(MSU1).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Silicon &amp; Synapse</developer>
+		<publisher>Interplay</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super_Castlevania_IV_(USA)_(MSU1).sfc</path>
+		<name>Super Castlevania IV</name>
+		<desc>Simon Belmont returns in the first Castlevania title to grace the SNES.  The console may be different, but the setup is very familiar: The place is Transylvania.  The villain is Count Dracula.
+
+Belmont has the classic Castlevania assortment of weapons (the famous whip, daggers, axes, fire bombs, boomerangs) at his disposal, and he gains strength and points by collecting various-sized hearts, coin purses, and pork chops. 
+
+Like most Castlevania games, Super Castlevania IV is a 2D side-scrolling action game. However, it is 2D with more depth than ever before. Parallax scrolling and rotating chambers are some of the "Mode 7" effects made possible by the SNES hardware.</desc>
+		<image>./mixart/Super_Castlevania_IV_(USA)_(MSU1).png</image>
+		<video>./snap/Super_Castlevania_IV_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Super_Castlevania_IV_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19911031T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+	</game>
+	<game>
+		<path>./Killer_Instinct_(USA)_(MSU1).sfc</path>
+		<name>Killer Instinct</name>
+		<desc>In the distant future, a monopolistic and technological corporation called Ultratech organizes a fighting tournament known as "Killer Instinct". Many fighters answer the challenge to participate, including several of Ultratech's experimental warriors.  To increase the tournament's challenge, Ultratech utilizes a technology that can create bridges between alternate dimensions, releasing a creature known as Eyedol.  Eyedol is a two-headed ancient warrior that was imprisoned along with his bitter rival, Gargos. Some warriors enter the tournament to seek glory or escape.  Other fighters are attempting to bring an end to Ultratech's corruption.  
+
+Killer Instinct is a Rare developed fighting game published by Nintendo (and distributed in the arcades by Midway).  Killer Instinct (or "KI" among its fanbase) is a 2D fighting game that features 3D rendered sprite based graphics. Players choose from 10 characters: Orchid, Cinder, Jago, Glacius, Fulgore, Riptor, Sabrewulf, Spinal, T.J. Combo, and Thunder.  
+
+Killer Instinct is known for its heavy combo based fighting system, allowing players to pull off moves that land an insane number of hits on their opponent, the highest being the "Ultra Combo".  The gameplay is also known for its use of combo breakers, finishing moves and stage fatalities, double energy bars, and dance-music inspired techno soundtrack.</desc>
+		<image>./mixart/Killer_Instinct_(USA)_(MSU1).png</image>
+		<video>./snap/Killer_Instinct_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Killer_Instinct_(USA)_(MSU1).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950801T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Secret_of_Mana_(USA)_(MSU1).sfc</path>
+		<name>Secret of Mana</name>
+		<desc>Once upon a time, the power of Mana was used by all people and helped their civilization grow. But as evil forces took control of Mana Fortress, there was no way out but a war which destroyed the Mana-based civilization but eventually brought peace to people. The events of the past became but legends to the new generation of humans. But history repeats itself... One day, a young village boy finds a rusty sword stuck at the bottom of a river. He doesn't know this sword is the famous Mana sword, the one that won so many battles before. By drawing the sword out of the river bottom, the boy unwillingly summons hordes of monsters, and is expelled from his village. A mysterious knight Jema is the only man who helps him and gives him instructions for the future. First, he must repair the sword, and then, with its help, take control of Mana seeds which can be found in eight great castles.
+
+"Secret of Mana" is an action RPG, featuring real-time hack-and-slash type of a combat. Like in Quest for Glory games, you have a stamina gauge. The more stamina you have, the more powerful your strike is. You upgrade your weapons and abilities and meet many different types of monsters, while roaming around the country and performing your quests.</desc>
+		<image>./mixart/Secret_of_Mana_(USA)_(MSU1).png</image>
+		<video>./snap/Secret_of_Mana_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Secret_of_Mana_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19931003T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Soft</publisher>
+		<players>1-3</players>
+	</game>
+	<game>
+		<path>./Final_Fight_2_(USA)_(MSU1).sfc</path>
+		<name>Final Fight 2</name>
+		<desc>Final Fight 2 is the SNES exclusive sequel to Final Fight which was released on the same platform. Like the original outing, this game is a sidescrolling fighter (i.e. Double Dragon).
+
+The MAD GEAR gang is back. They have kidnapped Guy's fiancee (Guy was one of the main characters in the original game), her father and Guy's martial arts master Genryusai. The younger sister of Guy's fiancee, Maki, teams up with Mike Haggar and Carlos Miyamoto to take out the MAD GEAR gang once and for all. The game is set in various stages around the world.</desc>
+		<image>./mixart/Final_Fight_2_(USA)_(MSU1).png</image>
+		<video>./snap/Final_Fight_2_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Final_Fight_2_(USA)_(MSU1).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Final_Fight_3_(USA)_(MSU1).sfc</path>
+		<name>Final Fight 3</name>
+		<desc>Final Fight 3 is almost identical to the previous two SNES installments. The Mad Gear gang was destroyed and with this, the Skull Cross gang has gone rampant in Metro City. Now, it is up to mayor Mike Haggar and Guy (along with the newcomers Dean and Lucia) to stop them once and for all. 
+
+Like the previous games, this game is a side-scrolling fighting game (i.e. Double Dragon, Streets of Rage). Instead just using various punches, kicks and special attacks, you can also use various melee weapons that are just laying there on the street. Such as bottles, lampposts, metal pipes, barrels etc.</desc>
+		<image>./mixart/Final_Fight_3_(USA)_(MSU1).png</image>
+		<video>./snap/Final_Fight_3_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Final_Fight_3_(USA)_(MSU1).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951221T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Gradius_III_(USA)_(MSU1).sfc</path>
+		<name>Gradius III</name>
+		<desc>Gradius III is the third game in Konami's long-running space shooter series, which also includes Life Force and Nemesis. As with most Gradius titles, you control the highly advanced Vic Viper space fighter against hordes of foes. Weapons can be selected from pre-arranged loadouts or you can create your own custom loadout. The game can be played by a single player, or by two players in alternating turns. The game offers three levels of difficulty.</desc>
+		<image>./mixart/Gradius_III_(USA)_(MSU1).png</image>
+		<video>./snap/Gradius_III_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Gradius_III_(USA)_(MSU1).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+	</game>
+	<game>
+		<path>./Mortal_Kombat_II_(USA)_(MSU1).sfc</path>
+		<name>Mortal Kombat II</name>
+		<desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.
+
+To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player. These include throws, uppercuts, long-distance bullets, bicycle kicks and a teleport feature.</desc>
+		<image>./mixart/Mortal_Kombat_II_(USA)_(MSU1).png</image>
+		<video>./snap/Mortal_Kombat_II_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Mortal_Kombat_II_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Chrono_Trigger_(USA)_(MSU1).sfc</path>
+		<name>Chrono Trigger</name>
+		<desc>What begins as a carefree day at the Millennial Fair for a young man named Crono turns into his ultimate adventure. When Crono meets a young girl named Marle, little does he realize that this young girl, his best friend Lucca's invention, and a mysterious pendant will thrust him into the ultimate trip through time and space, encountering new friends, defeating the forces of evil, and encountering the one who would destroy the flow of time.
+
+Chrono Trigger is a role-playing game, with the usual game mechanics fare for such: the player takes control of a variably large party, developing the combat skills of its members and managing their equipment. As the characters grow in power, not only their ability scores increase, but they also learn new "Techs" - special powerful attacks and maneuvers which cost them "Magic Points" to use in battle. 
+
+The game utilizes the ATB (active time battle) combat system from  Final Fantasy games - sort of a mix of turn-based and real-time combat -  adding to it combo attacks. Apart from normal Techs, it is possible to use Double and Triple Techniques - super-powerful attacks which involve two or three characters using their abilities at once. There are no random battles in the game, as all the enemies are visible on screen, and it's even possible to just pass by them entirely. 
+
+The game allows you to face your ultimate adversary at different points of time, which leads to several different endings. There is also a New Game+ option, which allows you to carry over your powerful characters to a new game, and adds even more endings to the already existing ones.</desc>
+		<image>./mixart/Chrono_Trigger_(USA)_(MSU1).png</image>
+		<video>./snap/Chrono_Trigger_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Chrono_Trigger_(USA)_(MSU1).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950822T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Soft</publisher>
+	</game>
+	<game>
+		<path>./Super_Metroid_(Japan,_USA)_(MSU1).sfc</path>
+		<name>Super Metroid</name>
+		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
+
+Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
+
+There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
+
+There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
+		<image>./mixart/Super_Metroid_(Japan,_USA)_(MSU1).png</image>
+		<video>./snap/Super_Metroid_(Japan,_USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Super_Metroid_(Japan,_USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Legend_of_Zelda,_The_-_Parallel_Worlds_(USA)_(MSU1).sfc</path>
+		<name>The Legend of Zelda - Parallel Worlds</name>
+		<desc>The Legend of Zelda: Parallel Worlds is a fan overhaul of The Legend of Zelda: A Link to the Past using new graphics, new music, a new overworld and underworld, and a new storyline.
+
+You moved here from another land with a friend to find treasure. Not long after your arrival, a lot of strange occurrences started.
+
+Seven people "appeared out of nowhere" and beings questioning about the Parallel Tower and the inhabitants of Kakariko Village. The Parallel Tower was situated in the Sky Islands northeast of the village. The legend behind the Parallel Tower was long lost, and only the elders knew the legend.
+
+Word begins to spread out about the Parallel Tower, and people started to learn about the legend again. The legend says it was a by product of a war long ago, and a power known as the Triforce existed at the top of it.  It is said that nobody knows about the clues as to how to get to the top of the Tower. The seven people are said to know about these "clues" to the Tower.
+
+The king was notified of these seven people and he invited them to the castle to find out what they wanted with the tower. Just the night before the seven people are to have an audience with the king, the king's assistant, Draegor, eliminates the king and claims the throne by default.
+
+The seven people walked right into an obvious trap. Draegor, who people believe is a power hungry person, caught all 7 people and forces them to tell him what they know about the Tower.
+
+When the people learned of the king's fate, a rebel force is gathered in secret to plot against Draegor. The rebel force learned that 2 out of 7 people whom Draegor caught are still alive and imprisoned in the guardhouse. They quickly rallied anyone who may be interested in the Tower and the locals to help these last 2 people.
+
+You and your friend heard about this plan and are willing help the rebels against Draegor.
+
+The night of the operation begins the story...</desc>
+		<image>./mixart/Legend_of_Zelda,_The_-_Parallel_Worlds_(USA)_(MSU1).png</image>
+		<video>./snap/Legend_of_Zelda,_The_-_Parallel_Worlds_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Legend_of_Zelda,_The_-_Parallel_Worlds_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20061231T000000</releasedate>
+		<developer>Euclid &amp; SePH</developer>
+		<publisher>Romhacking.net</publisher>
+	</game>
+	<game>
+		<path>./Final_Fight_Guy_(USA)_(MSU1).sfc</path>
+		<name>Final Fight Guy</name>
+		<desc>Final Fight Guy is a side scrolling fighter game in the likes Double Dragon. You can choose between Guy and Haggar. Guy and Haggar are determined to rid Metro City of  MAD GEAR, the local street gang. You can also pick up and use various melee weapons that gang members tend to drop when you hit them. The game also has some bonus levels in which you can score extra lifes.</desc>
+		<image>./mixart/Final_Fight_Guy_(USA)_(MSU1).png</image>
+		<video>./snap/Final_Fight_Guy_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Final_Fight_Guy_(USA)_(MSU1).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+	</game>
+	<game>
+		<path>./Castlevania_-_Dracula_X_(USA)_(MSU1).sfc</path>
+		<name>Castlevania - Dracula X</name>
+		<desc>Castlevania: Dracula X for Super Nintendo is a single-player port game that is set in the country of Transylvania during the middle ages. You play as Richter, a character that must face Count Dracula in order to save his lover and her younger sister. You must use special abilities and special tactics to fight off Dracula and his henchman. The game features non-linear play, and has different levels that take place in Dracula's castle. The backgrounds feature unique graphics, putting you in the mood for this horror-based game. You get to battle different enemies until you come across the true villain of the game, Count Dracula.</desc>
+		<image>./mixart/Castlevania_-_Dracula_X_(USA)_(MSU1).png</image>
+		<video>./snap/Castlevania_-_Dracula_X_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Castlevania_-_Dracula_X_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19951031T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+	</game>
+	<game>
+		<path>./Contra_III_-_The_Alien_Wars_(USA)_(MSU1).sfc</path>
+		<name>Contra III - The Alien Wars</name>
+		<desc>It's time for revenge...
+
+The hideous Red Falcon, thought to have been destroyed long ago by the Earth's greatest commandos, Mad Dog and Scorpian, has risen again, this time pissed off and thirsty for revenge. His armies are marching through the cities, across the lands, and with the intention of exterminating the human race like a bad case of fleas. Two new commandos, Jimbo and Sully, have come forth now to kick Red Falcon's ass and save what remains of the world from his hideous plans!
+
+The Alien Wars begin!!!</desc>
+		<image>./mixart/Contra_III_-_The_Alien_Wars_(USA)_(MSU1).png</image>
+		<video>./snap/Contra_III_-_The_Alien_Wars_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Contra_III_-_The_Alien_Wars_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19921119T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Prince_of_Persia_(USA)_(MSU1).sfc</path>
+		<name>Prince of Persia</name>
+		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes!
+
+Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.
+
+The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro and an altered set of graphics but the level layout remains almost identical to that of the original.</desc>
+		<image>./mixart/Prince_of_Persia_(USA)_(MSU1).png</image>
+		<video>./snap/Prince_of_Persia_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Prince_of_Persia_(USA)_(MSU1).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Brøderbund Software, Inc.</developer>
+		<publisher>Konami</publisher>
+	</game>
+	<game>
+		<path>./Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).sfc</path>
+		<name>The Legend of Zelda - A Link to the Past</name>
+		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
+		<image>./mixart/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</image>
+		<video>./snap/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+	</game>
+</gameList>

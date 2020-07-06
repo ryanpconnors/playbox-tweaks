@@ -1,0 +1,865 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>OpenBOR</System>
+		<software>VMAN</software>
+		<database>ScreenScraper.fr</database>
+		<web>https://www.tapatalk.com/groups/virtualman007images/</web>
+	</provider>
+	<game>
+		<path>./Battletoads Double Dragon IV - The Return of the Dark Forces.pak</path>
+		<name>Battletoads Double Dragon IV - The Return of the Dark Forces</name>
+		<desc>A 2D fighting forces with all great characeters from BattleToads and Double Dragon</desc>
+		<image>./mixart/Battletoads Double Dragon IV - The Return of the Dark Forces.png</image>
+		<video>./snap/Battletoads Double Dragon IV - The Return of the Dark Forces.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Beats of Rage - Rhythm of Destruction 2 Street Fighter Edition.pak</path>
+		<name>Beats of Rage - Rhythm of Destruction 2 Street Fighter Edition</name>
+		<desc>A 2D fighting forces with all great characeters from Street Fighter</desc>
+		<image>./mixart/Beats of Rage - Rhythm of Destruction 2 Street Fighter Edition.png</image>
+		<video>./snap/Beats of Rage - Rhythm of Destruction 2 Street Fighter Edition.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./City of Heroes - Episode 1.pak</path>
+		<name>City of Heroes - Episode 1</name>
+		<desc>A 2D fighting forces with all great characeters from DC</desc>
+		<image>./mixart/City of Heroes - Episode 1.png</image>
+		<video>./snap/City of Heroes - Episode 1.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Crisis Evil 2.pak</path>
+		<name>Crisis Evil 2</name>
+		<desc>A 2D fighting forces with all great characeters from Crisis Evil</desc>
+		<image>./mixart/Crisis Evil 2.png</image>
+		<video>./snap/Crisis Evil 2.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./GI JOE - Attack On Cobra Island.pak</path>
+		<name>GI JOE - Attack On Cobra Island</name>
+		<desc>A 2D fighting forces with all great characeters from G.I. Joe</desc>
+		<image>./mixart/GI JOE - Attack On Cobra Island.png</image>
+		<video>./snap/GI JOE - Attack On Cobra Island.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Hyper Final Fight 3 (v2.5).pak</path>
+		<name>Hyper Final Fight 3 (v2.5)</name>
+		<desc>A 2D fighting forces with all great characeters from Final Fight</desc>
+		<image>./mixart/Hyper Final Fight 3 (v2.5).png</image>
+		<video>./snap/Hyper Final Fight 3 (v2.5).mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Justice League United.pak</path>
+		<name>Justice League United</name>
+		<desc>A 2D fighting forces with all great characeters from DC</desc>
+		<image>./mixart/Justice League United.png</image>
+		<video>./snap/Justice League United.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Maplevania.pak</path>
+		<name>Maplevania</name>
+		<desc>A 2D fighting CastleVania with a cartoon feel whiping it's way through monsters</desc>
+		<image>./mixart/Maplevania.png</image>
+		<video>./snap/Maplevania.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Metal Slug Beat em up.pak</path>
+		<name>Metal Slug Beat em up</name>
+		<desc>A 2D fighting forces with all great characeters from Metal Slug</desc>
+		<image>./mixart/Metal Slug Beat em up.png</image>
+		<video>./snap/Metal Slug Beat em up.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat Unlimited.pak</path>
+		<name>Mortal Kombat Unlimited</name>
+		<desc>A 2D fighting forces with all great characeters from Mortal Kombat</desc>
+		<image>./mixart/Mortal Kombat Unlimited.png</image>
+		<video>./snap/Mortal Kombat Unlimited.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Night Slashers X.pak</path>
+		<name>Night Slashers X</name>
+		<desc>More Ammo, Weapons can be picked up many times when dropped. Idea taken from "Super Night Slashers X". Although Super Night Slashers X is update over Night Slashers X, it spoil the game. Super Night Slashers X only add more health to enemies and add bosses as regular enemy. So Night Slashers X is better than Super Night Slashers X</desc>
+		<image>./mixart/Night Slashers X.png</image>
+		<video>./snap/Night Slashers X.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Power Rangers - Beats of Power.pak</path>
+		<name>Power Rangers - Beats of Power</name>
+		<desc>A 2D fighting forces with all great characeters from Power Rangers</desc>
+		<image>./mixart/Power Rangers - Beats of Power.png</image>
+		<video>./snap/Power Rangers - Beats of Power.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Pretty Soldier Sailor Moon - R Plus.pak</path>
+		<name>Pretty Soldier Sailor Moon - R Plus</name>
+		<desc>A 2D fighting forces with all great characeters from Sailor Moon</desc>
+		<image>./mixart/Pretty Soldier Sailor Moon - R Plus.png</image>
+		<video>./snap/Pretty Soldier Sailor Moon - R Plus.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Rage of the Dragons.pak</path>
+		<name>Rage of the Dragons</name>
+		<desc>A 2D fighting forces with all great characeters from Rage of the Dragons</desc>
+		<image>./mixart/Rage of the Dragons.png</image>
+		<video>./snap/Rage of the Dragons.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Return of the Double Dragon.pak</path>
+		<name>Return of the Double Dragon</name>
+		<desc>A 2D fighting forces with all great characeters from Double Dragon</desc>
+		<image>./mixart/Return of the Double Dragon.png</image>
+		<video>./snap/Return of the Double Dragon.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Simpsons - Treehouse of Horror.pak</path>
+		<name>Simpsons - Treehouse of Horror</name>
+		<desc>A 2D fighting forces with all great characeters from Simpsons</desc>
+		<image>./mixart/Simpsons - Treehouse of Horror.png</image>
+		<video>./snap/Simpsons - Treehouse of Horror.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Splatterhouse 3 - Back to Light.pak</path>
+		<name>Splatterhouse 3 - Back to Light</name>
+		<desc>A 2D fighting forces with all great characeters from Splatterhouse</desc>
+		<image>./mixart/Splatterhouse 3 - Back to Light.png</image>
+		<video>./snap/Splatterhouse 3 - Back to Light.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Streets of Rage 2X.pak</path>
+		<name>Streets of Rage 2X</name>
+		<desc>A 2D fighting forces with all great characeters from Streets of Rage 2X HD</desc>
+		<image>./mixart/Streets of Rage 2X.png</image>
+		<video>./snap/Streets of Rage 2X.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Streets of Rage - Zombies.pak</path>
+		<name>Streets of Rage Zombies</name>
+		<desc>A 2D fighting forces with all great characeters from Streets of Rage and tons of Zombies</desc>
+		<image>./mixart/Streets of Rage - Zombies.png</image>
+		<video>./snap/Streets of Rage - Zombies.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Streets of Russia.pak</path>
+		<name>Streets of Russia</name>
+		<desc>A 2D fighting forces with all great characeters from Streets of Rage</desc>
+		<image>./mixart/Streets of Russia.png</image>
+		<video>./snap/Streets of Russia.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Strider X.pak</path>
+		<name>Strider X</name>
+		<desc>A 2D fighting forces with all great characeters from Strider</desc>
+		<image>./mixart/Strider X.png</image>
+		<video>./snap/Strider X.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super Mario Brawl.pak</path>
+		<name>Super Mario Brawl</name>
+		<desc>A 2D fighting forces with all great characeters from Super Mario</desc>
+		<image>./mixart/Super Mario Brawl.png</image>
+		<video>./snap/Super Mario Brawl.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./World Heroes - Supreme Justice Extra.pak</path>
+		<name>World Heroes - Supreme Justice Extra</name>
+		<desc>A 2D fighting forces with all great characeters from World Heroes</desc>
+		<image>./mixart/World Heroes - Supreme Justice Extra.png</image>
+		<video>./snap/World Heroes - Supreme Justice Extra.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./X-Men.pak</path>
+		<name>X-Men</name>
+		<desc>A 2D fighting forces with all great characeters from X-Men</desc>
+		<image>./mixart/X-Men.png</image>
+		<video>./snap/X-Men.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./BK Marvel.pak</path>
+		<name>BK Marvel</name>
+		<desc>A 2D fighting forces with all great characeters from Marvel</desc>
+		<image>./mixart/BK Marvel.png</image>
+		<video>./snap/BK Marvel.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Warrior Frenzy - Warriors Of Doom.pak</path>
+		<name>Warrior Frenzy - Warriors Of Doom</name>
+		<desc>A 2D fighting forces with all great characeters from Warriors of Doom</desc>
+		<image>./mixart/Warrior Frenzy - Warriors Of Doom.png</image>
+		<video>./snap/Warrior Frenzy - Warriors Of Doom.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Rocket Viper 2.pak</path>
+		<name>Rocket Viper 2</name>
+		<desc>A 2D fighting forces with all great characeters from Rocket Viper</desc>
+		<image>./mixart/Rocket Viper 2.png</image>
+		<video>./snap/Rocket Viper 2.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Art of Fighting - Beats Of Rage Remix III.pak</path>
+		<name>Art of Fighting Beats Of Rage Remix III</name>
+		<desc>A 2D fighting forces with all great characeters from Art of Fighting and Beats of Rage</desc>
+		<image>./mixart/Art of Fighting - Beats Of Rage Remix III.png</image>
+		<video>./snap/Art of Fighting - Beats Of Rage Remix III.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Batman - Gotham Knight.pak</path>
+		<name>Batman Gotham Knight</name>
+		<desc>A 2D fighting forces with all great characeters from Batman Gothan Knight</desc>
+		<image>./mixart/Batman - Gotham Knight.png</image>
+		<video>./snap/Batman - Gotham Knight.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Vampire Hunters.pak</path>
+		<name>Vampire Hunters</name>
+		<desc>A 2D fighting forces with all great characeters from Casltevania</desc>
+		<image>./mixart/Vampire Hunters.png</image>
+		<video>./snap/Vampire Hunters.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Evil Dead.pak</path>
+		<name>Evil Dead</name>
+		<desc>Play as Ash from Evil Dead.  Edit based on Pizzaman's Evil Splatter mod.  First mod created by nsw25.</desc>
+		<image>./mixart/Evil Dead.png</image>
+		<video>./snap/Evil Dead.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Golden Axe Death Adder Curse.pak</path>
+		<name>Golden Axe Death Adder Curse</name>
+		<desc>A 2D fighting forces with all great characeters from Golden Axe</desc>
+		<image>./mixart/Golden Axe Death Adder Curse.png</image>
+		<video>./snap/Golden Axe Death Adder Curse.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Saint Seiya death and rebirth PS2.pak</path>
+		<name>Saint Seiya death and rebirth PS2</name>
+		<desc>Based on Saint Seiya characters from PS2.</desc>
+		<image>./mixart/Saint Seiya death and rebirth PS2.png</image>
+		<video>./snap/Saint Seiya death and rebirth PS2.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+	</game>
+	<game>
+		<path>./Armored Warriors Cyberbots.pak</path>
+		<name>Armored Warriors Cyberbots</name>
+		<desc>In the year 2281, the United Earth Government and the Principalities of Raia signed a ceasefire treaty, ending a war that lasted for half a century. One year after the signing of the treaty, the United Earth Government's 18th scouting party reported that the Raian capital, Melkide, has been captured by an army of unknown origin. The United Earth Government decided to dispatch an army to Raia to retake the capital and rescue its citizens. However, unbeknownst to the general public, the true purpose of this operation was to eliminate the unknown enemy and bring Raia under Earth's control.</desc>
+		<image>./mixart/Armored Warriors Cyberbots.png</image>
+		<video>./snap/Armored Warriors Cyberbots.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Castlevania Moonlit Nocturne.pak</path>
+		<name>Castlevania Moonlit Nocturne</name>
+		<desc>A 2D fighting forces with all great characeters from Casltevania</desc>
+		<image>./mixart/Castlevania Moonlit Nocturne.png</image>
+		<video>./snap/Castlevania Moonlit Nocturne.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Marvel First Alliance 2.pak</path>
+		<name>Marvel First Alliance 2</name>
+		<desc>A 2D fighting forces with all great characeters from Marvel</desc>
+		<image>./mixart/Marvel First Alliance 2.png</image>
+		<video>./snap/Marvel First Alliance 2.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Marvel Infinity War.pak</path>
+		<name>Marvel Infinity War</name>
+		<desc>A 2D fighting forces with all great characeters from Marvel Infinity War</desc>
+		<image>./mixart/Marvel Infinity War.png</image>
+		<video>./snap/Marvel Infinity War.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Marvel Super Heroes - War of the Gems.pak</path>
+		<name>Marvel Super Heroes - War of the Gems</name>
+		<desc>A 2D fighting forces with all great characeters from Marvel</desc>
+		<image>./mixart/Marvel Super Heroes - War of the Gems.png</image>
+		<video>./snap/Marvel Super Heroes - War of the Gems.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Metal Gear Origin.pak</path>
+		<name>Metal Gear Origin</name>
+		<desc>A 2D fighting forces with all great characeters from Metal Gear</desc>
+		<image>./mixart/Metal Gear Origin.png</image>
+		<video>./snap/Metal Gear Origin.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-3</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat Outworlds Assassins.pak</path>
+		<name>Mortal Kombat Outworlds Assassins</name>
+		<desc>A 2D fighting forces with all great characeters from Mortal Kombat</desc>
+		<image>./mixart/Mortal Kombat Outworlds Assassins.png</image>
+		<video>./snap/Mortal Kombat Outworlds Assassins.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-3</players>
+	</game>
+	<game>
+		<path>./Never Ending Story.pak</path>
+		<name>Never Ending Story</name>
+		<desc>Super violent take on Mario and other Nintendo characters.</desc>
+		<image>./mixart/Never Ending Story.png</image>
+		<video>./snap/Never Ending Story.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+	</game>
+	<game>
+		<path>./Shiva and Lisa III.pak</path>
+		<name>Shiva and Lisa III</name>
+		<desc>Trilogy inspired from Streets of Rage.</desc>
+		<image>./mixart/Shiva and Lisa III.png</image>
+		<video>./snap/Shiva and Lisa III.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./HE-MAN.pak</path>
+		<name>HE-MAN</name>
+		<desc>He-Man and the Masters of the Universe is a beat 'em up developed with the OpenBOR engine that allows you to control He-Man, Man-at-Arms, Orko, and the rest of the gang to fight against the terrible forces of evil led by Skeletor.</desc>
+		<image>./mixart/HE-MAN.png</image>
+		<video>./snap/HE-MAN.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Sega Brawlers Mega Mix.pak</path>
+		<name>Sega Brawlers Mega Mix</name>
+		<desc>A 2D fighting forces with all great characeters from Sega</desc>
+		<image>./mixart/Sega Brawlers Mega Mix.png</image>
+		<video>./snap/Sega Brawlers Mega Mix.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Super Fightin' Spirit.pak</path>
+		<name>Super Fightin' Spirit</name>
+		<desc>A 2D fighting forces with all great characeters from Amiga Fighting Spirits and Double Dragon</desc>
+		<image>./mixart/Super Fightin' Spirit.png</image>
+		<video>./snap/Super Fightin' Spirit.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Vampires Rage.pak</path>
+		<name>Vampires Rage</name>
+		<desc>A 2D fighting forces with all great characeters from Vampires Rage</desc>
+		<image>./mixart/Vampires Rage.png</image>
+		<video>./snap/Vampires Rage.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Golden Axe Legend.pak</path>
+		<name>Golden Axe Legend</name>
+		<desc>A 2D fighting forces with all great characeters from Golden Axe</desc>
+		<image>./mixart/Golden Axe Legend.png</image>
+		<video>./snap/Golden Axe Legend.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles - Red Sky Battle.pak</path>
+		<name>TMNT - Red Sky Battle</name>
+		<desc>A 2D fighting forces with all great characeters from TMNT</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles - Red Sky Battle.png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles - Red Sky Battle.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./A Tale of Vengeance.pak</path>
+		<name>A Tale of Vengeance</name>
+		<desc>A 2D fighting forces with all great characeters from A Tale of Vengeance</desc>
+		<image>./mixart/A Tale of Vengeance.png</image>
+		<video>./snap/A Tale of Vengeance.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Crime Buster.pak</path>
+		<name>Crime Buster</name>
+		<desc>A 2D fighting forces with all great characeters from Crime Buster</desc>
+		<image>./mixart/Crime Buster.png</image>
+		<video>./snap/Crime Buster.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Battletoads.pak</path>
+		<name>Battletoads</name>
+		<desc>A 2D fighting forces with all great characeters from Battletoads</desc>
+		<image>./mixart/Battletoads.png</image>
+		<video>./snap/Battletoads.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./X-Men - Clone Wars.pak</path>
+		<name>X-Men - Clone Wars</name>
+		<desc>A 2D fighting forces with all great characeters from X-Men</desc>
+		<image>./mixart/X-Men - Clone Wars.png</image>
+		<video>./snap/X-Men - Clone Wars.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Castlevania - Legacy Of Dracula.pak</path>
+		<name>Castlevania - Legacy Of Dracula</name>
+		<desc>A 2D fighting forces with all great characeters from Casltevania</desc>
+		<image>./mixart/Castlevania - Legacy Of Dracula.png</image>
+		<video>./snap/Castlevania - Legacy Of Dracula.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Urban Lockdown.pak</path>
+		<name>Urban Lockdown</name>
+		<desc>URBAN LOCKDOWN is based on the official movie of the same name by Thatcher Productions.</desc>
+		<image>./mixart/Urban Lockdown.png</image>
+		<video>./snap/Urban Lockdown.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Contra - Locked 'N Loaded.pak</path>
+		<name>Contra - Locked 'N Loaded</name>
+		<desc>A 2D fighting forces with all great characeters from Contra</desc>
+		<image>./mixart/Contra - Locked 'N Loaded.png</image>
+		<video>./snap/Contra - Locked 'N Loaded.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Double Dragon Advance.pak</path>
+		<name>Double Dragon Advance</name>
+	</game>
+	<game>
+		<path>./Kill Bill.pak</path>
+		<name>Kill Bill</name>
+		<desc>Kill Bill Volume 1 is a Beats of Rage mod created by Demitri and is based on the characters from the action thriller film of the same name created by Quentin Tarantino in 2003.</desc>
+		<image>./mixart/Kill Bill.png</image>
+		<video>./snap/Kill Bill.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
+		<name>Bruce Lee Revenge of the Dragon</name>
+		<desc>Based on Bruce Lee's movies. It uses modded Street Fighter Alpha characters and many others. It also uses music taken from Bruce Lee movies.</desc>
+		<image>./mixart/Bruce Lee - Revenge of the Dragon.png</image>
+		<video>./snap/Bruce Lee - Revenge of the Dragon.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Ninja.pak</path>
+		<name>Ninja</name>
+		<desc>A 2D fighting forces with all great characeters from Ninja 80's era!</desc>
+		<image>./mixart/Ninja.png</image>
+		<video>./snap/Ninja.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Streets of Rage 4 HD.pak</path>
+		<name>Streets of Rage 4</name>
+		<desc>A 2D fighting forces with all great characeters from Streets of Rage in HD</desc>
+		<image>./mixart/Streets of Rage 4 HD.png</image>
+		<video>./snap/Streets of Rage 4 HD.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./The City of Kaos.pak</path>
+		<name>The City of Kaos</name>
+		<desc>A 2D fighting forces with all great characeters from SNK.</desc>
+		<image>./mixart/The City of Kaos.png</image>
+		<video>./snap/The City of Kaos.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles - Shell Shocked.pak</path>
+		<name>TMNT - Shell Shocked</name>
+		<desc>A 2D fighting forces with all great characeters from TMNT</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles - Shell Shocked.png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles - Shell Shocked.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>1-4</players>
+	</game>
+</gameList>

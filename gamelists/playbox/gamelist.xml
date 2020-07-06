@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./kodi.sh</path>
+		<name>Kodi Media Center</name>
+		<desc>
+Kodi is a free media player that is designed to look great on your big screen TV.
+
+Plex Media Plugin installed and will prompt you to pair.</desc>
+		<image>./mixart/kodi.png</image>
+		<video>./snap/kodi.mp4</video>
+		<marquee>./wheel/kodi.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20170101T000000</releasedate>
+		<developer>kodi</developer>
+		<publisher>kodi</publisher>
+		<genre>Media</genre>
+		<players>Multiplayer</players>
+	</game>
+</gameList>

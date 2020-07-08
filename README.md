@@ -53,13 +53,16 @@ cp -v -r ~/SplashScreens/* /opt/retropie/configs/
 - Opening loading screen videos directory: `~/RetroPie/splashscreens`
 
 - Screensaver slideshow images directory: `~/.emulationstation/slideshow/image`
+```
+#TODO
+```
 
 ###### Setup USB Roms
 - Doing my own custom setup here after looking at https://discordapp.com/channels/423557415271661569/700046889046900856/728664433534042132. A couple of questions remain for me as far as the editing of the `gamelist.xml` files, and the decision to create `addonusb`, `combined_drives` directories as opposed to just mounting the USB drive at `~/RetroPie`
 - Following most of the directions here: https://retropie.org.uk/docs/Running-ROMs-from-a-USB-drive/
-- Run `df` to confirm the USB drive file system. This is usually going to be `/dev/sda1`
-- Run `ls -l /dev/disk/by-uuid/` to get the drive's UUID. ex. `7CEC-1114`
-- Edit `fstab` and add the following entry (where `7CEC-1114`) is the drive's UUID
+1. Run `df` to confirm the USB drive file system. This is usually going to be `/dev/sda1`
+2. Run `ls -l /dev/disk/by-uuid/` to get the drive's UUID. ex. `7CEC-1114`
+3. Edit `fstab` and add the following entry (where `7CEC-1114`) is the drive's UUID
   ```
   UUID=7CEC-1114  /home/pi/RetroPie vfat  auto,nofail,rw,exec,uid=pi,gid=pi,umask=022 0 2
   ```
@@ -67,15 +70,9 @@ cp -v -r ~/SplashScreens/* /opt/retropie/configs/
 
 ###### MAME 2003 Plus
 - Enable input mapping and D-pad for MAME 2003 Plus
+- Replace all roms using `lr-mame2003` to use `lr-mame2003-plus`
 ```
 sed -i 's|mame2003-plus_mame_remapping = "disabled"|mame2003-plus_mame_remapping = "enabled"|g' /opt/retropie/configs/all/retroarch-core-options.cfg
 sed -i 's|mame2003-plus_analog = "analog"|mame2003-plus_analog = "digital"|g' /opt/retropie/configs/all/retroarch-core-options.cfg
-```
-- Set Battletoads to be opened with MAME2003-Plus
-```
-sed -i 's|arcade_btoads = "lr-mame2003"|arcade_btoads = "lr-mame2003-plus"|g' /opt/retropie/configs/all/emulators.cfg
-```
-- I still want to test out wether or not it would work to set ALL roms currently using MAME2003 to MAME2003-Plus. But if I did want to test that out it might look something like this:
-```
 sed -i 's|"lr-mame2003"|"lr-mame2003-plus"|g' /opt/retropie/configs/all/emulators.cfg
 ```

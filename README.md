@@ -76,3 +76,6 @@ sed -i 's|mame2003-plus_mame_remapping = "disabled"|mame2003-plus_mame_remapping
 sed -i 's|mame2003-plus_analog = "analog"|mame2003-plus_analog = "digital"|g' /opt/retropie/configs/all/retroarch-core-options.cfg
 sed -i 's|"lr-mame2003"|"lr-mame2003-plus"|g' /opt/retropie/configs/all/emulators.cfg
 ```
+
+###### Background Music Fix
+- If you find that a when launching a particular emulator that the menu background music continues to play, you will have to add it the the `emulators` list in `~/.livewire.py`

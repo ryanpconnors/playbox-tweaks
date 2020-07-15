@@ -51,8 +51,8 @@ cp -v -r ~/SplashScreens/* /opt/retropie/configs/
 ###### Loading Splashscreens and Slideshow
 
 - Opening loading screen videos directory: `~/RetroPie/splashscreens`
-
 - Screensaver slideshow images directory: `~/.emulationstation/slideshow/image`
+
 ```
 #TODO
 ```
@@ -68,7 +68,7 @@ cp -v -r ~/SplashScreens/* /opt/retropie/configs/
   ```
 - Note: Move music off of USB to `~/RetroPie/music` and tweak directory in `~/.livewire.py`
 ```
-sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/RetroPie/music|g" /home/pi/.livewire.py
+sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/music|g" /home/pi/.livewire.py
 ```
 
 ###### MAME 2003 Plus

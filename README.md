@@ -67,6 +67,9 @@ cp -v -r ~/SplashScreens/* /opt/retropie/configs/
   UUID=7CEC-1114  /home/pi/RetroPie vfat  auto,nofail,rw,exec,uid=pi,gid=pi,umask=022 0 2
   ```
 - Note: Move music off of USB to `~/RetroPie/music` and tweak directory in `~/.livewire.py`
+```
+sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/RetroPie/music|g" /home/pi/.livewire.py
+```
 
 ###### MAME 2003 Plus
 - Enable input mapping and D-pad for MAME 2003 Plus

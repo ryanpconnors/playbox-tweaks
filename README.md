@@ -35,17 +35,17 @@ export LS_COLORS="rs=0:di=01;34:ln=01;36:pi=40;33:so=01;35:do=01;35:bd=40;33;01:
 
 ###### Update the AdvanceMAME configs for 8BitDo SN30 Pro
   ```
-  mkdir ~/PlayBox-Tweaks && git clone https://github.com/ryanpconnors/playbox-tweaks.git ~/PlayBox-Tweaks/
-  rsync -rva ~/PlayBox-Tweaks/arcade/mame-advmame/playbox/*.rc /opt/retropie/configs/mame-advmame/
+  mkdir ~/playbox-tweaks && git clone https://github.com/ryanpconnors/playbox-tweaks.git ~/playbox-tweaks/
+  rsync -rva ~/playbox-Tweaks/arcade/mame-advmame/playbox/*.rc /opt/retropie/configs/mame-advmame/
   ```
 
 ###### Changing the runcommand launching images
 Clone the `es-runcommand-splash` repo and change all of the extensions to jpg and copy all the config dir:
 ```
-mkdir ~/SplashScreens
-git clone https://github.com/ehettervik/es-runcommand-splash.git ~/SplashScreens
-find ~/SplashScreens -depth -name "*.png" -exec sh -c 'mv "$1" "${1%.png}.jpg"' _ {} \;
-cp -v -r ~/SplashScreens/* /opt/retropie/configs/
+mkdir ~/splashscreens
+git clone https://github.com/ehettervik/es-runcommand-splash.git ~/splashscreens
+find ~/splashscreens -depth -name "*.png" -exec sh -c 'mv "$1" "${1%.png}.jpg"' _ {} \;
+cp -v -r ~/splashscreens/* /opt/retropie/configs/
 ```
 
 ###### Loading Splashscreens and Slideshow

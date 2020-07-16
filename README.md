@@ -68,8 +68,9 @@ cp -v -r ~/splashscreens/* /opt/retropie/configs/
   ```
 - Note: Move music off of USB to `~/RetroPie/music` and tweak directory in `~/.livewire.py`
 ```
+rsync -av ~/RetroPie/music/ /home/pi/
 sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/music|g" /home/pi/.livewire.py
-sed -i "s|/home/pi/RetroPie/roms/music/*|/home/pi/music/*|g" /opt/retropie/configs/all/autostart.sh
+sed -i "s|/home/pi/RetroPie/roms/music/|/home/pi/music/|g" /opt/retropie/configs/all/autostart.sh
 ```
 
 ###### MAME 2003 Plus

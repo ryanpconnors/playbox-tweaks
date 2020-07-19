@@ -42,15 +42,13 @@ export LS_COLORS="rs=0:di=01;34:ln=01;36:pi=40;33:so=01;35:do=01;35:bd=40;33;01:
 ###### Changing the runcommand launching images
 Clone the `es-runcommand-splash` repo and change all of the extensions to jpg and copy all the config dir:
 ```
-mkdir ~/splashscreens
-git clone https://github.com/ehettervik/es-runcommand-splash.git ~/splashscreens
-find ~/splashscreens -depth -name "*.png" -exec sh -c 'mv "$1" "${1%.png}.jpg"' _ {} \;
-cp -v -r ~/splashscreens/* /opt/retropie/configs/
+mkdir ~/runcommand-splash
+git clone https://github.com/ehettervik/es-runcommand-splash.git ~/runcommand-splash
+find ~/runcommand-splash -depth -name "*.png" -exec sh -c 'mv "$1" "${1%.png}.jpg"' _ {} \;
+cp -v -r ~/runcommand-splash/* /opt/retropie/configs/
 ```
 
-###### Loading Splashscreens and Slideshow
-
-- Opening loading screen videos directory: `~/RetroPie/splashscreens`
+###### Slideshow/Screensaver Directory
 - Screensaver slideshow images directory: `~/.emulationstation/slideshow/image`
 
 ```

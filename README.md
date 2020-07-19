@@ -50,9 +50,9 @@ cp -v -r ~/runcommand-splash/* /opt/retropie/configs/
 
 ###### Slideshow/Screensaver Directory
 - Screensaver slideshow images directory: `~/.emulationstation/slideshow/image`
-
 ```
-#TODO
+rm -rf ~/.emulationstation/slideshow/image/
+cp ~/playbox/slideshow/image/ ~/.emulationstation/slideshow/image/
 ```
 
 ###### Setup USB Roms

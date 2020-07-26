@@ -12,19 +12,15 @@
 # and savestate files at ~/Retropie/saves/{system_name}/states                 #
 ################################################################################
 
-#CONFIGS_DIR=/opt/retropie/configs
-#CONFIG_FILENAME=retroarch.cfg
-#SAVES_DIR=~/RetroPie/saves
-#ROMS_DIR=~/RetroPie/roms
-
-CONFIGS_DIR=TEST/configs
-CONFIG_FILENAME=test.txt
-SAVES_DIR=TEST/saves
-ROMS_DIR=TEST/roms
-
+CONFIGS_DIR=/opt/retropie/configs
+CONFIG_FILENAME=retroarch.cfg
+SAVES_DIR=~/RetroPie/saves
+ROMS_DIR=~/RetroPie/roms
 
 SAVE_FILE_CONFIG="savefile_directory = \"~/RetroPie/saves"
 SAVE_STATE_CONFIG="savestate_directory = \"~/RetroPie/saves"
+
+CONFIG_FILE_INCLUDE="#include \"/opt/retropie/configs/all/retroarch.cfg\""
 
 infobox=""
 infobox="${infobox}\n"
@@ -36,8 +32,8 @@ infobox="${infobox}**Revert**\n"
 infobox="${infobox}Removes save files directorys, configs and moves existing saves to emulator folder in roms directory."
 infobox="${infobox}\n"
 
-dialog --backtitle "Save Files Tweak" \
---title "Save Files Tweak by THRILLHO" \
+dialog --backtitle "PlayBox Toolkit" \
+--title "Single Saves Directory by THRILLHO" \
 --msgbox "${infobox}" 35 110
 
 function main_menu() {
@@ -60,6 +56,8 @@ function main_menu() {
 }
 
 function apply {
+  dialog --infobox "...Creating Single Saves Directory..." 3 20	; sleep 1
+
   # Loop through the configs directory
   for d in ${CONFIGS_DIR}//*; do
 
@@ -113,23 +111,24 @@ function apply {
       if grep -E 'savefile_directory*|savestate_directory*' "${config_file}"; then
         echo "Overwriting existing configs..."
         sed -i "s|savefile_directory.*|${SAVE_FILE_CONFIG}/${system_name}\"|" "${config_file}"
-	sed -i "s|savestate_directory.*|${SAVE_STATE_CONFIG}/${system_name}/states\"|" "${config_file}"
-      elif grep -E '#include "/opt/retropie/configs/all/retroarch.cfg"' "${config_file}"; then
-        echo "Writing save configs..."
-        sed -i "s|#include \"/opt/retropie/configs/all/retroarch.cfg\"|${SAVE_FILE_CONFIG}\n${SAVE_STATE_CONFIG}\n#include \"/opt/retropie/configs/all/retroarch.cfg\"|" "${config_file}"
+        sed -i "s|savestate_directory.*|${SAVE_STATE_CONFIG}/${system_name}/states\"|" "${config_file}"
+      elif grep -E "${CONFIG_FILE_INCLUDE}" "${config_file}"; then
+        echo "Writing new save configs above the '#include \"/opt/retropie/configs/all/retroarch.cfg\"' line ..."
+        sed -i "s|${CONFIG_FILE_INCLUDE}|${SAVE_FILE_CONFIG}\n${SAVE_STATE_CONFIG}\n${CONFIG_FILE_INCLUDE}|" "${config_file}"
       else
-	echo "Writing save configs to the end of file."
+        echo "Writing new save configs to the end of file."
         echo "${SAVE_FILE_CONFIG}/${system_name}\"" >> "${config_file}"
-	echo "${SAVE_STATE_CONFIG}/${system_name}/states\"" >> "${config_file}"
-      fi	  
+        echo "${SAVE_STATE_CONFIG}/${system_name}/states\"" >> "${config_file}"
+      fi
 
       # Move existing saves to the master saves rom directory (except for Daphne)
       if [[ ${system_name} != 'daphne' && -d "${ROMS_DIR}/${system_name}" ]]; then
-	find "${ROMS_DIR}/${system_name}" -regextype posix-egrep -regex ".*\.(srm|auto|state.auto|fs|hi)$" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/" 2>/dev/null
+	       find "${ROMS_DIR}/${system_name}" -regextype posix-egrep -regex ".*\.(srm|auto|state.auto|fs|hi)$" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/" 2>/dev/null
       fi
+      # Move existing saves states to the master saves rom directory (except for Daphne)
       if [[ -d "${ROMS_DIR}/${system_name}/states" && -d "~/.config/retroarch/states" ]]; then
-	find "${ROMS_DIR}/${system_name}/states" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/states" 2>/dev/null 
-	find "~/.config/retroarch/states" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/states" 2>/dev/null
+	       find "${ROMS_DIR}/${system_name}/states" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/states" 2>/dev/null
+	        find "~/.config/retroarch/states" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/states" 2>/dev/null
       fi
 
   done
@@ -138,6 +137,8 @@ function apply {
 }
 
 function revert {
+  dialog --infobox "...Reverting Single Saves Directory..." 3 20	; sleep 1
+
   # Check for the existence of the saves directory
   if [ ! -d "$SAVES_DIR" ]; then
     echo "No save file directory. Exiting."
@@ -186,15 +187,14 @@ function revert {
       rm -Rf ${SAVES_DIR}/${system_name};
     fi
   done
- 
-  # Delete the saves directory
+
+  # Delete the saves directory if it exists
   if [ -d "${SAVES_DIR}" ]; then
      echo "Deleting the saves directory ${SAVES_DIR} ... "
      rm -Rf ${SAVES_DIR};
   fi
-  echo "done"
+  echo "[OK] Done!"
   exit 0
 }
 
 main_menu
-

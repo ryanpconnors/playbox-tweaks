@@ -12,10 +12,16 @@
 # and savestate files at ~/Retropie/saves/{system_name}/states                 #
 ################################################################################
 
-CONFIGS_DIR=/opt/retropie/configs
-CONFIG_FILENAME=retroarch.cfg
-SAVES_DIR=~/RetroPie/saves
-ROMS_DIR=~/RetroPie/roms
+#CONFIGS_DIR=/opt/retropie/configs
+#CONFIG_FILENAME=retroarch.cfg
+#SAVES_DIR=~/RetroPie/saves
+#ROMS_DIR=~/RetroPie/roms
+
+CONFIGS_DIR=TEST/configs
+CONFIG_FILENAME=test.txt
+SAVES_DIR=TEST/saves
+ROMS_DIR=TEST/roms
+
 
 SAVE_FILE_CONFIG="savefile_directory = \"~/RetroPie/saves"
 SAVE_STATE_CONFIG="savestate_directory = \"~/RetroPie/saves"
@@ -61,8 +67,8 @@ function apply {
       system_name=${d##*/}
 
       # Skip over the `all` config
-      if [[ ${system_name} = 'all' ]]; then
-        echo "Skipping 'all' config"
+      if [[ ${system_name} == 'all' || ${system_name} == 'amiga'  ]]; then
+        echo "Skipping ${system_name}."
         continue
       fi
 
@@ -103,26 +109,31 @@ function apply {
         echo "[OK] Created save file directory ${SAVES_DIR}/${system_name}/states"
       fi
 
-      # Check if savefile config exists
-      if grep 'savefile_directory*' "${config_file}"; then
-        echo "Overwriting savefile config with '${SAVE_FILE_CONFIG}/${system_name}\"' in ${config_file} ..."
+      # Check if savefile & savestate config exists
+      if grep -E 'savefile_directory*|savestate_directory*' "${config_file}"; then
+        echo "Overwriting existing configs..."
         sed -i "s|savefile_directory.*|${SAVE_FILE_CONFIG}/${system_name}\"|" "${config_file}"
+	sed -i "s|savestate_directory.*|${SAVE_STATE_CONFIG}/${system_name}/states\"|" "${config_file}"
+      elif grep -E '#include "/opt/retropie/configs/all/retroarch.cfg"' "${config_file}"; then
+        echo "Writing save configs..."
+        sed -i "s|#include \"/opt/retropie/configs/all/retroarch.cfg\"|${SAVE_FILE_CONFIG}\n${SAVE_STATE_CONFIG}\n#include \"/opt/retropie/configs/all/retroarch.cfg\"|" "${config_file}"
       else
-        echo "Writing savefile config ${SAVE_FILE_CONFIG}/${system_name} in ${config_file}!"
-        echo "" >> "${config_file}"
+	echo "Writing save configs to the end of file."
         echo "${SAVE_FILE_CONFIG}/${system_name}\"" >> "${config_file}"
+	echo "${SAVE_STATE_CONFIG}/${system_name}/states\"" >> "${config_file}"
+      fi	  
+
+      # Move existing saves to the master saves rom directory (except for Daphne)
+      if [[ ${system_name} != 'daphne' && -d "${ROMS_DIR}/${system_name}" ]]; then
+	find "${ROMS_DIR}/${system_name}" -regextype posix-egrep -regex ".*\.(srm|auto|state.auto|fs|hi)$" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/" 2>/dev/null
+      fi
+      if [[ -d "${ROMS_DIR}/${system_name}/states" && -d "~/.config/retroarch/states" ]]; then
+	find "${ROMS_DIR}/${system_name}/states" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/states" 2>/dev/null 
+	find "~/.config/retroarch/states" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/states" 2>/dev/null
       fi
 
-      # Check if savestate config exists
-      if grep 'savestate_directory*' "${config_file}"; then
-        echo "Overwriting savestate config with '${SAVE_STATE_CONFIG}/${system_name}/states\"' in ${config_file} ..."
-        sed -i "s|savestate_directory.*|${SAVE_STATE_CONFIG}/${system_name}/states\"|" "${config_file}"
-      else
-        echo "Writing savestate config ${SAVE_STATE_CONFIG}/${system_name}/states\" in ${config_file}"
-        echo "${SAVE_STATE_CONFIG}/${system_name}/states\"" >> "${config_file}"
-      fi
   done
-  echo "done"
+  echo "done!"
   exit 0
 }
 

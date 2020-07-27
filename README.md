@@ -46,6 +46,7 @@ mkdir ~/runcommand-splash
 git clone https://github.com/ehettervik/es-runcommand-splash.git ~/runcommand-splash
 find ~/runcommand-splash -depth -name "*.png" -exec sh -c 'mv "$1" "${1%.png}.jpg"' _ {} \;
 cp -v -r ~/runcommand-splash/* /opt/retropie/configs/
+cp ~/runcommand-splash/megadrive/launching.jpg /opt/retropie/configs/genesis/launching.jpg
 ```
 
 ###### Slideshow/Screensaver Directory

@@ -35,26 +35,25 @@ export LS_COLORS="rs=0:di=01;34:ln=01;36:pi=40;33:so=01;35:do=01;35:bd=40;33;01:
 
 ###### Update the AdvanceMAME configs for 8BitDo SN30 Pro
   ```
-  mkdir ~/PlayBox-Tweaks && git clone https://github.com/ryanpconnors/playbox-tweaks.git ~/PlayBox-Tweaks/
-  rsync -rva ~/PlayBox-Tweaks/arcade/mame-advmame/playbox/*.rc /opt/retropie/configs/mame-advmame/
+  mkdir ~/playbox-tweaks && git clone https://github.com/ryanpconnors/playbox-tweaks.git ~/playbox-tweaks/
+  rsync -rva ~/playbox-Tweaks/arcade/mame-advmame/playbox/*.rc /opt/retropie/configs/mame-advmame/
   ```
 
 ###### Changing the runcommand launching images
 Clone the `es-runcommand-splash` repo and change all of the extensions to jpg and copy all the config dir:
 ```
-mkdir ~/SplashScreens
-git clone https://github.com/ehettervik/es-runcommand-splash.git ~/SplashScreens
-find ~/SplashScreens -depth -name "*.png" -exec sh -c 'mv "$1" "${1%.png}.jpg"' _ {} \;
-cp -v -r ~/SplashScreens/* /opt/retropie/configs/
+mkdir ~/runcommand-splash
+git clone https://github.com/ehettervik/es-runcommand-splash.git ~/runcommand-splash
+find ~/runcommand-splash -depth -name "*.png" -exec sh -c 'mv "$1" "${1%.png}.jpg"' _ {} \;
+cp -v -r ~/runcommand-splash/* /opt/retropie/configs/
+cp ~/runcommand-splash/megadrive/launching.jpg /opt/retropie/configs/genesis/launching.jpg
 ```
 
-###### Loading Splashscreens and Slideshow
-
-- Opening loading screen videos directory: `~/RetroPie/splashscreens`
+###### Slideshow/Screensaver Directory
 - Screensaver slideshow images directory: `~/.emulationstation/slideshow/image`
-
 ```
-#TODO
+rm -rf ~/.emulationstation/slideshow/image/
+cp ~/playbox/slideshow/image/ ~/.emulationstation/slideshow/image/
 ```
 
 ###### Setup USB Roms
@@ -68,7 +67,9 @@ cp -v -r ~/SplashScreens/* /opt/retropie/configs/
   ```
 - Note: Move music off of USB to `~/RetroPie/music` and tweak directory in `~/.livewire.py`
 ```
+rsync -av ~/RetroPie/music/ /home/pi/
 sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/music|g" /home/pi/.livewire.py
+sed -i "s|/home/pi/RetroPie/roms/music/|/home/pi/music/|g" /opt/retropie/configs/all/autostart.sh
 ```
 
 ###### MAME 2003 Plus

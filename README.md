@@ -61,7 +61,7 @@ cp ~/playbox/slideshow/image/ ~/.emulationstation/slideshow/image/
 - Following most of the directions here: https://retropie.org.uk/docs/Running-ROMs-from-a-USB-drive/
 1. Run `df` to confirm the USB drive file system. This is usually going to be `/dev/sda1`
 2. Run `ls -l /dev/disk/by-uuid/` to get the drive's UUID. ex. `7CEC-1114`
-3. Edit `fstab` and add the following entry (where `7CEC-1114`) is the drive's UUID
+3. Edit `/etc/fstab` and add the following entry (where `7CEC-1114`) is the drive's UUID
   ```
   UUID=7CEC-1114  /home/pi/RetroPie vfat  auto,nofail,rw,exec,uid=pi,gid=pi,umask=022 0 2
   ```

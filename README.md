@@ -63,7 +63,7 @@ cp ~/playbox/slideshow/image/ ~/.emulationstation/slideshow/image/
 2. Run `ls -l /dev/disk/by-uuid/` to get the drive's UUID. ex. `7CEC-1114`
 3. Edit `/etc/fstab` and add the following entry (where `7CEC-1114`) is the drive's UUID
   ```
-  UUID=B2E4755EE47525AF	/home/pi/RetroPie	ntfs-3g	auto,nofail,user,rw,exec,uid=pi,gid=pi,umask=0000	0	2
+  UUID=B2E4755EE47525AF	/home/pi/RetroPie	ntfs-3g	auto,nofail,user,rw,exec,uid=pi,gid=pi,umask=022	0	2
   ```
 - Note: Move music off of USB to `~/RetroPie/music` and tweak directory in `~/.livewire.py`
 ```

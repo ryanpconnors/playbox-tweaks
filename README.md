@@ -9,7 +9,7 @@
 
 ###### Install vim
 ```
-sudo apt-get install vim
+sudo apt-get install vim -y
 ```
 
 ###### Shell Colors

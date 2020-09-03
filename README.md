@@ -36,7 +36,7 @@ export LS_COLORS="rs=0:di=01;34:ln=01;36:pi=40;33:so=01;35:do=01;35:bd=40;33;01:
 ###### Update the AdvanceMAME configs for 8BitDo SN30 Pro
   ```
   mkdir ~/playbox-tweaks && git clone https://github.com/ryanpconnors/playbox-tweaks.git ~/playbox-tweaks/
-  rsync -rva ~/playbox-tweaks/arcade/mame-advmame/playbox/*.rc /opt/retropie/configs/mame-advmame/
+  rsync -rva ~/playbox-tweaks/arcade/*.rc /opt/retropie/configs/mame-advmame/
   ```
 
 ###### Changing the runcommand launching images

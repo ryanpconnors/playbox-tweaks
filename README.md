@@ -53,7 +53,7 @@ cp ~/runcommand-splash/megadrive/launching.jpg /opt/retropie/configs/genesis/lau
 - Screensaver slideshow images directory: `~/.emulationstation/slideshow/image`
 ```
 rm -rf ~/.emulationstation/slideshow/image/
-cp ~/playbox/slideshow/image/ ~/.emulationstation/slideshow/image/
+cp ~/playbox-tweaks/slideshow/image/ ~/.emulationstation/slideshow/image/
 ```
 
 ###### Setup USB Roms

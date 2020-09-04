@@ -67,9 +67,9 @@ cp ~/playbox/slideshow/image/ ~/.emulationstation/slideshow/image/
   ```
 - Note: Move music off of USB to `~/RetroPie/music` and tweak directory in `~/.livewire.py`
 ```
-rsync -av ~/RetroPie/music /home/pi/music
-sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/music|g" /home/pi/.livewire.py
-sed -i "s|/home/pi/RetroPie/roms/music/|/home/pi/music/|g" /opt/retropie/configs/all/autostart.sh
+rsync -av ~/RetroPie/music /home/pi/Music
+sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/Music|g" /home/pi/.livewire.py
+sed -i "s|/home/pi/RetroPie/roms/music/|/home/pi/Music/|g" /opt/retropie/configs/all/autostart.sh
 ```
 
 ###### MAME 2003 Plus

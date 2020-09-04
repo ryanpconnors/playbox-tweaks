@@ -57,8 +57,6 @@ cp ~/playbox-tweaks/slideshow/image/ ~/.emulationstation/slideshow/image/
 ```
 
 ###### Setup USB Roms
-- Doing my own custom setup here after looking at https://discordapp.com/channels/423557415271661569/700046889046900856/728664433534042132. A couple of questions remain for me as far as the editing of the `gamelist.xml` files, and the decision to create `addonusb`, `combined_drives` directories as opposed to just mounting the USB drive at `~/RetroPie`
-- Following most of the directions here: https://retropie.org.uk/docs/Running-ROMs-from-a-USB-drive/
 1. Run `df` to confirm the USB drive file system. This is usually going to be `/dev/sda1`
 2. Run `ls -l /dev/disk/by-uuid/` to get the drive's UUID. ex. `7CEC-1114`
 3. Edit `/etc/fstab` and add the following entry (where `7CEC-1114`) is the drive's UUID

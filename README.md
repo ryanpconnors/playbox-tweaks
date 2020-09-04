@@ -69,7 +69,6 @@ cp ~/playbox/slideshow/image/ ~/.emulationstation/slideshow/image/
 ```
 rsync -av ~/RetroPie/music /home/pi/Music
 sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/Music|g" /home/pi/.livewire.py
-sed -i "s|/home/pi/RetroPie/roms/music/|/home/pi/Music/|g" /opt/retropie/configs/all/autostart.sh
 ```
 
 ###### MAME 2003 Plus

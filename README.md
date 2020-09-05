@@ -53,6 +53,23 @@ rm -rf ~/.emulationstation/slideshow/image/
 cp ~/playbox-tweaks/slideshow/image/ ~/.emulationstation/slideshow/image/
 ```
 
+###### MAME 2003 Plus
+- Enable input mapping and D-pad for MAME 2003 Plus
+- Replace all roms using `lr-mame2003` to use `lr-mame2003-plus`
+```
+sed -i 's|mame2003-plus_mame_remapping = "disabled"|mame2003-plus_mame_remapping = "enabled"|g' /opt/retropie/configs/all/retroarch-core-options.cfg
+sed -i 's|mame2003-plus_analog = "analog"|mame2003-plus_analog = "digital"|g' /opt/retropie/configs/all/retroarch-core-options.cfg
+sed -i 's|"lr-mame2003"|"lr-mame2003-plus"|g' /opt/retropie/configs/all/emulators.cfg
+```
+
+###### Background Music Fix
+- If you find that a when launching a particular emulator that the menu background music continues to play, you will have to add it the the `emulators` list in `~/.livewire.py`
+
+###### Disable RetroArch On-Screen Notifications
+```
+sed -i 's|menu_show_load_content = "true"|menu_show_load_content = "false"|g' /opt/retropie/configs/all/retroarch.cfg
+```
+
 ###### Setup USB Roms
 1. Run `df` to confirm the USB drive file system. This is usually going to be `/dev/sda1`
 2. Run `ls -l /dev/disk/by-uuid/` to get the drive's UUID. ex. `7CEC-1114`
@@ -65,15 +82,3 @@ cp ~/playbox-tweaks/slideshow/image/ ~/.emulationstation/slideshow/image/
 rsync -av ~/RetroPie/music /home/pi/Music
 sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/Music|g" /home/pi/.livewire.py
 ```
-
-###### MAME 2003 Plus
-- Enable input mapping and D-pad for MAME 2003 Plus
-- Replace all roms using `lr-mame2003` to use `lr-mame2003-plus`
-```
-sed -i 's|mame2003-plus_mame_remapping = "disabled"|mame2003-plus_mame_remapping = "enabled"|g' /opt/retropie/configs/all/retroarch-core-options.cfg
-sed -i 's|mame2003-plus_analog = "analog"|mame2003-plus_analog = "digital"|g' /opt/retropie/configs/all/retroarch-core-options.cfg
-sed -i 's|"lr-mame2003"|"lr-mame2003-plus"|g' /opt/retropie/configs/all/emulators.cfg
-```
-
-###### Background Music Fix
-- If you find that a when launching a particular emulator that the menu background music continues to play, you will have to add it the the `emulators` list in `~/.livewire.py`

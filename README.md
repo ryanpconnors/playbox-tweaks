@@ -67,7 +67,7 @@ sed -i 's|"lr-mame2003"|"lr-mame2003-plus"|g' /opt/retropie/configs/all/emulator
 
 ###### Disable RetroArch On-Screen Notifications
 ```
-sed -i 's|menu_show_load_content = "true"|menu_show_load_content = "false"|g' /opt/retropie/configs/all/retroarch.cfg
+sed -i 's|menu_show_load_content = "true"|menu_show_load_content = "false"\nmenu_show_load_content_animation = "false"|g' /opt/retropie/configs/all/retroarch.cfg
 ```
 
 ###### Setup USB Roms

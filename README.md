@@ -82,3 +82,8 @@ sed -i 's|menu_show_load_content = "true"|menu_show_load_content = "false"\nmenu
 rsync -av ~/RetroPie/music /home/pi/Music
 sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/Music|g" /home/pi/.livewire.py
 ```
+
+# Remove N64 Custom Textures
+```
+rm -rf ~/.local/share/mupen64plus/hires_texture/*
+```

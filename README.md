@@ -95,3 +95,51 @@ rm -rf ~/.local/share/mupen64plus/hires_texture/*
 sed -i '5 i input_player1_r_y_minus_axis = "+3"' /opt/retropie/configs/ports/quake/retroarch.cfg
 sed -i '6 i input_player1_r_y_plus_axis = "-3"' /opt/retropie/configs/ports/quake/retroarch.cfg
 
+# Updating RetroPie
+Run the following while EmulationStation is shutdown:
+```
+sudo apt-get update -y && sudo apt-get dist-upgrade -y && sudo apt-get autoremove --purge && sudo apt-get clean
+```
+
+Reboot and with the external hard drive unplugged and run:
+```
+sudo ~/RetroPie-Setup/retropie_setup.sh
+```
+Select "Update RetroPie-Setup script" from the RetroPie-Setup menu
+
+Once the update is complete, select "(P) Manage Packages > (C) Manage core packages > (U) Update all installed core packages" (this will upgrade retroarch, emulationstation, retropiemenu, runcommand)
+
+Remove extraneous directories:
+```
+rm -rf ~/RetroPie/BIOS ~/RetroPie/roms ~/RetroPie/splashscreens
+```
+
+Rename the new RetroPie directory:
+```
+mv ~/RetroPie ~/RetroPie-NEW
+```
+
+Shutdown, plug in the external hardrive and reboot.
+```
+mv -f ~/RetroPie-NEW/retropiemenu/raspiconfig.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu
+mv -f ~/RetroPie-NEW/retropiemenu/rpsetup.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu
+mv -f ~/RetroPie-NEW/retropiemenu/configedit.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation
+mv -f ~/RetroPie-NEW/retropiemenu/retroarch.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation
+mv -f ~/RetroPie-NEW/retropiemenu/retronetplay.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/Emulation
+mv -f ~/RetroPie-NEW/retropiemenu/bluetooth.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/Network
+mv -f ~/RetroPie-NEW/retropiemenu/showip.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/Network
+mv -f ~/RetroPie-NEW/retropiemenu/wifi.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/Network
+mv -f ~/RetroPie-NEW/retropiemenu/audiosettings.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/System
+mv -f ~/RetroPie-NEW/retropiemenu/filemanager.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/System
+mv -f ~/RetroPie-NEW/retropiemenu/runcommand.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/System
+mv -f ~/RetroPie-NEW/retropiemenu/esthemes.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
+mv -f ~/RetroPie-NEW/retropiemenu/splashscreen.rp ~/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
+mv -f ~/RetroPie-NEW/retropiemenu/hurstythemes.sh ~/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
+mv -f ~/RetroPie-NEW/retropiemenu/bezelproject.sh ~/RetroPie/extras+/.pb-fixes/retropiemenu/Visuals
+rsync -avh --delete $HOME/RetroPie/extras+/.pb-fixes/retropiemenu/ $HOME/RetroPie/retropiemenu
+find $HOME -name "*.rp" ! -name "raspiconfig.rp" ! -name "rpsetup.rp" ! -path "/home/pi/RetroPie/roms/*" | xargs sudo chown root:root
+cp $HOME/RetroPie/extras+/.pb-fixes/retropie-gml/gamelist2play.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml
+sudo rm -rf /etc/emulationstation/themes/carbon/
+rm -rf ~/RetroPie-NEW
+```
+Finally, Run the V-Man updates script

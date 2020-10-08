@@ -92,8 +92,10 @@ rm -rf ~/.local/share/mupen64plus/hires_texture/*
 ```
 
 # Fix for Quake controls
+```
 sed -i '5 i input_player1_r_y_minus_axis = "+3"' /opt/retropie/configs/ports/quake/retroarch.cfg
 sed -i '6 i input_player1_r_y_plus_axis = "-3"' /opt/retropie/configs/ports/quake/retroarch.cfg
+```
 
 # Updating RetroPie
 Run the following while EmulationStation is shutdown:

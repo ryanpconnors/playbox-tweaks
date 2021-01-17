@@ -98,6 +98,9 @@ sed -i '6 i input_player1_r_y_plus_axis = "-3"' /opt/retropie/configs/ports/quak
 ```
 
 # Updating RetroPie
+
+If you want to update the firmware, check [HERE](https://www.raspberrypi.org/documentation/hardware/raspberrypi/booteeprom.md)
+
 Run the following while EmulationStation is shutdown:
 ```
 sudo apt-get update -y && sudo apt-get dist-upgrade -y && sudo apt-get autoremove --purge && sudo apt-get clean

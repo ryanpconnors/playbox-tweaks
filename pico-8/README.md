@@ -1,12 +1,11 @@
-1. Create roms directory
-`mkdir ~/RetroPie/roms/pico8`
-Extract roms and gamelist to `~/RetroPie/roms/pico8`
+1. Create roms directory `mkdir ~/RetroPie/roms/pico8`
+and Extract roms/carts and gamelist to `~/RetroPie/roms/pico8`
 
-2. Add PICO-8 Emulator
-`mkdir /opt/retropie/emulators/pico8`
-Extract pico-8.zip to `/opt/retropie/emulators/pico8`
+2. Add PICO-8 to emulators `mkdir /opt/retropie/emulators/pico8`
 
-Open permissions for files in `/opt/retropie/emulators/pico8`
+3. Extract pico-8 zip to `/opt/retropie/emulators/pico8`
+
+3. Open permissions for files in `/opt/retropie/emulators/pico8`
 `chmod 755 *.*` 
 
 3. Create RetroPie configs:

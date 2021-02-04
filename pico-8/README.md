@@ -3,26 +3,26 @@ and Extract roms/carts and gamelist to `~/RetroPie/roms/pico8`
 
 2. Add PICO-8 to emulators `mkdir /opt/retropie/emulators/pico8`
 
-3. Extract pico-8 zip to `/opt/retropie/emulators/pico8`
+3. Extract pico-8 zip to `/opt/retropie/emulators/pico-8`
 
-3. Open permissions for files in `/opt/retropie/emulators/pico8`
+3. Open permissions for files in `/opt/retropie/emulators/pico-8`
 `chmod 755 *.*` 
 
 3. Create RetroPie configs:
-`mkdir /opt/retropie/configs/pico8`
-Copy `emulators.cfg` and `launching.jpg` to `/opt/retropie/configs/pico8/`
+`mkdir /opt/retropie/configs/pico-8`
+Copy `emulators.cfg` and `launching.jpg` to `/opt/retropie/configs/pico-8/`
 
 1. Add PICO-8 to Emulation Station
 Add to `/etc/emulationstation/es_systems.cfg`
 `
   <system>
-    <name>pico8</name>
+    <name>pico-8</name>
     <fullname>PICO-8</fullname>
-    <path>/home/pi/RetroPie/roms/pico8</path>
+    <path>/home/pi/RetroPie/roms/pico-8</path>
     <extension>.sh .SH .p8 .P8 .png .PNG</extension>
-    <command>/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ pico8 %ROM%</command>
-    <platform>pico8</platform>
-    <theme>pico8</theme>
+    <command>/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ pico-8 %ROM%</command>
+    <platform>pico-8</platform>
+    <theme>pico-8</theme>
   </system>
 `
 

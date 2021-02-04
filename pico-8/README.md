@@ -14,7 +14,7 @@ Copy `emulators.cfg` and `launching.jpg` to `/opt/retropie/configs/pico-8/`
 
 1. Add PICO-8 to Emulation Station
 Add to `/etc/emulationstation/es_systems.cfg`
-`
+```
   <system>
     <name>pico-8</name>
     <fullname>PICO-8</fullname>
@@ -24,7 +24,7 @@ Add to `/etc/emulationstation/es_systems.cfg`
     <platform>pico-8</platform>
     <theme>pico-8</theme>
   </system>
-`
+```
 
 5. Add PICO-8 to the Emulation Station theme:
     https://www.lexaloffle.com/bbs/?tid=3935

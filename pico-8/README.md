@@ -1,7 +1,7 @@
-1. Create roms directory `mkdir ~/RetroPie/roms/pico8`
-and Extract roms/carts and gamelist to `~/RetroPie/roms/pico8`
+1. Create roms directory `mkdir ~/RetroPie/roms/pico-8`
+and Extract roms/carts and gamelist to `~/RetroPie/roms/pico-8`
 
-2. Add PICO-8 to emulators `mkdir /opt/retropie/emulators/pico8`
+2. Add PICO-8 to emulators `mkdir /opt/retropie/emulators/pico-8`
 
 3. Extract pico-8 zip to `/opt/retropie/emulators/pico-8`
 

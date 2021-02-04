@@ -32,3 +32,5 @@ Add to `/etc/emulationstation/es_systems.cfg`
     Note: here is my own branch of the Pixel theme with PICO-8 added: https://github.com/ryanpconnors/es-theme-pixel/tree/pico8
 
 6. If this is for the Retroflag GPi and the controller mappings are not working, this is a handy tutorial for setting up the SDL2 controller map: https://retropie.org.uk/forum/topic/15577/ppsspp-controller-setup-guide-for-when-nothing-else-works/2 
+
+example `~/.lexaloffle/pico-8/sdl_controllers.txt` for GPi: `030000005e0400008e02000014010000,Microsoft X-Box 360 pad,platform:Linux,a:b1,b:b0,x:b3,y:b2,back:b8,start:b9,leftshoulder:b4,rightshoulder:b5,dpup:-a1,dpdown:+a1,dpleft:-a0,dpright:+a0,`

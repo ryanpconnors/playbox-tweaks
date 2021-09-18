@@ -13,10 +13,4 @@ Retroarch seems to have some issue saving the mapping for the lightgun trigger. 
 You will also want to save the core settings per the rom. Go to `Quick Menu > Options > Save Game Options file`. This will create a new file in `/opt/retropie/configs/all/retroarch/config/${core_name}`  called `{rom_name}.opt`.
 
 There are some other input configuration values that might come in handy in the future:
-```
-input_player1_gun_trigger_mbtn = "2"
-input_player1_gun_offscreen_shot_mbtn = "nul"
-input_player1_gun_aux_a = "nul"
-input_player1_gun_aux_a_mbtn = "1"
-input_player1_gun_aux_b = "space"
-```
+https://github.com/clockworkpi/GameShellDocs/blob/master/retroarch.cfg#L765-L808

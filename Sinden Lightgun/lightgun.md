@@ -14,3 +14,23 @@ You will also want to save the core settings per the rom. Go to `Quick Menu > Op
 
 There are some other input configuration values that might come in handy in the future:
 https://github.com/clockworkpi/GameShellDocs/blob/master/retroarch.cfg#L765-L808
+
+
+SNES Super Scope Setup
+
+Super Scope old works with Sinden Lightgun in SNES9x and NOT SNES9x 2010. So any rom that you will want to configure to use the Super Scope will have to be opened with SNES9x. So add this entry to the bottom of `/opt/retropie/configs/all/emulators.cfg`:
+
+```
+snes_BattleClashUSA = "lr-snes9x"
+snes_BazookaBlitzkriegUSA = "lr-snes9x"
+snes_HuntforRedOctoberTheUSA = "lr-snes9x"
+snes_LamborghiniAmericanChallengeUSA = "lr-snes9x"
+snes_Lemmings2TheTribesUSA = "lr-snes9x"
+snes_MetalCombatFalconsRevengeUSA = "lr-snes9x"
+snes_OperationThunderboltUSA = "lr-snes9x"
+snes_SuperScope6USA = "lr-snes9x"
+snes_T2TheArcadeGameUSA = "lr-snes9x"
+snes_TinStarUSA = "lr-snes9x"
+snes_XZoneJapanUSA = "lr-snes9x"
+snes_YoshisSafariUSA = "lr-snes9x"
+```

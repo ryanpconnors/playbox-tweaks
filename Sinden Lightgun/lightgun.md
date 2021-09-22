@@ -3,6 +3,60 @@
 First off you'll want to go and follow all of the instructions here:
 https://sindenlightgun.miraheze.org/wiki/Raspberry_Pi_Setup_Guide
 
+## RetroPie Menu
+Let's move the Sinden Lightgun setup scripts over to a new folder in the RetroPie menu.
+```
+mkdir ~/RetroPie/retropiemenu/SindenLightgun
+cp ~/RetroPie/roms/ports/SindenLightgun*.sh ~/RetroPie/retropiemenu/SindenLightgun
+rm ~/RetroPie/roms/ports/SindenLightgun*.sh
+```
+
+Add the following entries to `/opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml`
+```
+<folder>
+		<path>./SindenLightgun</path>
+		<name>: Sinden Lightgun</name>
+		<desc>Configure Sinden Lightgun(s)</desc>
+		<image>./icons/sinden-lightgun.png</image>
+	</folder>
+    <game>
+		<path>./SindenLightgun/SindenLightgunStartP1.s</path>
+		<name>Start Player 1</name>
+		<desc>Start Sinden Lightgun Player 1</desc>
+		<image>./icons/sinden-lightgun.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20210919T234521</lastplayed>
+	</game>
+    <game>
+		<path>./SindenLightgun/SindenLightgunStartP2.s</path>
+		<name>Start Player 2</name>
+		<desc>Start Sinden Lightgun Player 2</desc>
+		<image>./icons/sinden-lightgun.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20210919T234521</lastplayed>
+	</game>
+    <game>
+		<path>./SindenLightgun/SindenLightgunTestP1.s</path>
+		<name>Test Player 1</name>
+		<desc>Test Sinden Lightgun Player 1</desc>
+		<image>./icons/sinden-lightgun.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20210919T234521</lastplayed>
+	</game>
+    <game>
+		<path>./SindenLightgun/SindenLightgunTestP2.s</path>
+		<name>Test Player 2</name>
+		<desc>Test Sinden Lightgun Player 2</desc>
+		<image>./icons/sinden-lightgun.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20210919T234521</lastplayed>
+	</game>
+```
+
+Be sure to add an image at `~/RetroPie/retropiemenu/icons/sinden-lightgun.png`
+
+## RetroArch
+
 When setting up the lightgun in Retroarch, you'll want to save the config overrides for the rom itself after changing the overlay and configuring the lightgun.
 
 To override the configs for the rom, go to `Quick Menu > Overrides > Save Game Overrides`.

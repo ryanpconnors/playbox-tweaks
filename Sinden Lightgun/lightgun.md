@@ -11,6 +11,7 @@ cp ~/RetroPie/roms/ports/SindenLightgun*.sh ~/RetroPie/retropiemenu/SindenLightg
 cp ~/RetroPie/roms/ports/StopSindenLightgun(s).sh ~/RetroPie/retropiemenu/SindenLightgun
 rm ~/RetroPie/roms/ports/SindenLightgun*.sh
 rm ~/RetroPie/roms/ports/StopSindenLightgun(s).sh
+mv ~/RetroPie/roms/ports/StopSindenLightgun(s).sh ~/RetroPie/roms/ports/StopSindenLightguns.sh
 ```
 
 Add the following entries to `/opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml`

@@ -8,45 +8,55 @@ Let's move the Sinden Lightgun setup scripts over to a new folder in the RetroPi
 ```
 mkdir ~/RetroPie/retropiemenu/SindenLightgun
 cp ~/RetroPie/roms/ports/SindenLightgun*.sh ~/RetroPie/retropiemenu/SindenLightgun
+cp ~/RetroPie/roms/ports/StopSindenLightgun(s).sh ~/RetroPie/retropiemenu/SindenLightgun
 rm ~/RetroPie/roms/ports/SindenLightgun*.sh
+rm ~/RetroPie/roms/ports/StopSindenLightgun(s).sh
 ```
 
 Add the following entries to `/opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml`
 ```
-<folder>
+    	<folder>
 		<path>./SindenLightgun</path>
 		<name>: Sinden Lightgun</name>
 		<desc>Configure Sinden Lightgun(s)</desc>
 		<image>./icons/sinden-lightgun.png</image>
 	</folder>
-    <game>
-		<path>./SindenLightgun/SindenLightgunStartP1.s</path>
+    	<game>
+		<path>./SindenLightgun/SindenLightgunStartP1.sh</path>
 		<name>Start Player 1</name>
 		<desc>Start Sinden Lightgun Player 1</desc>
 		<image>./icons/sinden-lightgun.png</image>
 		<playcount>2</playcount>
 		<lastplayed>20210919T234521</lastplayed>
-	</game>
-    <game>
-		<path>./SindenLightgun/SindenLightgunStartP2.s</path>
+    	</game>
+    	<game>
+		<path>./SindenLightgun/SindenLightgunStartP2.sh</path>
 		<name>Start Player 2</name>
 		<desc>Start Sinden Lightgun Player 2</desc>
 		<image>./icons/sinden-lightgun.png</image>
 		<playcount>2</playcount>
 		<lastplayed>20210919T234521</lastplayed>
-	</game>
-    <game>
-		<path>./SindenLightgun/SindenLightgunTestP1.s</path>
+    	</game>
+    	<game>
+		<path>./SindenLightgun/SindenLightgunTestP1.sh</path>
 		<name>Test Player 1</name>
 		<desc>Test Sinden Lightgun Player 1</desc>
 		<image>./icons/sinden-lightgun.png</image>
 		<playcount>2</playcount>
 		<lastplayed>20210919T234521</lastplayed>
 	</game>
-    <game>
-		<path>./SindenLightgun/SindenLightgunTestP2.s</path>
+    	<game>
+		<path>./SindenLightgun/SindenLightgunTestP2.sh</path>
 		<name>Test Player 2</name>
 		<desc>Test Sinden Lightgun Player 2</desc>
+		<image>./icons/sinden-lightgun.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20210919T234521</lastplayed>
+	</game>
+	<game>
+		<path>./StopSindenLightgun(s).sh</path>
+		<name>Stop Sinden Lightgun(s)</name>
+		<desc>Stop all running Sinden Lightguns</desc>
 		<image>./icons/sinden-lightgun.png</image>
 		<playcount>2</playcount>
 		<lastplayed>20210919T234521</lastplayed>

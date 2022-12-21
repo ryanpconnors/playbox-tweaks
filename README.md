@@ -86,6 +86,9 @@ rsync -av ~/RetroPie/music /home/pi/Music
 sed -i "s|/home/pi/RetroPie/roms/music|/home/pi/Music|g" /home/pi/.livewire.py
 ```
 
+##### Setup NAS hHsted Roms
+https://retropie.org.uk/docs/Running-ROMs-from-a-Network-Share/
+
 # Remove N64 Custom Textures
 ```
 rm -rf ~/.local/share/mupen64plus/hires_texture/*

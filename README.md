@@ -1,6 +1,12 @@
 
 # PlayBox Tweaks
 
+Credentials
+```
+username: pi@playbox
+password: PlayBox
+```
+
 ###### Setup SSH key on local machine for password-less SSH
   ```
   ssh-keygen -t rsa -b 2048
